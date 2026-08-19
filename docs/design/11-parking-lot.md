@@ -7,7 +7,6 @@ exists so open threads don't get lost.
 - Which of Rose's five figures (Gardener, Child, Florist, Wolf, Snake) are purely symbolic vs. tied to real NPC
   lineages, and Rose's present-day status (fully past vs. a possible lingering spirit).
 - Specific NPC-given tutorial items, to be designed alongside the Interactive NPC roster.
-- Exact respec mechanism — wandering NPC, buildable Shrine, or both.
 - Exact enchantment slot counts per rarity tier (principle is set: higher rarity = more slots).
 - Whether enchantments can ever be removed or swapped once applied.
 - Dungeon enemy/difficulty scaling curve, aligned to the loot-loss brackets.

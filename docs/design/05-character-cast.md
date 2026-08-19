@@ -8,6 +8,11 @@
 | Lore-Referenced Characters | Mentioned in books, dialogue, cutscenes, or environmental storytelling, but never met directly. No relationship meter. Cheap, high-impact worldbuilding depth. Delivered via sequential environmental discovery chains that unlock fixed-order cutscenes (see Rose, 6.4). |
 | Companions | See Section 5. Have their own lore even though mechanically distinct from Interactive NPCs. |
 
+**Named but not yet templated:** Wren, the wandering Peddler tied to the single-tree respec mechanic (see
+[02-skill-trees.md, 3.4](02-skill-trees.md)). She's a strong Interactive NPC candidate — a wandering-schedule
+role naturally supports a personal questline — but her full template (personality, gift preferences, romanceable
+status, etc.) is deferred to the roster pass.
+
 ## 6.2 Interactive NPC Template
 
 | Field | Purpose |

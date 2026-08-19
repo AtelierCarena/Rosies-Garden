@@ -41,9 +41,20 @@ flavorfully distinct:
   require both Arcane points AND a built Forge structure).
 - **Capstones stay permanent identity markers** even in a fully-maxed late game — since everything else is
   eventually reachable, which capstone a player picked per tree is what still defines their build.
-- **Respec** is location/NPC-gated rather than free or unlimited. Exact mechanism TBD — candidates include a
-  recurring wandering NPC (narrative hook) and/or a buildable "Respec Shrine" (ties into the building loop); possibly
-  both, unlocked at different points. See Parking Lot.
+- **Respec** is location/NPC-gated rather than free or unlimited, via two complementary sources that unlock at
+  different points and serve different moments in the game:
+
+  | | Wren (Wandering Peddler) | Respec Shrine |
+  |---|---|---|
+  | Available | Early game, no prerequisites | Buildable; gated behind an Arcane tier (it's framed as a ritual/magic act, not construction) |
+  | Scope | One tree at a time | All trees at once |
+  | Cost | Gold, scaling with points invested | A crafted resource sink, not gold — reinforces it as a deliberate decision |
+  | Frequency | Wren only visits every so many in-game days, and caps how many respecs she'll do per visit | Player-owned, so always available, but on a cooldown (e.g. once per season) |
+  | Capstones (Tier 10) | Cannot be respecced here | Can be respecced, but at a steep cost (or via a one-time special quest) — kept rare and deliberate, never a free swap, so a capstone still functions as the permanent identity marker described above |
+
+  Wren is the accessible, story-flavored early option — a narrative hook with room for her own personal questline
+  later. The Shrine is the mid/late-game convenience once a player has committed to the world and wants to
+  reorganize a build without waiting on her schedule.
 
 ## 3.5 Build-Early, Unlock-Later Structures
 Structures can be built any time the player has the resources, regardless of skill tier — there is no hard lock on
