@@ -3,7 +3,7 @@
 ## 1.1 Elevator Pitch
 An adorable, coquette-styled top-down adventure and building game blending cozy farming/social-sim systems with
 crafting depth, dungeon-crawling stakes, and shop-keeping economics — wrapped in a soft, romantic aesthetic. Players
-choose Solo, Split-Screen, or Internet multiplayer at save creation.
+choose Solo, Split-Screen, or LAN/Internet multiplayer at save creation.
 
 ## 1.2 Inspiration Map
 
@@ -28,10 +28,14 @@ Moonlighter instead: the player has a Hearts-based health system, and losing all
 | Mode | Description |
 |---|---|
 | Solo | Single player, single screen. |
-| Multiplayer — Split-Screen | Local multiplayer, up to 4 players, dynamic camera splitting. |
-| Multiplayer — Internet | Online co-op via netcode, up to 4 players. |
+| Multiplayer — Split-Screen | Local multiplayer, up to 4 players, dynamic camera splitting. **PC and Console only — not offered on mobile** (see 2.3). |
+| Multiplayer — LAN / Internet | Netcode-based co-op, up to 6 players, over a local network or the internet. The only options for a 5-6 player save file, since Split-Screen caps at 4. |
 
-Split-Screen and Internet play are deliberately kept as two separate, non-interchangeable setup-time configurations
-rather than one unified system — attempting to serve both with the same underlying netcode/rendering approach would
-compromise both. Each save file is tagged with its mode (solo / splitscreen / online) at creation and does not migrate
-between modes.
+The overall player cap is 6, but not every mode supports it: Split-Screen tops out at 4 players (and isn't available
+on mobile at all), while LAN and Internet support the full 6. A save file created for 5 or 6 players is LAN/Internet
+only — there's no split-screen fallback at that size.
+
+Split-Screen and LAN/Internet play are deliberately kept as two separate, non-interchangeable setup-time
+configurations rather than one unified system — attempting to serve both with the same underlying
+netcode/rendering approach would compromise both. Each save file is tagged with its mode (solo / splitscreen /
+lan / online) at creation and does not migrate between modes.

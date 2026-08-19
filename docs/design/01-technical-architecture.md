@@ -22,20 +22,25 @@ gameplay logic never needs to know whether it is running locally or online.
 | Mode | Implementation |
 |---|---|
 | Solo | Single local input, single camera, no network layer at all. |
-| Split-Screen | Multiple local inputs (gamepad-per-player recommended), multiple cameras rendering the same local game state. No netcode required — one machine, one save file. |
-| Online | Netcode layer (Netcode for GameObjects / Mirror) synchronizing state across machines, with a host or dedicated server as the authoritative source of truth. |
+| Split-Screen | Multiple local inputs (gamepad-per-player recommended), multiple cameras rendering the same local game state. No netcode required — one machine, one save file. PC/Console only, up to 4 players (see 2.3). |
+| LAN / Internet | Netcode layer (Netcode for GameObjects / Mirror) synchronizing state across machines, with a host or dedicated server as the authoritative source of truth. Up to 6 players. LAN and Internet share the same netcode layer and only differ in peer discovery/connection (local network discovery vs. relay/matchmaking over the internet). |
 
 **Design discipline:** gameplay systems are written once; split-screen vs. online is an input/camera/networking wrapper
 difference, not duplicated game logic.
 
 ## 2.3 Split-Screen Specifics
-- Up to 4 players. Camera dynamically splits based on player distance (similar to Rayman Legends / It Takes Two) —
-  players near each other share one zoomed viewport; players who separate trigger a live split into independent
-  viewports.
+- Up to 4 players, **PC and Console only — not offered on mobile at all.** A phone/tablet screen split between
+  multiple simultaneous local players (and their input, given most mobile play is touch-based) isn't a viable UX, so
+  rather than pick a reduced mobile cap, Split-Screen is simply excluded from the mobile platform's mode list.
+  Mobile players get Solo and LAN/Internet.
+- Camera dynamically splits based on player distance (similar to Rayman Legends / It Takes Two) — players near each
+  other share one zoomed viewport; players who separate trigger a live split into independent viewports.
 - Players roam independently; base/build locations are their own choice, not fixed to a shared camera.
-- Worst case (4-way split) is a quad-split viewport and roughly 4x the per-frame render cost of solo play. **Open flag:**
-  mobile may need a lower split-screen player cap (e.g. 2) given screen space and performance headroom — not yet
-  decided; see Parking Lot.
+- Worst case (4-way split) is a quad-split viewport and roughly 4x the per-frame render cost of solo play — budgeted
+  for PC/Console hardware, which is what makes the 4-player cap workable there without needing a mobile-specific
+  reduction.
+- The overall player cap across all modes is 6 (see 1.4), but Split-Screen itself caps at 4 — a save file created for
+  5 or 6 players is LAN/Internet only, with no split-screen option at that size.
 
 ## 2.4 Camera: Stardew Valley Style
 The main-world camera uses Stardew Valley's **fixed 3/4 overhead angle** — not a literal straight-down minimap view.
@@ -50,8 +55,8 @@ and especially Sun Haven (to be finalized once visual reference images are gathe
 - Each player can build their own individual base.
 - Chests can be shared or locked to their builder — supporting both cooperative and private inventory management.
   Data model: chest carries an `owner_id` and a `locked` flag with a UI toggle.
-- In Online mode, lock/unlock actions are server-authoritative (validated server-side) so a client cannot spoof access
-  to another player's locked chest. Solo and Split-Screen share local state directly.
+- In LAN/Internet mode, lock/unlock actions are server-authoritative (validated server-side) so a client cannot spoof
+  access to another player's locked chest. Solo and Split-Screen share local state directly.
 
 ## 2.6 Elevation and Terraforming: Animal Crossing Style
 World height uses **discrete tiers, not true voxel verticality**. A handful of stacked height layers (ground level, one
