@@ -37,11 +37,11 @@ difference, not duplicated game logic.
   mobile may need a lower split-screen player cap (e.g. 2) given screen space and performance headroom — not yet
   decided; see Parking Lot.
 
-## 2.4 Camera: Don't Starve Together Style
-The camera uses DST's fixed-angle pseudo-3D perspective: camera tilted down with slight depth to objects (trees,
-structures) rendered as flat, billboarded sprites — distinct from a true top-down (Stardew-style) or isometric
-(Moonlighter-style) view. Overall art style otherwise draws from Stardew Valley, Moonlighter, and especially Sun Haven
-(to be finalized once visual reference images are gathered).
+## 2.4 Camera: Stardew Valley / Sun Haven Style
+The main-world camera is a true top-down perspective in the Stardew Valley / Sun Haven mold — straight-down
+orthographic view, no tilt or pseudo-3D depth. Don't Starve Together is no longer a camera reference; its influence is
+now scoped strictly to item progression and machine-gated crafting (see 3.6). Overall art style otherwise draws from
+Stardew Valley, Moonlighter, and especially Sun Haven (to be finalized once visual reference images are gathered).
 
 ## 2.5 Spawning, Bases, and Chests
 - Multiplayer players spawn within a 50-block radius of one another.

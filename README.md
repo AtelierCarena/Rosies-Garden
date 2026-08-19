@@ -14,6 +14,10 @@ the living source of truth for what's being built and why.
 - `Assets/_Project/` — game-specific Unity assets (Scripts, Scenes, Prefabs, Art, Audio)
 - `Packages/manifest.json` — Unity package dependencies (URP, Tilemap, Input System, Netcode for GameObjects)
 
+## Prototype
+First vertical slice (movement + Stardew/Sun Haven-style top-down camera) is underway — see
+[`docs/PROTOTYPE.md`](docs/PROTOTYPE.md) for scope and Unity editor setup steps.
+
 ## Engine
 Unity (2022 LTS or newer recommended), Universal Render Pipeline, 2D Tilemap workflow. See
 [`docs/design/01-technical-architecture.md`](docs/design/01-technical-architecture.md) for the full rationale and the
