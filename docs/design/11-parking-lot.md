@@ -9,7 +9,6 @@ exists so open threads don't get lost.
 - Which Interactive NPCs are literal alters vs. ambient figures (per 7.1's "mixed" framing) — decided during the
   roster pass.
 - Specific NPC-given tutorial items, to be designed alongside the Interactive NPC roster.
-- Dungeon enemy/difficulty scaling curve, aligned to the loot-loss brackets.
 - The full Interactive NPC roster (paused deliberately to manage scope/pacing).
 - Character creation UI and the gender-presentation model specifics.
 - Beat-by-beat tutorial objective flow.
