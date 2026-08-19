@@ -75,11 +75,9 @@ how the key/gate/babydoll each quietly matched their own scene's content.
   figures tied to real Interactive NPCs or their ancestors — which is which is not yet assigned. Needs a tracking flag
   once the NPC roster exists.
 
-### Rose and Rosie — Proposed Connection (Unconfirmed)
-Whether Rose *is* Rosie's original/core self — the part holding the actual memory of her trauma — rather than a
-separate symbolic figure. See [06-storyline-structure.md, 7.1](06-storyline-structure.md) for the full proposal. Her
-discovery chain already reads as an origin-wound narrative, which is what makes this reading fit, but it's not locked
-until confirmed.
+### Rose and Rosie — Resolved
+"Rosie" is her childhood nickname. Rose is the core — the purest, most innocent version of her, from before the
+trauma happened. See [06-storyline-structure.md, 7.1](06-storyline-structure.md) for the full context.
 
 ### Rose's Present-Day Status — Resolved
 Rose is present, not purely past-tense. She rests beneath **The Trellis**, the 200+ depth bracket at the bottom of the

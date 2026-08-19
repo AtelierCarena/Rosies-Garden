@@ -35,12 +35,11 @@ a distinct role in how her mind protects her; others simply exist in the space u
 being a specific "part" of anything. Which is which per-NPC gets decided during the roster pass (see 6.1) — the
 Interactive NPC Template (6.2) should carry a field for this once that work starts.
 
-**Rose and Rosie — proposed connection (unconfirmed):** Rose is read as Rosie's original/core self — the part
-holding the actual memory of what happened, rather than a separate symbolic figure. Her discovery chain is the origin
-wound the rest of the mind space was built around; The Trellis, where she sleeps cocooned in roses and thorns (see
+**Rose and Rosie — confirmed:** "Rosie" is her childhood nickname. Rose is the core — the purest, most innocent
+version of her, from before the trauma happened. Her discovery chain is the origin wound the rest of the mind space
+was built around; The Trellis, where she sleeps cocooned in roses and thorns (see
 [10-dungeons-and-risk.md, 11.3](10-dungeons-and-risk.md)), is the most deeply protected place in her mind because
-it holds the most vulnerable, most guarded part of her. This connection is a proposal pending confirmation, not yet
-locked — see Parking Lot.
+it holds the most vulnerable, most guarded part of her — the part from before.
 
 **A note on handling this well:** this is real, sensitive subject matter. Worth treating with the same care other
 media that's handled dissociation/trauma respectfully has used (Celeste, Hellblade, Sea of Solitude are useful
