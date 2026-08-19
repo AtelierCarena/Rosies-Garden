@@ -15,7 +15,7 @@ marked TBD are open for revision; see [11-parking-lot.md](11-parking-lot.md) for
 | [07-item-system.md](07-item-system.md) | Rarity, gear vs. cosmetics, item categories |
 | [08-starting-experience.md](08-starting-experience.md) | Starting inventory, hand-craftables, map system, tutorial |
 | [09-combat-classes.md](09-combat-classes.md) | 9 starting classes, armor/clothing slot rules |
-| [10-dungeons-and-risk.md](10-dungeons-and-risk.md) | Knockout system, dungeon loot-loss brackets |
+| [10-dungeons-and-risk.md](10-dungeons-and-risk.md) | Knockout system, dungeon loot-loss brackets, bracket flavor naming (The Trellis, etc.) |
 | [11-parking-lot.md](11-parking-lot.md) | Open TBDs |
 
 Numbers (costs, percentages, thresholds) throughout are first-pass estimates meant to establish the right shape of a

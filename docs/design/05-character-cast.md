@@ -73,6 +73,11 @@ how the key/gate/babydoll each quietly matched their own scene's content.
 - The five figures in the final scene (Gardener, Child, Florist, Wolf, Snake) are a mix of purely symbolic figures and
   figures tied to real Interactive NPCs or their ancestors — which is which is not yet assigned. Needs a tracking flag
   once the NPC roster exists.
-- Rose's present-day status is undecided — her story may stay entirely in the past (discovery-only), or she may still
-  be present in some form (a ghost/spirit tied to the location) the player could eventually interact with. Flagged for
-  revisit once more of the world/cast exists.
+
+### Rose's Present-Day Status — Resolved
+Rose is present, not purely past-tense. She rests beneath **The Trellis**, the 200+ depth bracket at the bottom of the
+main dungeon (see [10-dungeons-and-risk.md, 11.3](10-dungeons-and-risk.md)) — cocooned and protected by beds of
+roses and thorns, weeping peacefully in eternal slumber. Her locket and diary are found there. She is not a roaming
+ghost/spirit the player interacts with directly; she's a fixed, sleeping presence at the heart of her own garden,
+discovered rather than engaged with — consistent with her category as a Lore-Referenced Character (no relationship
+meter, no direct interaction).
