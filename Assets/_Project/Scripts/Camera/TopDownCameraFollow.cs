@@ -3,10 +3,10 @@ using UnityEngine;
 namespace RosiesGarden.CameraSystem
 {
     /// <summary>
-    /// Straight-down orthographic follow camera for the main world — Stardew Valley / Sun Haven
-    /// style. No tilt, no depth billboarding (that DST-style treatment is retired; see
-    /// docs/design/01-technical-architecture.md, 2.4). Smoothly tracks a target and can be
-    /// clamped to world bounds once level geometry exists.
+    /// Orthographic follow camera for the main world — Stardew Valley's fixed 3/4 overhead angle
+    /// (see docs/design/01-technical-architecture.md, 2.4). The camera itself has no rotation/tilt;
+    /// the 3/4 look comes from billboarded sprite art, not camera geometry. Smoothly tracks a
+    /// target and can be clamped to world bounds once level geometry exists.
     /// </summary>
     public class TopDownCameraFollow : MonoBehaviour
     {

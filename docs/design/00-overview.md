@@ -9,8 +9,9 @@ choose Solo, Split-Screen, or Internet multiplayer at save creation.
 
 | Inspiration | Contributes |
 |---|---|
-| Stardew Valley | Farming loop, NPC relationships and gift-giving, daily/seasonal rhythm |
-| Minecraft | Freeform construction, resource gathering, building-driven creativity |
+| Stardew Valley | Farming loop, NPC relationships and gift-giving, daily/seasonal rhythm, and the fixed 3/4 camera angle (see 2.4) |
+| Minecraft | Freeform construction and building-driven creativity ONLY — not literal voxel/height verticality, see 2.6 |
+| Animal Crossing: New Horizons | Tiered terraforming — cliffs, ramps/stairs, waterfalls connecting discrete height layers (see 2.6) |
 | Sun Haven | Fantasy/magic layer, companions, overall art-style inspiration |
 | Moonlighter | Dungeon-crawling-for-profit loop, shop-keeping mechanics, art-style inspiration |
 | Don't Starve Together | Item progression and machine mechanics ONLY — the machine-unlocks-recipes crafting logic. Explicitly NOT survival mechanics, and NOT the camera — see 1.3. |
@@ -18,7 +19,7 @@ choose Solo, Split-Screen, or Internet multiplayer at save creation.
 ## 1.3 Important Correction: This Is Not a Survival Game
 Don't Starve Together's influence is strictly limited to its "build the machine to unlock the recipe tier" crafting logic.
 There are **no hunger, sanity, or survival meters**, and the camera is not DST-style either (see 2.4 — the main world
-uses a true top-down Stardew Valley / Sun Haven perspective). Core gameplay pulls from Stardew Valley and
+uses Stardew Valley's fixed 3/4 overhead perspective). Core gameplay pulls from Stardew Valley and
 Moonlighter instead: the player has a Hearts-based health system, and losing all hearts results in being
 **knocked out** and relocated to the Town Hospital or the player's Homestead — never a fail state or permanent death.
 

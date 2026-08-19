@@ -37,11 +37,13 @@ difference, not duplicated game logic.
   mobile may need a lower split-screen player cap (e.g. 2) given screen space and performance headroom — not yet
   decided; see Parking Lot.
 
-## 2.4 Camera: Stardew Valley / Sun Haven Style
-The main-world camera is a true top-down perspective in the Stardew Valley / Sun Haven mold — straight-down
-orthographic view, no tilt or pseudo-3D depth. Don't Starve Together is no longer a camera reference; its influence is
-now scoped strictly to item progression and machine-gated crafting (see 3.6). Overall art style otherwise draws from
-Stardew Valley, Moonlighter, and especially Sun Haven (to be finalized once visual reference images are gathered).
+## 2.4 Camera: Stardew Valley Style
+The main-world camera uses Stardew Valley's **fixed 3/4 overhead angle** — not a literal straight-down minimap view.
+Sprites (trees, buildings, the player) are billboarded flat 2D art drawn to show their "front faces" even though the
+camera is looking down at the world, which is what gives Stardew's world its sense of volume without any real camera
+tilt or 3D geometry. Don't Starve Together is no longer a camera reference; its influence is now scoped strictly to item
+progression and machine-gated crafting (see 3.6). Overall art style otherwise draws from Stardew Valley, Moonlighter,
+and especially Sun Haven (to be finalized once visual reference images are gathered).
 
 ## 2.5 Spawning, Bases, and Chests
 - Multiplayer players spawn within a 50-block radius of one another.
@@ -50,3 +52,16 @@ Stardew Valley, Moonlighter, and especially Sun Haven (to be finalized once visu
   Data model: chest carries an `owner_id` and a `locked` flag with a UI toggle.
 - In Online mode, lock/unlock actions are server-authoritative (validated server-side) so a client cannot spoof access
   to another player's locked chest. Solo and Split-Screen share local state directly.
+
+## 2.6 Elevation and Terraforming: Animal Crossing Style
+World height uses **discrete tiers, not true voxel verticality**. A handful of stacked height layers (ground level, one
+or two cliff tiers above, mine/dungeon floors below) connected by ramps, stairs, and waterfalls — the same technique
+Stardew Valley's own mine levels and Rune Factory already use on a 2D engine, and the model Animal Crossing: New
+Horizons uses for its cliff terraforming tool. The player can reshape a tier's edges (raise/lower cliff faces, place
+ramps, redirect water) but there's no free-form Y-axis stacking or digging straight down through arbitrary space.
+
+This is a deliberate scope cut from Minecraft's literal voxel verticality: true 3D block-stacking under a 2D-presented
+camera is a genuinely hard engineering problem (3D collision, lighting, chunk streaming) that isn't a good fit for this
+project. Minecraft's contribution to the design stays scoped to freeform build-anywhere placement and crafting-driven
+creativity (per 1.2) — the *feeling* of build freedom, delivered through terraforming tiers and unrestricted horizontal
+placement rather than infinite height.
