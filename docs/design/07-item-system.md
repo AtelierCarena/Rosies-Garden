@@ -7,9 +7,22 @@ value, and — for gear specifically — enchantment slot count.
 ## 8.2 Gear: Fixed Stats, Not RNG Rolls
 - Base stats are fixed per recipe/tier — e.g. every Tier 3 Forge sword has identical base stats. No randomized
   ARPG-style stat rolls.
-- **Enchantments** (Arcane-sourced): PERMANENT once applied. Slot count scales with item rarity, so higher rarity
-  means more build depth, not just bigger numbers. Whether enchants can later be removed/swapped is TBD — see
-  Parking Lot.
+- **Enchantments** (Arcane-sourced): PERMANENT once applied by default. Slot count scales with item rarity, so higher
+  rarity means more build depth, not just bigger numbers:
+
+  | Rarity | Enchant Slots |
+  |---|---|
+  | Common | 0 |
+  | Uncommon | 1 |
+  | Rare | 2 |
+  | Epic | 3 |
+  | Legendary | 4 |
+
+  Enchantments can be removed via **Disenchanting** at a high-tier Arcane structure (the Arcane Altar line, ~Tier 7-8 —
+  the same structure that unlocks portals and familiars). Disenchanting destroys the existing enchantment with no
+  material refund and clears the slot for a new one — a real cost, not a free respec, so applying an enchantment stays
+  a meaningful decision. This mirrors the "permanent unless you pay a steep, deliberate price" pattern used for
+  capstones and skill respec (see 02-skill-trees.md, 3.4).
 - **Alchemy** (Earth/Arcane crossover): TEMPORARY buffs requiring reapplication — oils, coatings, potions. Gives
   Alchemy a distinct identity from Enchanting (build identity vs. situational prep) and keeps Earth-tree farming relevant
   even in combat-heavy play.
