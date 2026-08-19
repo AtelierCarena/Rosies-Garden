@@ -11,7 +11,7 @@ marked TBD are open for revision; see [11-parking-lot.md](11-parking-lot.md) for
 | [03-npc-relationships.md](03-npc-relationships.md) | Relationship meter, interaction types, decay, event triggers |
 | [04-companions.md](04-companions.md) | Tamed vs. story-given companions |
 | [05-character-cast.md](05-character-cast.md) | NPC/companion/lore-referenced character templates, Rose worked example |
-| [06-storyline-structure.md](06-storyline-structure.md) | World Story vs. Player Story tracks |
+| [06-storyline-structure.md](06-storyline-structure.md) | World Story vs. Player Story tracks, the central twist (spoiler — dev reference only) |
 | [07-item-system.md](07-item-system.md) | Rarity, gear vs. cosmetics, item categories |
 | [08-starting-experience.md](08-starting-experience.md) | Starting inventory, hand-craftables, map system, tutorial |
 | [09-combat-classes.md](09-combat-classes.md) | 9 starting classes, armor/clothing slot rules |

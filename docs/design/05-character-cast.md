@@ -26,6 +26,7 @@ status, etc.) is deferred to the roster pass.
 | Companion connection | Do they gift, sell, or bond a companion to the player? |
 | Lore ancestry | Is this NPC connected to a Lore-Referenced figure (e.g. a descendant)? |
 | Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | Literal Alter / Ambient Figure / TBD — see [06-storyline-structure.md, 7.1](06-storyline-structure.md). Not uniform across the roster; decided per-NPC. Never player-facing. |
 
 ## 6.3 Companion and Lore-Referenced Character Templates
 
@@ -73,6 +74,12 @@ how the key/gate/babydoll each quietly matched their own scene's content.
 - The five figures in the final scene (Gardener, Child, Florist, Wolf, Snake) are a mix of purely symbolic figures and
   figures tied to real Interactive NPCs or their ancestors — which is which is not yet assigned. Needs a tracking flag
   once the NPC roster exists.
+
+### Rose and Rosie — Proposed Connection (Unconfirmed)
+Whether Rose *is* Rosie's original/core self — the part holding the actual memory of her trauma — rather than a
+separate symbolic figure. See [06-storyline-structure.md, 7.1](06-storyline-structure.md) for the full proposal. Her
+discovery chain already reads as an origin-wound narrative, which is what makes this reading fit, but it's not locked
+until confirmed.
 
 ### Rose's Present-Day Status — Resolved
 Rose is present, not purely past-tense. She rests beneath **The Trellis**, the 200+ depth bracket at the bottom of the
