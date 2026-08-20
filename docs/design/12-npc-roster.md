@@ -230,6 +230,59 @@ an actual voice in town rather than just a shop-menu category.
 
 ---
 
+### Magnolia — Mayor
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Magnolia — Town Hall, in town |
+| Personality traits | Dignified, warm authority — organizes festivals/events and genuinely listens rather than just presiding. Community glue. |
+| Romanceable? | No |
+| Personal questline | Minimal by design |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+---
+
+### Elm and Ivy — Town Founders
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Elm and Ivy — an old couple, likely near Town Hall or the oldest part of town |
+| Personality traits | Elm: quiet, dry humor, watchful. Ivy: warm, talkative, keeper of stories. Read together as a lifelong pair — already complete, not available to the player romantically. |
+| Romanceable? | No |
+| Personal questline | TBD — likely paired/shared rather than separate |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD — high priority once the World Story track is built out further; "founders" implies real lore weight |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+---
+
+### Reed — Fisherman
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Reed — the docks/riverside |
+| Personality traits | Easygoing, patient, comfortable with long silences. |
+| Romanceable? | No *(default — flag if you want this one romanceable instead)* |
+| Personal questline | Minimal by design |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Owns the Shared Activity of inviting an NPC to fish, already referenced in [03-npc-relationships.md, 4.3](03-npc-relationships.md).
+
+---
+
 ## 13.2 Romanceable / Central NPCs
 **Bases only for now — personal questlines, Confidant-tier reveals, World Story connections, and Companion
 connections are deliberately left TBD here.** These NPCs carry the full 6-tier Relationship Meter (4.2) and a
@@ -309,5 +362,83 @@ warning about what the dungeon actually costs.
 | Lore ancestry | TBD |
 | Visual notes | Placeholder pending visual inspiration pass |
 | Nature (spoiler field) | TBD |
+
+---
+
+### Linden — Town Doctor
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Linden — staffs the Town Hospital, in town |
+| Personality traits | Composed, competent, quietly steady under pressure — the person you trust in a crisis without needing convincing. |
+| Romanceable? | Yes |
+| Personal questline | TBD |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Fills the mechanical gap flagged earlier: the Town Hospital (1.3/11.1's knockout relocation point) had nobody
+staffing it until now.
+
+---
+
+### Marigold — Nurse
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Marigold — works alongside Linden at the Town Hospital, in town |
+| Personality traits | Warm, sunny, a little unsure of herself at first — determined rather than discouraged by it. |
+| Romanceable? | Yes |
+| Personal questline | TBD — *she "becomes" a Nurse over the course of the game rather than starting fully settled into the role; this growth is a flagged future questline direction, not designed yet* |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Paired with Linden at the Hospital — Linden already composed and settled into the role, Marigold still growing into
+hers. The contrast is intentional groundwork for later, not a plot beat being designed now.
+
+---
+
+### Saffron — Chef
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Saffron — a food stall, in town (separate from Hazel's Inn) |
+| Personality traits | Confident, playful, genuinely passionate about food — teases affectionately. |
+| Romanceable? | Yes |
+| Personal questline | TBD |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Ties into the Simple Cooking Pot (9.2) and Food consumables (9.1).
+
+---
+
+### Amber — Bartender
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Amber — a Tavern, in town (a separate venue from Hazel's Inn) |
+| Personality traits | Warm, an easy conversationalist, good listener — the "everyone's a regular" energy. |
+| Romanceable? | Yes |
+| Personal questline | TBD |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Given its own Tavern distinct from the Inn so Amber and Hazel aren't sharing a workplace/role.
 
 ---
