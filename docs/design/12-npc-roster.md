@@ -20,20 +20,106 @@ into the worst parts and does none of the work to explore the rest). Every entry
 warm, and dignified, even when a personality is prickly on the surface — never "the scary one," never spectacle for
 its own sake.
 
-**Proposed batch (names/details pending confirmation, except Briar below which is locked):**
-- **Marrow** — Village Blacksmith. A steady, grounded protector — keeps everyone's gear (and by extension,
-  everyone) safe and functional. Ties into the Forge/Craft tree.
-- **Thistle** — Herbalist/Apothecary. A caretaker; fussy in the best way, remembers everyone's comfort item, sells
-  potions and bandages.
-- **Pip** — The Dungeon Merchant. A crisis-responder, not a background-danger figure — sets up shop at bracket
-  transitions inside the dungeon (ties into 11.5's reward/fast-travel loop), steady specifically *because* things are
-  hard, not despite it.
-- **[Name TBD]** — Town Archivist/Librarian. A memory-holder; sells maps, books, and lore scrolls, and can tell the
-  player about a seasonal Wild Spawn before they've found it themselves (feeds the "informationally known" map flag
-  in 9.3).
-- **[Name TBD]** — no job at all. Pure companionship, present around town with no function to justify existing —
-  the direct answer to "some of us are just here to keep us company." Deserves a place in the roster without needing
-  to earn it mechanically.
+Six entries locked so far. Renaming may happen at any time — the direction is what's locked, names are easy to
+revisit.
+
+---
+
+### Marrow — Village Blacksmith
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Marrow — the Forge, in town |
+| Personality traits | Steady, grounded protector. Quietly watchful and unbothered rather than tough-guy posturing — keeps everyone's gear (and by extension, everyone) safe and functional. |
+| Romanceable? | No |
+| Personal questline | Minimal by design |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Ties into the Forge/Craft skill tree — likely point of sale for early Forge recipes/machines (see 3.7).
+
+---
+
+### Thistle — Herbalist / Apothecary
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Thistle — an apothecary shop, in town |
+| Personality traits | Caretaker. Fussy in the best way — remembers everyone's comfort item, worries out loud, sells potions and bandages. |
+| Romanceable? | No |
+| Personal questline | Minimal by design |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Ties into Earth/Growth and the Alchemy system (see 8.2) — likely point of sale for potions/oils/coatings.
+
+---
+
+### Pip — The Dungeon Merchant
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Pip — sets up shop inside the dungeon, at bracket transition points |
+| Personality traits | Crisis-responder, not a background-danger figure. Upbeat and bracing rather than grim — steady specifically *because* things are hard, not despite it. |
+| Romanceable? | No |
+| Personal questline | Minimal by design |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Ties into 11.5's boss-reward/fast-travel loop — Pip is a plausible point of sale/service once a bracket entrance is
+unlocked.
+
+---
+
+### Sage — Town Archivist / Librarian
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Sage — the Archive/Library, in town |
+| Personality traits | Memory-holder. Gentle, a little formal, deeply kind rather than eerie — holds pieces of information others don't have access to. |
+| Romanceable? | No |
+| Personal questline | Minimal by design |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Sells maps, books, and lore scrolls. Mechanically, Sage can tell the player about a seasonal Wild Spawn before
+they've physically found it — feeding the "informationally known" map flag from 9.3, and giving that mechanic an
+actual voice instead of a passive unlock.
+
+---
+
+### Clover — No Job
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Clover — present around town, no fixed post |
+| Personality traits | Pure companionship. Warm, low-stakes, simply present — the direct answer to "some of us are just here to keep us company." |
+| Romanceable? | No |
+| Personal questline | None — deliberately. Clover doesn't need to earn a place in the roster mechanically. |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+No shop, no system tie-in, no function to justify existing — that absence is the point.
 
 ---
 
