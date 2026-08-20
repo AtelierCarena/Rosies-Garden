@@ -1,7 +1,8 @@
 # 10. Combat Classes
 
-9 selectable starting Combat Classes. These determine starting weapon, clothing, and armor flavor — NOT a permanent
-build lock, since skill tree investment (Section 3) stays fully open regardless of class chosen.
+9 selectable starting Combat Classes. These determine starting weapon and functional Armor flavor — NOT a permanent
+build lock, since skill tree investment (Section 3) stays fully open regardless of class chosen. Visible cosmetic
+Clothing is chosen separately and freely at Character Creation (10.3), not dictated by class.
 
 ## 10.1 Roster
 
@@ -27,10 +28,28 @@ build lock, since skill tree investment (Section 3) stays fully open regardless 
 - Clothing is fully gender-unrestricted — any cosmetic item can be worn regardless of the player's chosen base
   model.
 
-## 10.3 Character Creation: Gender Presentation
-Players choose between male-presenting, female-presenting, and gender-neutral at character creation, independent of
-Combat Class. Gender choice affects ONLY the base player model — it never restricts which class, weapon, armor, or
-clothing is available.
+## 10.3 Character Creation Flow
+Four steps, in order:
+
+1. **Combat Class + Gender Presentation** — chosen together on the same screen: one of the 9 Combat Classes (10.1),
+   plus base body model (male-presenting / female-presenting / gender-neutral). Combat Class sets starting weapon
+   and functional Armor stats (10.4); gender presentation sets only the base body silhouette. Neither restricts the
+   other, and neither restricts anything chosen in the next step.
+2. **Appearance Selection** — every option here uses the same carousel widget: left/right arrows cycle through the
+   actual swatch/style preview on the portrait directly, no numeric slider or index number shown anywhere.
+   - Hair style
+   - Top
+   - Bottom (or combine Top + Bottom into a single Dress — cosmetic merge per 10.2)
+   - Accessory
+   - Traits — beard, mustache, mole placement, freckles, etc.
+   - Color selectors for skin, hair, top, and bottom (or the Dress, if combined)
+
+   This is the actual cosmetic Clothing layer the player sees in-game (10.2) — chosen freely from one shared
+   wardrobe pool, independent of Combat Class or gender (see 10.5). The class's default outfit in 10.4 describes the
+   functional Armor slot's flavor/lore; it isn't necessarily what's visually worn, since cosmetic Clothing always
+   displays over it once the player has made a choice here.
+3. **Name** — text field.
+4. **Confirm.**
 
 ## 10.4 Starting Weapon, Armor, and Clothing Chart (Draft)
 All entries are default/starting-tier only — final names, colors, and visual identity land once character art direction
@@ -62,3 +81,10 @@ begins.
 
 > Note: Armor slots (functional) exist for every class in all 6 categories per the rule in 10.2, even where the
 > Whip/Charm-user's cosmetic default visually merges Shirt+Pants into a dress.
+
+## 10.5 Cross-Class Cosmetic Restriction
+Cosmetic items are fully unrestricted across Combat Classes, matching the gender-unrestricted rule already set in
+10.2. Any hairstyle, top, bottom, dress, or accessory — whether from the Character Creation wardrobe (10.3) or
+earned later via shops, relationships, events, or achievements (8.4) — can be worn by any class. There's no
+mechanical reason to gate purely aesthetic items (8.3 — cosmetics never need power-balancing), and restricting them
+by class would just be one more rule for players to track for no gameplay payoff.

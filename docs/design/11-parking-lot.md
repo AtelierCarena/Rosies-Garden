@@ -10,7 +10,5 @@ exists so open threads don't get lost.
   roster pass.
 - Specific NPC-given tutorial items, to be designed alongside the Interactive NPC roster.
 - The full Interactive NPC roster (paused deliberately to manage scope/pacing).
-- Character creation UI and the gender-presentation model specifics.
 - Beat-by-beat tutorial objective flow.
-- Whether cosmetic items are cross-class-restricted at launch or fully unrestricted like gender.
 - Overall visual/art direction, pending gathered inspiration images.

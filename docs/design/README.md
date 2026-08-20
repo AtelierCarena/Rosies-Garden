@@ -14,7 +14,7 @@ marked TBD are open for revision; see [11-parking-lot.md](11-parking-lot.md) for
 | [06-storyline-structure.md](06-storyline-structure.md) | World Story vs. Player Story tracks, the central twist (spoiler — dev reference only) |
 | [07-item-system.md](07-item-system.md) | Rarity, gear vs. cosmetics, item categories |
 | [08-starting-experience.md](08-starting-experience.md) | Starting inventory, hand-craftables, map system, tutorial |
-| [09-combat-classes.md](09-combat-classes.md) | 9 starting classes, armor/clothing slot rules |
+| [09-combat-classes.md](09-combat-classes.md) | 9 starting classes, armor/clothing slot rules, Character Creation flow, cross-class cosmetics |
 | [10-dungeons-and-risk.md](10-dungeons-and-risk.md) | Knockout system, loot-loss brackets, enemy difficulty curve, mini-bosses/bosses, boss rewards and fast travel, bracket flavor naming (The Trellis, etc.) |
 | [11-parking-lot.md](11-parking-lot.md) | Open TBDs |
 
