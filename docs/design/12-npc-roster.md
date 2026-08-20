@@ -150,3 +150,82 @@ No shop, no system tie-in, no function to justify existing — that absence is t
    won't have to carry you home next time."*
 
 ---
+
+### Juniper — General Goods Merchant
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Juniper — the General Store, in town |
+| Personality traits | No-nonsense but warm trader. Capable, unflashy, keeps the basics running for everyone without making a show of it — the opposite of a greedy-merchant caricature. |
+| Romanceable? | No |
+| Personal questline | Minimal by design |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Point of sale for basic tools, seeds, and general supplies — the everyday commerce hub, ties loosely into Trade/Charm
+without being the Trade tree's own shop-stall system (that's the player's).
+
+---
+
+### Fern — Stablemaster / Rancher
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Fern — the Pen/Coop and, later, the Sanctuary structure |
+| Personality traits | Patient, calm, an animal-whisperer type who doesn't need many words. Steady presence rather than a chatty shopkeeper. |
+| Romanceable? | No |
+| Personal questline | Minimal by design |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | Plausible source for tamed companion guidance/feed — see Section 5 |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Ties into the Wild/Beast skill tree — sells Basic Feed, oversees the Pen/Coop and Sanctuary/Breeding Nest structures
+(see 3.7).
+
+---
+
+### Ember — Arcane Vendor
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Ember — the Arcane Workbench, in town |
+| Personality traits | Eccentric but approachable — delighted-nerd energy about magic rather than mysterious or sinister. Deliberately counters the "creepy occultist" trope. |
+| Romanceable? | No |
+| Personal questline | Minimal by design |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Ties into the Arcane skill tree — sells spell components/reagents, staffs the basic Arcane Workbench (see 3.7).
+
+---
+
+### Poppy — Tailor / Cosmetics Vendor
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Poppy — a dress shop, in town |
+| Personality traits | Playful and expressive — genuinely delights in helping people look how they want to look, no vanity-caricature undertone. |
+| Romanceable? | No |
+| Personal questline | Minimal by design |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Point of sale for cosmetic Clothing (see 8.3/8.4) — gives the "cosmetics as prestige reward, never power" philosophy
+an actual voice in town rather than just a shop-menu category.
+
+---
