@@ -19,6 +19,7 @@ marked TBD are open for revision; see [11-parking-lot.md](11-parking-lot.md) for
 | [12-npc-roster.md](12-npc-roster.md) | The Interactive NPC roster, built incrementally |
 | [14-plants-and-crops.md](14-plants-and-crops.md) | Season calendar, yearly crop rotation growth, farmed crops, wild-foraged plants, fish/bugs, trees/orchards, cross-breeding |
 | [15-regions-and-zones.md](15-regions-and-zones.md) | Named zones/regions, the Garden Wall dungeon gate, plausible ties to existing NPCs/systems |
+| [16-resources-and-materials.md](16-resources-and-materials.md) | Wood, ore, and fiber tiers with world-specific names |
 | [11-parking-lot.md](11-parking-lot.md) | Open TBDs |
 
 Numbers (costs, percentages, thresholds) throughout are first-pass estimates meant to establish the right shape of a
