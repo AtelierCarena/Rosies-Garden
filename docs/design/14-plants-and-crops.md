@@ -14,11 +14,26 @@ which seeds are purchasable. Availability is governed by season and rarity inste
 ## 14.2 Yearly Crop Rotation Growth — Locked
 Every in-game year, **3 new crops are added to the rotation** — new seeds become purchasable/discoverable that
 weren't available before. This continues through Year 3, then stops: by Year 4 the crop roster is permanently
-complete (the starting list below, plus 9 crops added across Years 1-3).
+complete (the 14.3 starting list, plus these 9 crops added across Years 1-3).
 
-Which season each year's 3 new crops land in, and what those crops actually are, is left open for a later pass —
-this locks the *mechanic* (a living, year-over-year-growing world that eventually settles), not the specific
-additions yet. A plausible future hook: Sage could be the one who first mentions a new crop exists, before it's
+Each year's 3 additions land in Spring, Summer, and Fall only — Winter stays untouched across all three years,
+reinforcing its intentional scarcity (14.3) and the incentive to invest in the Greenhouse rather than diluting that
+design goal with new Winter content.
+
+| Year | Spring | Summer | Fall |
+|---|---|---|---|
+| 1 | Larkspur | Zinnias | Elderberries |
+| 2 | Anemones | Basil | Belladonna |
+| 3 | Foxglove | Mint | Wheat |
+
+A few notes on these picks:
+- **Belladonna** continues the "beautiful but dangerous" thread already running through Nightshade Berries (14.4)
+  — another strong Alchemy reagent candidate for Thistle's shop (8.2).
+- **Basil** and **Mint** are the first cooking-herb crops in the roster — plausible ingredients for Saffron (Chef,
+  12-npc-roster.md).
+- **Wheat** is the roster's first grain/staple crop — useful for baking, and was a genuine gap before this.
+
+A plausible future hook, still not locked: Sage could be the one who first mentions a new crop exists, before it's
 purchasable — same "informationally known before physically available" pattern already established for Wild Spawns
 in 9.3.
 
@@ -53,39 +68,68 @@ flag split applying to each.
 Nightshade Berries and Witch Hazel Bark are plausible Alchemy reagents (ties to Thistle's shop, 8.2's Alchemy
 system) rather than pure gift/decor items.
 
-## 14.5 Fish and Bugs (new)
+## 14.5 Fish and Bugs
 **Design directive:** same correction as 14.4 — stylized, thematic names, not real-world species pulled 1:1 the way
-Stardew does. First pass only; full rarity/sell-price/catch-mechanic design comes later.
+Stardew does.
+
+### Catch Mechanic — Locked
+A hybrid of Animal Crossing: New Horizons' tools and Stardew Valley's timed minigame:
+- **Approach (ACNH-style):** the creature is physically visible and real-time in the world before any interaction
+  starts — a shadow/ripple in the water for fish, a visible moving insect for bugs. No random abstract encounter;
+  the player sees it and closes the distance themselves.
+- **Catch (Stardew-style):** once engaged (rod cast near a fish's shadow; net swing timed against a bug's movement),
+  a timed skill-check determines success — for fish, a Stardew-style bar-alignment minigame; for bugs, a
+  positioning/timing window on the net swing. Difficulty of the minigame/timing window scales with the
+  creature's rarity tier below.
+
+### Rarity Tiers and Sell Prices — Suggested
+Reuses the existing rarity scale from 8.1 rather than inventing a separate one, so fish/bugs slot into the same
+economy logic as everything else:
+
+| Rarity | Suggested Sell Price |
+|---|---|
+| Common | 20-40g |
+| Uncommon | 50-90g |
+| Rare | 100-180g |
+| Epic | 200-350g |
+| Legendary | 500g+ |
 
 ### Fish
 Ties to Alder's Fisherman role and the fishing Shared Activity (4.3). Freshwater-flavored given Alder is
 docks/riverside-based.
 
-| Season | Fish |
-|---|---|
-| Spring | Glassfin Minnow, Blushcarp |
-| Summer | Sunscale Bass, Dragonfly Darter |
-| Fall | Ambertail Trout, Mistfin Eel |
-| Winter | Frostgill Pike, Moonshadow Koi |
+| Season | Fish | Rarity | Sell Price |
+|---|---|---|---|
+| Spring | Glassfin Minnow | Common | 25g |
+| Spring | Blushcarp | Uncommon | 60g |
+| Summer | Sunscale Bass | Uncommon | 70g |
+| Summer | Dragonfly Darter | Rare | 130g |
+| Fall | Ambertail Trout | Uncommon | 65g |
+| Fall | Mistfin Eel | Rare | 150g |
+| Winter | Frostgill Pike | Rare | 160g |
+| Winter | Moonshadow Koi | Epic | 280g |
 
-Open idea, not locked: a single Legendary-rarity fish (per 8.1) tied to World Story/Rose lore rather than a
-generic "big rare fish" — worth revisiting once more of that track exists.
+Open idea, not locked: a single Legendary-rarity fish (500g+, per the table above) tied to World Story/Rose lore
+rather than a generic "big rare fish" — worth revisiting once more of that track exists, rather than naming it now.
 
 ### Bugs
 Likely uses: Wild/Beast feed/crafting reagents (Beau's shop), collection/gift items, possibly Arcane reagents
 (Ember's shop).
 
-| Season | Bugs |
-|---|---|
-| Spring | Petal Moth, Dewdrop Beetle |
-| Summer | Emberwing Firefly, Velvet Longhorn Beetle |
-| Fall | Amber Cicada, Rustwing Grasshopper |
-| Winter | Frost Cricket, Glasswing Moth |
+| Season | Bugs | Rarity | Sell Price |
+|---|---|---|---|
+| Spring | Petal Moth | Common | 20g |
+| Spring | Dewdrop Beetle | Common | 30g |
+| Summer | Emberwing Firefly | Uncommon | 55g |
+| Summer | Velvet Longhorn Beetle | Uncommon | 65g |
+| Fall | Amber Cicada | Rare | 120g |
+| Fall | Rustwing Grasshopper | Common | 35g |
+| Winter | Frost Cricket | Uncommon | 60g |
+| Winter | Glasswing Moth | Epic | 250g |
 
-## 14.6 Trees and Orchards (new)
+## 14.6 Trees and Orchards
 Perennial placeables, distinct from the tilled seasonal-crop-rotation system — once planted and grown, they don't
-need replanting each season. Not currently subject to the Yearly Crop Rotation Growth mechanic (14.2); that's
-scoped to tilled crops for now, but could extend here later if wanted.
+need replanting each season.
 
 | Category | Trees |
 |---|---|
@@ -96,18 +140,35 @@ scoped to tilled crops for now, but could extend here later if wanted.
 **Rosehip Tree** is a deliberate thematic tie-in — rosehips are the literal fruit of a rose bush, connecting straight
 back to the game's central imagery without being on-the-nose about it.
 
+### Yearly Growth — Locked
+Trees and Orchards get their own version of 14.2's growth mechanic: **1 new tree plus 1 new bush per year**, for
+Years 1-3, then stopping — same three-year settling pattern as the tilled crop rotation, for consistency across
+both systems.
+
+| Year | Tree | Bush |
+|---|---|---|
+| 1 | Cherry Tree | Blackberry Bush |
+| 2 | Peach Tree | Raspberry Bush |
+| 3 | Persimmon Tree | Gooseberry Bush |
+
+Bushes are a new sub-category introduced here — smaller than trees, likely faster to mature, but still perennial
+rather than tilled/replanted. Blackberry ties naturally into the game's existing thorn imagery.
+
 ## 14.7 Cross-Breeding / Hybrids — Locked
-Ties to the Hybrid Seed Splicer (Earth tree, Tier 5 — see 3.7). Planting two same-season crops adjacent to each
-other gives a chance to produce a Hybrid variant combining traits of both (visual + a blended use-case — decorative
-and edible, or two different gift/sell categories at once). Example: Strawberry x Tulip → a rare decorative-edible
-hybrid.
+Ties to the Hybrid Seed Splicer (Earth tree, Tier 5 — see 3.7). Planting two crops **from the same season** adjacent
+to each other gives a chance to produce a Hybrid variant combining traits of both (visual + a blended use-case —
+decorative and edible, or two different gift/sell categories at once). Example: Strawberry x Tulip → a rare
+decorative-edible hybrid.
+
+**Cross-season hybridizing is not possible** — this is a hard rule, not just a description of the common case. A
+Spring crop can never hybridize with a Fall crop, for instance, even hypothetically (e.g. via Greenhouse
+year-round growing). Keeps the hybrid pool legible per-season rather than combinatorially exploding across all 20+
+crops once the yearly growth additions are in.
 
 **Sprite/art note:** every hybrid result needs its own custom sprite once art direction begins — flagging this now
 so it's on the list for that pass, since hybrids can't just reuse either parent crop's sprite.
 
 ## 14.8 Open Questions
-- Which specific crops land in which season for the 3-new-crops-per-year growth (14.2).
-- Full hybrid pairing table and drop-chance math.
-- Fish/bug rarity tiers, catch mechanics, and sell prices.
-- Full crop list expansion beyond this first-pass starting roster.
-- Whether Trees and Orchards should also get yearly additions like tilled crops.
+- Full hybrid pairing table (which specific same-season pairs produce which hybrid) and drop-chance math.
+- Full crop list expansion beyond the starting roster + the now-locked 9 yearly additions.
+- Exact bush mechanics (maturation time, placement rules) — introduced in 14.6 but not detailed yet.
