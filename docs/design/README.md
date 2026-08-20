@@ -17,7 +17,7 @@ marked TBD are open for revision; see [11-parking-lot.md](11-parking-lot.md) for
 | [09-combat-classes.md](09-combat-classes.md) | 9 starting classes, armor/clothing slot rules, Character Creation flow, cross-class cosmetics |
 | [10-dungeons-and-risk.md](10-dungeons-and-risk.md) | Knockout system, loot-loss brackets, enemy difficulty curve, mini-bosses/bosses, boss rewards and fast travel, bracket flavor naming (The Trellis, etc.) |
 | [12-npc-roster.md](12-npc-roster.md) | The Interactive NPC roster, built incrementally |
-| [14-plants-and-crops.md](14-plants-and-crops.md) | Season calendar, farmed crops, wild-foraged plants, cross-breeding |
+| [14-plants-and-crops.md](14-plants-and-crops.md) | Season calendar, yearly crop rotation growth, farmed crops, wild-foraged plants, fish/bugs, trees/orchards, cross-breeding |
 | [11-parking-lot.md](11-parking-lot.md) | Open TBDs |
 
 Numbers (costs, percentages, thresholds) throughout are first-pass estimates meant to establish the right shape of a
