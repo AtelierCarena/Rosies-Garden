@@ -26,6 +26,11 @@ value, and — for gear specifically — enchantment slot count.
 - **Alchemy** (Earth/Arcane crossover): TEMPORARY buffs requiring reapplication — oils, coatings, potions. Gives
   Alchemy a distinct identity from Enchanting (build identity vs. situational prep) and keeps Earth-tree farming relevant
   even in combat-heavy play.
+- **Durability:** Tools and Weapons/Armor have durability; Placeables/Decor do not (8.4 — decorations just get
+  relocated, never damaged or consumed). Durability scales with the **Ore tier** used to craft the item (see
+  16-resources-and-materials.md, 16.2 — higher tier ore means higher base durability), further modified by any
+  Enchantments applied. If an item has both a wood and an ore component (e.g. an axe handle + head), only the ore
+  portion affects durability — wood is purely cosmetic (16.1) and never a stat input.
 
 ## 8.3 Cosmetics: Fully Separate From Stat Gear
 Appearance/Outfit is an independent slot system from functional Armor — a player can wear a Legendary chestplate for

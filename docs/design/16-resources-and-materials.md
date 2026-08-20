@@ -5,25 +5,30 @@ locked NPCs/zones that depend on raw materials existing: Flint (Miner/Prospector
 Carpenter), the Quarry, the Forest and Hidden Forest (15.1). All names made up to fit the world rather than generic
 real-world material names.
 
-## 16.1 Wood — 5 Tiers
-Sourced from Timber Trees — distinct from the Fruit/Nut/Maple orchard trees in 14.6, which are food-producing, not
-choppable for building/crafting wood. Gathered with the Axe (9.1).
+## 16.1 Wood — Cosmetic Only, Species Variety
+Wood affects **only the color/style of furniture and structures built with it** — no stats, no durability, no
+gameplay function beyond appearance (see 07-item-system.md, 8.2 for the durability rule this excludes wood from).
+Modeled after Minecraft's wood-species approach rather than a power ladder: many distinct tree species exist purely
+to give builders visual choice, none "better" than another. Gathered with the Axe (9.1) from Timber Trees, distinct
+from the food-producing Fruit/Nut/Maple orchard trees in 14.6.
 
-| Tier | Wood | Source Tree | Notes |
-|---|---|---|---|
-| 1 | Palewood | Palewood Tree | Common, light-colored, found throughout the Forest — the starting-tier wood |
-| 2 | Duskoak | Duskoak Tree | Denser, found deeper in the Forest |
-| 3 | Briarwood | Briarwood Tree | Gnarled and thorny, tougher to harvest, found near the Hidden Forest |
-| 4 | Silverbark | Silverbark Tree | Rare, pale and gleaming, found in the Hidden Forest/Hills — plausible Arcane-adjacent crafting material for Ember's shop as well as Forge |
-| 5 | Emberheart Wood | Emberheart Tree | Rarest, deep red glowing grain, found only in a special rare grove — top Forge-tier material |
+| Wood | Source Tree | Look |
+|---|---|---|
+| Palewood | Palewood Tree | Light, pale |
+| Duskoak | Duskoak Tree | Warm mid-brown |
+| Briarwood | Briarwood Tree | Gnarled, dark reddish |
+| Silverbark | Silverbark Tree | Pale, silvery-white |
+| Emberheart Wood | Emberheart Tree | Deep red, glowing grain |
+| Sunwillow | Sunwillow Tree | Golden-yellow |
+| Ashgrove | Ashgrove Tree | Cool grey-toned |
 
-The tier progression escalates in both rarity and location depth — common Forest wood, to thornier Hidden Forest
-wood, to a genuinely rare grove-gated top tier — mirroring how the dungeon brackets escalate by depth (10-dungeons-
-and-risk.md) without literally being the same system.
+All seven are gathered the same way and are equally available — there's no rarity/unlock ladder to climb through.
+Which tree is found where is a geography/flavor question, not a progression one.
 
-## 16.2 Ore — 5 Tiers
-Sourced from the Quarry (15.1) and mining nodes inside the dungeon. Ties to Flint's role (12-npc-roster.md) and
-Forge recipes (3.7).
+## 16.2 Ore — 5 Tiers, Escalating Power — Locked
+Unlike wood, ore genuinely gets stronger with each tier — this is what feeds the Durability rule for Tools and
+Weapons/Armor (07-item-system.md, 8.2). Sourced from the Quarry (15.1) and mining nodes inside the dungeon. Ties to
+Flint's role (12-npc-roster.md) and Forge recipes (3.7).
 
 | Tier | Ore | Notes |
 |---|---|---|
@@ -33,17 +38,29 @@ Forge recipes (3.7).
 | 4 | Moonsilver Ore | Rare, faintly glowing pale ore — plausible Arcane/enchanting crossover material |
 | 5 | Thornsteel Ore | Rarest, found only at the dungeon's deepest brackets — top-tier weapon/armor material, echoing the thorn motif already running through the world (Briar, the dungeon bracket names, etc.) |
 
-## 16.3 Fiber Plants (for Cloth)
-Two tiers rather than a full five, matching how Trade/Charm's cosmetic system (8.3, Poppy's shop) needs a basic and
-a premium cloth material rather than a long crafting ladder.
+**Quarry spawn rule — Locked:** the Quarry only spawns ore tiers the player has already discovered inside the
+dungeon. Each tier must first be found on a dungeon mining node before the Quarry starts spawning it too, at a
+tiered spawn-rate chance (lower tiers common, higher tiers rare, once unlocked). This mirrors the "informationally
+known before physically/safely available" discovery pattern already established elsewhere — Wild Spawns (9.3), new
+crops via Sage (14.2) — the dungeon is where an ore is first proven to exist; the Quarry becomes the safer,
+repeatable source afterward.
+
+## 16.3 Fiber Plants (for Cloth) — Locked
 
 | Tier | Fiber | Source | Notes |
 |---|---|---|---|
 | Basic | Flaxwisp | Farmable plant | Standard cloth fiber — base-tier Clothing/Cosmetics material for Poppy's shop |
 | Premium | Silkveil Moss | Wild-foraged (damp/shaded zones — Hidden Forest, the Bay) | Finer, luxurious thread for higher-tier cosmetic Clothing |
 
+**Mixed-ingredient crafting — Locked, cloth-specific:** any cloth recipe requiring multiple fiber units can be
+satisfied by mixing Flaxwisp and Silkveil Moss in any combination, rather than requiring a single specific
+ingredient — a 2-fiber recipe accepts 2 Flaxwisp, 2 Silkveil Moss, or 1 of each. This substitution flexibility is
+scoped to cloth only for now, not a universal crafting rule applied across other material categories.
+
 ## 16.4 Open Questions
-- Exact gathering tools/skill-tree gating per tier (does higher-tier wood/ore require a better Axe/Pickaxe, per the
-  Tier-Unlocked pattern in 3.6, or is it purely location-gated?).
-- Sell prices and crafting-recipe material costs.
-- Whether Wood/Ore/Fiber get their own version of the Yearly Growth mechanic (14.2/14.6) or stay fixed.
+- Exact gathering tools/skill-tree gating per ore tier (does mining a higher tier require a better Pickaxe, per the
+  Tier-Unlocked pattern in 3.6, or is it purely location/discovery-gated per 16.2's Quarry rule?).
+- Sell prices and crafting-recipe material costs (ore, wood, and fiber alike).
+- Exact durability numbers per ore tier (the rule that durability scales with ore tier is locked per 8.2; the actual
+  numbers are not).
+- Whether the mixed-ingredient crafting rule (16.3) should ever extend beyond cloth.
