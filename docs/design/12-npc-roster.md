@@ -136,6 +136,45 @@ Renamed from "Reed" — too on-the-nose a pun for a fisherman.
 
 ---
 
+### Flint — Miner / Prospector
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Flint (male) — near the dungeon entrance or a mining outpost, in town |
+| Personality traits | Blunt, hardworking, dry sense of humor. |
+| Romanceable? | No |
+| Personal questline | Minimal by design |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Resource supply — a Forge/Earth crossover point for raw materials.
+
+---
+
+### Wilder — Musician / Bard
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Wilder (male) — plays around town, no fixed shop |
+| Personality traits | Easy charm, expressive, reads a room well. Flirts constantly and enjoys it — but he's aromantic/asexual, so it never leads anywhere and isn't meant to. Not a tease with a hidden route; the flirting *is* the whole thing. |
+| Romanceable? | No |
+| Personal questline | Minimal by design |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Trade/Charm-adjacent, town color/atmosphere. Went through two discarded names ("Reed" twice — once for the
+Fisherman, retired for being too on-the-nose, then reused here and retired again) before landing here.
+
+---
+
 ## 13.2 Romanceable / Central NPCs
 **Bases only for now — personal questlines, Confidant-tier reveals, World Story connections, and Companion
 connections are deliberately left TBD here.** These NPCs carry the full 6-tier Relationship Meter (4.2) and a
@@ -449,19 +488,13 @@ Ties into the Wild/Beast skill tree — sells Basic Feed, oversees the Pen/Coop 
 
 ---
 
-## 13.3 New Introductions — Romanceable Status TBD
-Five new characters — three men, two androgynous — added to round out gender presentation across the roster.
-Romanceable status is intentionally left open on all five until decided.
-
----
-
 ### Cedar — Carpenter / Architect
 
 | Field | Value |
 |---|---|
 | Name / Role / Location | Cedar (male) — a construction yard/workshop, in town |
 | Personality traits | Steady, practical, takes visible pride in a well-built structure. |
-| Romanceable? | TBD |
+| Romanceable? | Yes |
 | Personal questline | TBD |
 | Confidant-tier reveal | TBD |
 | World Story connection | TBD |
@@ -474,52 +507,13 @@ Ties into Forge/Craft — construction and structures, distinct from Marrow's we
 
 ---
 
-### Flint — Miner / Prospector
+### Rowan — Beekeeper / Apiarist
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Flint (male) — near the dungeon entrance or a mining outpost, in town |
-| Personality traits | Blunt, hardworking, dry sense of humor. |
-| Romanceable? | TBD |
-| Personal questline | TBD |
-| Confidant-tier reveal | TBD |
-| World Story connection | TBD |
-| Companion connection | TBD |
-| Lore ancestry | TBD |
-| Visual notes | Placeholder pending visual inspiration pass |
-| Nature (spoiler field) | TBD |
-
-Resource supply — a Forge/Earth crossover point for raw materials.
-
----
-
-### Reed — Musician / Bard
-
-| Field | Value |
-|---|---|
-| Name / Role / Location | Reed (male) — plays around town, no fixed shop |
-| Personality traits | Easy charm, expressive, reads a room well. |
-| Romanceable? | TBD |
-| Personal questline | TBD |
-| Confidant-tier reveal | TBD |
-| World Story connection | TBD |
-| Companion connection | TBD |
-| Lore ancestry | TBD |
-| Visual notes | Placeholder pending visual inspiration pass |
-| Nature (spoiler field) | TBD |
-
-The name gets reused here deliberately — "Reed" as a musician (reed instruments) is a pun that actually lands,
-unlike its earlier, discarded use for the Fisherman. Trade/Charm-adjacent, town color/atmosphere.
-
----
-
-### Rowan — Groundskeeper / Gardener
-
-| Field | Value |
-|---|---|
-| Name / Role / Location | Rowan (androgynous) — tends the town's gardens and parks |
+| Name / Role / Location | Rowan (androgynous) — tends hives, likely near the edge of town |
 | Personality traits | Quiet, attentive, finds meaning in small daily upkeep. |
-| Romanceable? | TBD |
+| Romanceable? | Yes |
 | Personal questline | TBD |
 | Confidant-tier reveal | TBD |
 | World Story connection | TBD |
@@ -528,8 +522,9 @@ unlike its earlier, discarded use for the Fisherman. Trade/Charm-adjacent, town 
 | Visual notes | Placeholder pending visual inspiration pass |
 | Nature (spoiler field) | TBD |
 
-Ties into Earth/Growth. Given the game's title and central imagery, a literal gardener felt like an obvious gap to
-fill.
+Ties into Earth/Growth — sells honey/wax. Originally proposed as a groundskeeper/gardener, changed deliberately:
+"the Gardener" is already a malicious figure in Rose's discovery chain (6.4), and a friendly NPC with an overlapping
+title would collide with that. Mind spaces don't need a groundskeeper.
 
 ---
 
@@ -539,7 +534,7 @@ fill.
 |---|---|
 | Name / Role / Location | River (androgynous) — passes through town periodically rather than staying put |
 | Personality traits | Curious, worldly, comfortable being new somewhere. |
-| Romanceable? | TBD |
+| Romanceable? | Yes |
 | Personal questline | TBD |
 | Confidant-tier reveal | TBD |
 | World Story connection | TBD — plausible outside-world lore delivery given the traveling premise |
@@ -552,3 +547,4 @@ Distinct from Sage's settled-archivist energy — River brings information in fr
 already here.
 
 ---
+
