@@ -229,3 +229,85 @@ Point of sale for cosmetic Clothing (see 8.3/8.4) — gives the "cosmetics as pr
 an actual voice in town rather than just a shop-menu category.
 
 ---
+
+## 13.2 Romanceable / Central NPCs
+**Bases only for now — personal questlines, Confidant-tier reveals, World Story connections, and Companion
+connections are deliberately left TBD here.** These NPCs carry the full 6-tier Relationship Meter (4.2) and a
+personal questline once that work starts; this pass is just introducing who they are.
+
+**Romance is not gender-locked.** Every romanceable NPC is available to the player regardless of chosen gender
+presentation (10.3) — consistent with clothing already being fully gender-unrestricted (10.2).
+
+---
+
+### Hazel — Innkeeper
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Hazel — runs the Inn, in town |
+| Personality traits | Warm, hospitable, a genuinely good listener. The "safe harbor" type — the Inn is a literal place of rest, and Hazel's whole presence matches that. |
+| Romanceable? | Yes |
+| Personal questline | TBD |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+---
+
+### Robin — Combat Trainer
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Robin — a training yard, in town |
+| Personality traits | Confident, encouraging mentor with playful banter energy — competent without being intimidating. |
+| Romanceable? | Yes |
+| Personal questline | TBD |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Plausible in-fiction source for the melee/ranged/evasion fundamentals The Rose Garden bracket teaches (10.3 in
+[10-dungeons-and-risk.md](10-dungeons-and-risk.md)) — gives that early teaching moment a face, alongside Briar's
+warning about what the dungeon actually costs.
+
+---
+
+### Iris — [Role TBD, dreamer/artistic type]
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Iris — TBD location |
+| Personality traits | Dreamy, artistic, poetic — likely ties to Earth/Growth or Arcane given the tone. |
+| Romanceable? | Yes |
+| Personal questline | TBD |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+---
+
+### Dahlia — [Role TBD, confident/social type]
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Dahlia — TBD location |
+| Personality traits | Confident, socially bold, charismatic — likely ties to Trade/Charm given the tone. |
+| Romanceable? | Yes |
+| Personal questline | TBD |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+---
