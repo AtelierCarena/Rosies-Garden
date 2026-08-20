@@ -184,12 +184,12 @@ warning about what the dungeon actually costs.
 
 ---
 
-### Iris — [Role TBD, dreamer/artistic type]
+### Iris — Florist / Botanical Artist
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Iris — TBD location |
-| Personality traits | Dreamy, artistic, poetic — likely ties to Earth/Growth or Arcane given the tone. |
+| Name / Role / Location | Iris — a flower shop/studio, in town |
+| Personality traits | Dreamy, artistic, poetic. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
 | Confidant-tier reveal | TBD |
@@ -198,15 +198,18 @@ warning about what the dungeon actually costs.
 | Lore ancestry | TBD |
 | Visual notes | Placeholder pending visual inspiration pass |
 | Nature (spoiler field) | TBD |
+
+Grows and presses rare flowers, sells Placeables/Decor (8.4) — a reward category with no NPC tied to it until now.
+Ties into Earth/Growth without duplicating Thistle's apothecary lane.
 
 ---
 
-### Dahlia — [Role TBD, confident/social type]
+### Dahlia — Perfumer / Social Hub
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Dahlia — TBD location |
-| Personality traits | Confident, socially bold, charismatic — likely ties to Trade/Charm given the tone. |
+| Name / Role / Location | Dahlia — a perfume shop, in town |
+| Personality traits | Confident, socially bold, charismatic. Her shop doubles as an informal gathering spot — she's the one who actually knows what's going on with everyone. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
 | Confidant-tier reveal | TBD |
@@ -215,6 +218,9 @@ warning about what the dungeon actually costs.
 | Lore ancestry | TBD |
 | Visual notes | Placeholder pending visual inspiration pass |
 | Nature (spoiler field) | TBD |
+
+Ties into Trade/Charm's relationship-gain theme (3.7) — gives that mechanic an actual social personality behind it
+rather than just a passive bonus.
 
 ---
 
@@ -440,5 +446,109 @@ an actual voice in town rather than just a shop-menu category.
 
 Ties into the Wild/Beast skill tree — sells Basic Feed, oversees the Pen/Coop and Sanctuary/Breeding Nest structures
 (see 3.7). Renamed from "Fern."
+
+---
+
+## 13.3 New Introductions — Romanceable Status TBD
+Five new characters — three men, two androgynous — added to round out gender presentation across the roster.
+Romanceable status is intentionally left open on all five until decided.
+
+---
+
+### Cedar — Carpenter / Architect
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Cedar (male) — a construction yard/workshop, in town |
+| Personality traits | Steady, practical, takes visible pride in a well-built structure. |
+| Romanceable? | TBD |
+| Personal questline | TBD |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Ties into Forge/Craft — construction and structures, distinct from Marrow's weapons/armor lane.
+
+---
+
+### Flint — Miner / Prospector
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Flint (male) — near the dungeon entrance or a mining outpost, in town |
+| Personality traits | Blunt, hardworking, dry sense of humor. |
+| Romanceable? | TBD |
+| Personal questline | TBD |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Resource supply — a Forge/Earth crossover point for raw materials.
+
+---
+
+### Reed — Musician / Bard
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Reed (male) — plays around town, no fixed shop |
+| Personality traits | Easy charm, expressive, reads a room well. |
+| Romanceable? | TBD |
+| Personal questline | TBD |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+The name gets reused here deliberately — "Reed" as a musician (reed instruments) is a pun that actually lands,
+unlike its earlier, discarded use for the Fisherman. Trade/Charm-adjacent, town color/atmosphere.
+
+---
+
+### Rowan — Groundskeeper / Gardener
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | Rowan (androgynous) — tends the town's gardens and parks |
+| Personality traits | Quiet, attentive, finds meaning in small daily upkeep. |
+| Romanceable? | TBD |
+| Personal questline | TBD |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Ties into Earth/Growth. Given the game's title and central imagery, a literal gardener felt like an obvious gap to
+fill.
+
+---
+
+### River — Wandering Scholar / Traveling Merchant
+
+| Field | Value |
+|---|---|
+| Name / Role / Location | River (androgynous) — passes through town periodically rather than staying put |
+| Personality traits | Curious, worldly, comfortable being new somewhere. |
+| Romanceable? | TBD |
+| Personal questline | TBD |
+| Confidant-tier reveal | TBD |
+| World Story connection | TBD — plausible outside-world lore delivery given the traveling premise |
+| Companion connection | TBD |
+| Lore ancestry | TBD |
+| Visual notes | Placeholder pending visual inspiration pass |
+| Nature (spoiler field) | TBD |
+
+Distinct from Sage's settled-archivist energy — River brings information in from outside rather than holding what's
+already here.
 
 ---
