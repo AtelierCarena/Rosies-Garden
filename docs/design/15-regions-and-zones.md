@@ -36,7 +36,7 @@ More will be added as they come up. This list is deliberately not exhaustive.
 ## 15.3 Plausible Ties to Already-Locked Systems (not committed placements, just obvious overlaps worth noting)
 - **The Homestead** — already referenced as a knockout-relocation point (11.1) and the player's individual base
   (2.5). This zone is almost certainly that location, not a new one.
-- **The Hospital** — Linden and Marigold's location (12-npc-roster.md) is "the Town Hospital, in town" — this zone
+- **The Hospital** — Linden and Daisy's location (12-npc-roster.md) is "the Town Hospital, in town" — this zone
   is that hospital.
 - **The Forge / Blacksmith** — Marrow's and Cedar's locations. Marrow is "the Forge, in town"; Cedar's construction
   yard/workshop is Forge/Craft-adjacent and may or may not be the same physical building — TBD.

@@ -25,6 +25,7 @@ status, etc.) is deferred to the roster pass.
 | World Story connection | What do they know, guard, or witness re: the fixed lore track |
 | Companion connection | Do they gift, sell, or bond a companion to the player? |
 | Lore ancestry | Is this NPC connected to a Lore-Referenced figure (e.g. a descendant)? |
+| Species | Human / Elf / Fairy / Pixie / Orc / Animal-hybrid (specify trait, e.g. "rabbit ears") / TBD. Not uniform across the roster; decided per-NPC, tied to personality rather than assigned generically. |
 | Visual notes | Placeholder pending visual inspiration pass |
 | Nature (spoiler field) | Literal Alter / Ambient Figure / TBD — see [06-storyline-structure.md, 7.1](06-storyline-structure.md). Not uniform across the roster; decided per-NPC. Never player-facing. |
 

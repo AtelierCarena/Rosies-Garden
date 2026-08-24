@@ -23,31 +23,32 @@ Renaming may happen at any time — the direction is what's locked, names are ea
 
 ---
 
-### Pip — The Dungeon Merchant
+### Nix — The Dungeon Merchant
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Pip — sets up shop inside the dungeon, at bracket transition points |
-| Personality traits | Crisis-responder, not a background-danger figure. Upbeat and bracing rather than grim — steady specifically *because* things are hard, not despite it. |
+| Name / Role / Location | Nix — sets up shop inside the dungeon, at bracket transition points |
+| Personality traits | Crisis-responder, not a background-danger figure. Upbeat and bracing rather than grim — steady specifically *because* things are hard, not despite it. More cutesy-chaotic than serious. |
 | Romanceable? | No |
 | Personal questline | Minimal by design |
 | Confidant-tier reveal | TBD |
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Pixie |
 | Visual notes | Compact build, trinket-covered travel pack, bright bandana, alert posture, sturdy boots |
 | Nature (spoiler field) | TBD |
 
-Ties into 11.5's boss-reward/fast-travel loop — Pip is a plausible point of sale/service once a bracket entrance is
-unlocked.
+Ties into 11.5's boss-reward/fast-travel loop — Nix is a plausible point of sale/service once a bracket entrance is
+unlocked. Renamed from "Pip."
 
 ---
 
-### Juniper — General Goods Merchant
+### Bella — General Goods Merchant
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Juniper — the General Store, in town |
+| Name / Role / Location | Bella — the General Store, in town |
 | Personality traits | No-nonsense but warm trader. Capable, unflashy, keeps the basics running for everyone without making a show of it — the opposite of a greedy-merchant caricature. |
 | Romanceable? | No |
 | Personal questline | Minimal by design |
@@ -55,11 +56,12 @@ unlocked.
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Human |
 | Visual notes | Practical rolled-sleeve apron, hair in a simple braid, sturdy approachable stance |
 | Nature (spoiler field) | TBD |
 
 Point of sale for basic tools, seeds, and general supplies — the everyday commerce hub, ties loosely into Trade/Charm
-without being the Trade tree's own shop-stall system (that's the player's).
+without being the Trade tree's own shop-stall system (that's the player's). Renamed from "Juniper."
 
 ---
 
@@ -155,11 +157,11 @@ Resource supply — a Forge/Earth crossover point for raw materials.
 
 ---
 
-### Wilder — Musician / Bard
+### Zander — Musician / Bard
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Wilder (male) — plays around town, no fixed shop |
+| Name / Role / Location | Zander (male) — plays around town, no fixed shop |
 | Personality traits | Easy charm, expressive, reads a room well. Flirts constantly and enjoys it — but he's aromantic/asexual, so it never leads anywhere and isn't meant to. Not a tease with a hidden route; the flirting *is* the whole thing. |
 | Romanceable? | No |
 | Personal questline | Minimal by design |
@@ -167,11 +169,13 @@ Resource supply — a Forge/Earth crossover point for raw materials.
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Pixie |
 | Visual notes | Loose expressive clothing, an instrument always nearby, easy grin, deliberately tousled hair |
 | Nature (spoiler field) | TBD |
 
-Trade/Charm-adjacent, town color/atmosphere. Went through two discarded names ("Reed" twice — once for the
-Fisherman, retired for being too on-the-nose, then reused here and retired again) before landing here.
+Trade/Charm-adjacent, town color/atmosphere. Naming history: "Reed" twice (once for the Fisherman, retired for
+being too on-the-nose, then reused here and retired again), then "Wilder," then "Lysander" (dropped — read slightly
+too feminine), landing on Zander.
 
 ---
 
@@ -255,6 +259,7 @@ Ties into Earth/Growth without duplicating Thistle's apothecary lane.
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Fairy |
 | Visual notes | Bold colorful outfit, expressive accessories, magnetic posture |
 | Nature (spoiler field) | TBD |
 
@@ -283,23 +288,25 @@ staffing it until now.
 
 ---
 
-### Marigold — Nurse
+### Daisy — Nurse
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Marigold — works alongside Linden at the Town Hospital, in town |
-| Personality traits | Warm, sunny, a little unsure of herself at first — determined rather than discouraged by it. |
+| Name / Role / Location | Daisy — works alongside Linden at the Town Hospital, in town |
+| Personality traits | Warm, sunny, a little unsure of herself at first — determined rather than discouraged by it. Youthful energy. |
 | Romanceable? | Yes |
 | Personal questline | TBD — *she "becomes" a Nurse over the course of the game rather than starting fully settled into the role; this growth is a flagged future questline direction, not designed yet* |
 | Confidant-tier reveal | TBD |
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Animal-hybrid (rabbit ears) |
 | Visual notes | Practical uniform slightly mussed from rushing, bright expressive face |
 | Nature (spoiler field) | TBD |
 
-Paired with Linden at the Hospital — Linden already composed and settled into the role, Marigold still growing into
-hers. The contrast is intentional groundwork for later, not a plot beat being designed now.
+Paired with Linden at the Hospital — Linden already composed and settled into the role, Daisy still growing into
+hers. The contrast is intentional groundwork for later, not a plot beat being designed now. Renamed from "Marigold"
+— wanted something more youthful-sounding.
 
 ---
 
@@ -322,11 +329,11 @@ Ties into the Simple Cooking Pot (9.2) and Food consumables (9.1).
 
 ---
 
-### Amber — Bartender
+### Camellia — Bartender
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Amber — a Tavern, in town (a separate venue from Hazel's Inn) |
+| Name / Role / Location | Camellia — a Tavern, in town (a separate venue from Hazel's Inn) |
 | Personality traits | Warm, an easy conversationalist, good listener — the "everyone's a regular" energy. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -334,10 +341,12 @@ Ties into the Simple Cooking Pot (9.2) and Food consumables (9.1).
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Human |
 | Visual notes | Relaxed outfit, bar rag over one shoulder, easy posture |
 | Nature (spoiler field) | TBD |
 
-Given its own Tavern distinct from the Inn so Amber and Hazel aren't sharing a workplace/role.
+Given its own Tavern distinct from the Inn so Camellia and Hazel aren't sharing a workplace/role. Renamed from
+"Amber" — swapped to a different floral/coquette name.
 
 ---
 
@@ -400,11 +409,11 @@ actual voice instead of a passive unlock.
 
 ---
 
-### Clover — No Job
+### Leonair — No Job
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Clover — present around town, no fixed post |
+| Name / Role / Location | Leonair — present around town, no fixed post |
 | Personality traits | Pure companionship. Warm, low-stakes, simply present — the direct answer to "some of us are just here to keep us company." |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -412,11 +421,12 @@ actual voice instead of a passive unlock.
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Animal-hybrid (soft lamb features) |
 | Visual notes | Soft oversized sweater, round gentle face, perpetually mid-smile |
 | Nature (spoiler field) | TBD |
 
-No shop, no system tie-in, no function to justify existing — that absence is the point, even now that Clover is
-romanceable.
+No shop, no system tie-in, no function to justify existing — that absence is the point, even now that Leonair is
+romanceable. Renamed from "Clover" — Leonair is a male take on "Eleanor."
 
 ---
 
@@ -480,6 +490,7 @@ an actual voice in town rather than just a shop-menu category.
 | World Story connection | TBD |
 | Companion connection | Plausible source for tamed companion guidance/feed — see Section 5 |
 | Lore ancestry | TBD |
+| Species | Animal-hybrid (deer/stag antlers) |
 | Visual notes | Earthy tones, hay-dusted work clothes, calm steady hands |
 | Nature (spoiler field) | TBD |
 
@@ -528,11 +539,11 @@ title would collide with that. Mind spaces don't need a groundskeeper.
 
 ---
 
-### River — Wandering Scholar / Traveling Merchant
+### Olivier — Wandering Scholar / Traveling Merchant
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | River (androgynous) — passes through town periodically rather than staying put |
+| Name / Role / Location | Olivier (androgynous) — passes through town periodically rather than staying put |
 | Personality traits | Curious, worldly, comfortable being new somewhere. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -540,11 +551,12 @@ title would collide with that. Mind spaces don't need a groundskeeper.
 | World Story connection | TBD — plausible outside-world lore delivery given the traveling premise |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Elf |
 | Visual notes | Travel-worn clothing, a well-used pack, layered scarf, road-dust on their boots |
 | Nature (spoiler field) | TBD |
 
-Distinct from Sage's settled-archivist energy — River brings information in from outside rather than holding what's
-already here.
+Distinct from Sage's settled-archivist energy — Olivier brings information in from outside rather than holding
+what's already here. Renamed from "River."
 
 ---
 
