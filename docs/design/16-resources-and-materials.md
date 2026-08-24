@@ -1,7 +1,7 @@
 # 16. Resources and Materials
 
 Fills a gap left open by the Forge/Craft skill tree (3.7, "tool/weapon quality" progression) and several already-
-locked NPCs/zones that depend on raw materials existing: Flint (Miner/Prospector), Marrow and Cedar (Forge/
+locked NPCs/zones that depend on raw materials existing: Barrow (Miner/Prospector), Gideon and Barnaby (Forge/
 Carpenter), the Quarry, the Forest and Hidden Forest (15.1). All names made up to fit the world rather than generic
 real-world material names.
 
@@ -28,7 +28,7 @@ Which tree is found where is a geography/flavor question, not a progression one.
 ## 16.2 Ore — 5 Tiers, Escalating Power — Locked
 Unlike wood, ore genuinely gets stronger with each tier — this is what feeds the Durability rule for Tools and
 Weapons/Armor (07-item-system.md, 8.2). Sourced from the Quarry (15.1) and mining nodes inside the dungeon. Ties to
-Flint's role (12-npc-roster.md) and Forge recipes (3.7).
+Barrow's role (12-npc-roster.md) and Forge recipes (3.7).
 
 | Tier | Ore | Notes |
 |---|---|---|
@@ -36,20 +36,20 @@ Flint's role (12-npc-roster.md) and Forge recipes (3.7).
 | 2 | Ironshale Ore | Denser, standard mid-tier |
 | 3 | Duskmetal Ore | Rarer, subtle blue-black sheen, found deeper |
 | 4 | Moonsilver Ore | Rare, faintly glowing pale ore — plausible Arcane/enchanting crossover material |
-| 5 | Thornsteel Ore | Rarest, found only at the dungeon's deepest brackets — top-tier weapon/armor material, echoing the thorn motif already running through the world (Briar, the dungeon bracket names, etc.) |
+| 5 | Thornsteel Ore | Rarest, found only at the dungeon's deepest brackets — top-tier weapon/armor material, echoing the thorn motif already running through the world (Thorne, the dungeon bracket names, etc.) |
 
 **Quarry spawn rule — Locked:** the Quarry only spawns ore tiers the player has already discovered inside the
 dungeon. Each tier must first be found on a dungeon mining node before the Quarry starts spawning it too, at a
 tiered spawn-rate chance (lower tiers common, higher tiers rare, once unlocked). This mirrors the "informationally
 known before physically/safely available" discovery pattern already established elsewhere — Wild Spawns (9.3), new
-crops via Sage (14.2) — the dungeon is where an ore is first proven to exist; the Quarry becomes the safer,
+crops via Percival (14.2) — the dungeon is where an ore is first proven to exist; the Quarry becomes the safer,
 repeatable source afterward.
 
 ## 16.3 Fiber Plants (for Cloth) — Locked
 
 | Tier | Fiber | Source | Notes |
 |---|---|---|---|
-| Basic | Flaxwisp | Farmable plant | Standard cloth fiber — base-tier Clothing/Cosmetics material for Poppy's shop |
+| Basic | Flaxwisp | Farmable plant | Standard cloth fiber — base-tier Clothing/Cosmetics material for Seraphina's shop |
 | Premium | Silkveil Moss | Wild-foraged (damp/shaded zones — Hidden Forest, the Bay) | Finer, luxurious thread for higher-tier cosmetic Clothing |
 
 **Mixed-ingredient crafting — Locked, cloth-specific:** any cloth recipe requiring multiple fiber units can be

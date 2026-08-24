@@ -65,11 +65,11 @@ without being the Trade tree's own shop-stall system (that's the player's). Rena
 
 ---
 
-### Ember — Arcane Vendor
+### Ignatia — Arcane Vendor
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Ember — the Arcane Workbench, in town |
+| Name / Role / Location | Ignatia — the Arcane Workbench, in town |
 | Personality traits | Eccentric but approachable — delighted-nerd energy about magic rather than mysterious or sinister. Deliberately counters the "creepy occultist" trope. |
 | Romanceable? | No |
 | Personal questline | Minimal by design |
@@ -77,18 +77,20 @@ without being the Trade tree's own shop-stall system (that's the player's). Rena
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Fairy |
 | Visual notes | Mismatched charms pinned to a vest, singed sleeve cuffs, wide curious eyes, perpetually staticky hair |
 | Nature (spoiler field) | TBD |
 
 Ties into the Arcane skill tree — sells spell components/reagents, staffs the basic Arcane Workbench (see 3.7).
+Renamed from "Ember."
 
 ---
 
-### Magnolia — Mayor
+### Cordelia — Mayor
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Magnolia — Town Hall, in town |
+| Name / Role / Location | Cordelia — Town Hall, in town |
 | Personality traits | Dignified, warm authority — organizes festivals/events and genuinely listens rather than just presiding. Community glue. |
 | Romanceable? | No |
 | Personal questline | Minimal by design |
@@ -96,33 +98,40 @@ Ties into the Arcane skill tree — sells spell components/reagents, staffs the 
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Elf |
 | Visual notes | Tailored-but-approachable outfit with a sash/pin of office, composed posture, neatly pinned hair |
 | Nature (spoiler field) | TBD |
 
+Renamed from "Magnolia."
+
 ---
 
-### Elm and Ivy — Town Founders
+### Thaddeus and Genevieve — Town Founders
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Elm and Ivy — an old couple, likely near Town Hall or the oldest part of town |
-| Personality traits | Elm: quiet, dry humor, watchful. Ivy: warm, talkative, keeper of stories. Read together as a lifelong pair — already complete, not available to the player romantically. |
+| Name / Role / Location | Thaddeus and Genevieve — an old couple, likely near Town Hall or the oldest part of town |
+| Personality traits | Thaddeus: quiet, dry humor, watchful. Genevieve: warm, talkative, keeper of stories. Read together as a lifelong pair — already complete, not available to the player romantically. |
 | Romanceable? | No |
 | Personal questline | TBD — likely paired/shared rather than separate |
 | Confidant-tier reveal | TBD |
 | World Story connection | TBD — high priority once the World Story track is built out further; "founders" implies real lore weight |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
-| Visual notes | Elm — weathered clothes, a well-worn cane, calm watchful eyes. Ivy — soft shawl, flowers braided into silver hair, animated hands |
+| Species | Human |
+| Visual notes | Thaddeus — weathered clothes, a well-worn cane, calm watchful eyes. Genevieve — soft shawl, flowers braided into silver hair, animated hands |
 | Nature (spoiler field) | TBD |
+
+Human, deliberately — the founders read as the town's original, unembellished people, a grounding contrast to the
+more magical newer residents. Renamed from "Elm and Ivy."
 
 ---
 
-### Alder — Fisherman
+### Silas — Fisherman
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Alder — the docks/riverside |
+| Name / Role / Location | Silas — the docks/riverside |
 | Personality traits | Easygoing, patient, comfortable with long silences. |
 | Romanceable? | No *(default — flag if you want this one romanceable instead)* |
 | Personal questline | Minimal by design |
@@ -130,19 +139,20 @@ Ties into the Arcane skill tree — sells spell components/reagents, staffs the 
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Animal-hybrid (small otter ear-fins) |
 | Visual notes | Sun-weathered skin, rolled sleeves, worn tackle vest, hat tipped back |
 | Nature (spoiler field) | TBD |
 
 Owns the Shared Activity of inviting an NPC to fish, already referenced in [03-npc-relationships.md, 4.3](03-npc-relationships.md).
-Renamed from "Reed" — too on-the-nose a pun for a fisherman.
+Naming history: "Reed" (too on-the-nose a pun for a fisherman), then "Alder," landing on Silas.
 
 ---
 
-### Flint — Miner / Prospector
+### Barrow — Miner / Prospector
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Flint (male) — near the dungeon entrance or a mining outpost, in town |
+| Name / Role / Location | Barrow (male) — near the dungeon entrance or a mining outpost, in town |
 | Personality traits | Blunt, hardworking, dry sense of humor. |
 | Romanceable? | No |
 | Personal questline | Minimal by design |
@@ -150,10 +160,12 @@ Renamed from "Reed" — too on-the-nose a pun for a fisherman.
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Orc |
 | Visual notes | Soot-dulled clothes, pickaxe over shoulder, thick gloves, a squint from underground work |
 | Nature (spoiler field) | TBD |
 
-Resource supply — a Forge/Earth crossover point for raw materials.
+Resource supply — a Forge/Earth crossover point for raw materials. Written with the same dignity-first care as the
+rest of the cast — physically tough and blunt, not a "grunting brute." Renamed from "Flint."
 
 ---
 
@@ -189,28 +201,31 @@ presentation (10.3) — consistent with clothing already being fully gender-unre
 
 ---
 
-### Hazel — Innkeeper
+### Adelaide — Innkeeper
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Hazel — runs the Inn, in town |
-| Personality traits | Warm, hospitable, a genuinely good listener. The "safe harbor" type — the Inn is a literal place of rest, and Hazel's whole presence matches that. |
+| Name / Role / Location | Adelaide — runs the Inn, in town |
+| Personality traits | Warm, hospitable, a genuinely good listener. The "safe harbor" type — the Inn is a literal place of rest, and Adelaide's whole presence matches that. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
 | Confidant-tier reveal | TBD |
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Human |
 | Visual notes | Cozy apron over a soft dress, hair tied back with a simple ribbon, often carrying a tray |
 | Nature (spoiler field) | TBD |
 
+Renamed from "Hazel."
+
 ---
 
-### Robin — Combat Trainer
+### Cassian — Combat Trainer
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Robin — a training yard, in town |
+| Name / Role / Location | Cassian — a training yard, in town |
 | Personality traits | Confident, encouraging mentor with playful banter energy — competent without being intimidating. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -218,20 +233,22 @@ presentation (10.3) — consistent with clothing already being fully gender-unre
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Orc (or half-Orc) |
 | Visual notes | Athletic build, wrapped hands/forearms, short practical hair, one or two sparring scars |
 | Nature (spoiler field) | TBD |
 
 Plausible in-fiction source for the melee/ranged/evasion fundamentals The Rose Garden bracket teaches (10.3 in
-[10-dungeons-and-risk.md](10-dungeons-and-risk.md)) — gives that early teaching moment a face, alongside Briar's
-warning about what the dungeon actually costs.
+[10-dungeons-and-risk.md](10-dungeons-and-risk.md)) — gives that early teaching moment a face, alongside Thorne's
+warning about what the dungeon actually costs. Deliberately not the "savage orc" trope — capable and warm. Renamed
+from "Robin."
 
 ---
 
-### Iris — Florist / Botanical Artist
+### Ophelia — Florist / Botanical Artist
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Iris — a flower shop/studio, in town |
+| Name / Role / Location | Ophelia — a flower shop/studio, in town |
 | Personality traits | Dreamy, artistic, poetic. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -239,11 +256,12 @@ warning about what the dungeon actually costs.
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Elf |
 | Visual notes | Flowing mismatched clothing, paint/pollen smudges, loose wavy hair with a flower tucked in |
 | Nature (spoiler field) | TBD |
 
 Grows and presses rare flowers, sells Placeables/Decor (8.4) — a reward category with no NPC tied to it until now.
-Ties into Earth/Growth without duplicating Thistle's apothecary lane.
+Ties into Earth/Growth without duplicating Mina's apothecary lane. Renamed from "Iris."
 
 ---
 
@@ -268,11 +286,11 @@ rather than just a passive bonus.
 
 ---
 
-### Linden — Town Doctor
+### Alistair — Town Doctor
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Linden — staffs the Town Hospital, in town |
+| Name / Role / Location | Alistair — staffs the Town Hospital, in town |
 | Personality traits | Composed, competent, quietly steady under pressure — the person you trust in a crisis without needing convincing. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -280,11 +298,12 @@ rather than just a passive bonus.
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Human |
 | Visual notes | Neat practical coat, hair kept simply out of the way, calm precise movements |
 | Nature (spoiler field) | TBD |
 
 Fills the mechanical gap flagged earlier: the Town Hospital (1.3/11.1's knockout relocation point) had nobody
-staffing it until now.
+staffing it until now. Renamed from "Linden."
 
 ---
 
@@ -292,7 +311,7 @@ staffing it until now.
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Daisy — works alongside Linden at the Town Hospital, in town |
+| Name / Role / Location | Daisy — works alongside Alistair at the Town Hospital, in town |
 | Personality traits | Warm, sunny, a little unsure of herself at first — determined rather than discouraged by it. Youthful energy. |
 | Romanceable? | Yes |
 | Personal questline | TBD — *she "becomes" a Nurse over the course of the game rather than starting fully settled into the role; this growth is a flagged future questline direction, not designed yet* |
@@ -304,17 +323,17 @@ staffing it until now.
 | Visual notes | Practical uniform slightly mussed from rushing, bright expressive face |
 | Nature (spoiler field) | TBD |
 
-Paired with Linden at the Hospital — Linden already composed and settled into the role, Daisy still growing into
+Paired with Alistair at the Hospital — Alistair already composed and settled into the role, Daisy still growing into
 hers. The contrast is intentional groundwork for later, not a plot beat being designed now. Renamed from "Marigold"
 — wanted something more youthful-sounding.
 
 ---
 
-### Saffron — Chef
+### Delphine — Chef
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Saffron — a food stall, in town (separate from Hazel's Inn) |
+| Name / Role / Location | Delphine — a food stall, in town (separate from Adelaide's Inn) |
 | Personality traits | Confident, playful, genuinely passionate about food — teases affectionately. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -322,10 +341,11 @@ hers. The contrast is intentional groundwork for later, not a plot beat being de
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Animal-hybrid (fox ears) |
 | Visual notes | Flour-dusted apron, sleeves rolled, a signature bandana |
 | Nature (spoiler field) | TBD |
 
-Ties into the Simple Cooking Pot (9.2) and Food consumables (9.1).
+Ties into the Simple Cooking Pot (9.2) and Food consumables (9.1). Renamed from "Saffron."
 
 ---
 
@@ -333,7 +353,7 @@ Ties into the Simple Cooking Pot (9.2) and Food consumables (9.1).
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Camellia — a Tavern, in town (a separate venue from Hazel's Inn) |
+| Name / Role / Location | Camellia — a Tavern, in town (a separate venue from Adelaide's Inn) |
 | Personality traits | Warm, an easy conversationalist, good listener — the "everyone's a regular" energy. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -345,16 +365,16 @@ Ties into the Simple Cooking Pot (9.2) and Food consumables (9.1).
 | Visual notes | Relaxed outfit, bar rag over one shoulder, easy posture |
 | Nature (spoiler field) | TBD |
 
-Given its own Tavern distinct from the Inn so Camellia and Hazel aren't sharing a workplace/role. Renamed from
+Given its own Tavern distinct from the Inn so Camellia and Adelaide aren't sharing a workplace/role. Renamed from
 "Amber" — swapped to a different floral/coquette name.
 
 ---
 
-### Marrow — Village Blacksmith
+### Gideon — Village Blacksmith
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Marrow — the Forge, in town |
+| Name / Role / Location | Gideon — the Forge, in town |
 | Personality traits | Steady, grounded protector. Quietly watchful and unbothered rather than tough-guy posturing — keeps everyone's gear (and by extension, everyone) safe and functional. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -362,18 +382,20 @@ Given its own Tavern distinct from the Inn so Camellia and Hazel aren't sharing 
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Orc |
 | Visual notes | Stocky build, soot-smudged apron, bare forearms, hair tied back |
 | Nature (spoiler field) | TBD |
 
-Ties into the Forge/Craft skill tree — likely point of sale for early Forge recipes/machines (see 3.7).
+Ties into the Forge/Craft skill tree — likely point of sale for early Forge recipes/machines (see 3.7). Physically
+imposing but warm, continuing the dignity-first framing already set for Barrow and Cassian. Renamed from "Marrow."
 
 ---
 
-### Thistle — Herbalist / Apothecary
+### Mina — Herbalist / Apothecary
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Thistle — an apothecary shop, in town |
+| Name / Role / Location | Mina (full name Wilhelmina) — an apothecary shop, in town |
 | Personality traits | Caretaker. Fussy in the best way — remembers everyone's comfort item, worries out loud, sells potions and bandages. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -381,18 +403,20 @@ Ties into the Forge/Craft skill tree — likely point of sale for early Forge re
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Fairy |
 | Visual notes | Herb-stuffed cardigan, small glasses, a leaf always caught in her hair |
 | Nature (spoiler field) | TBD |
 
-Ties into Earth/Growth and the Alchemy system (see 8.2) — likely point of sale for potions/oils/coatings.
+Ties into Earth/Growth and the Alchemy system (see 8.2) — likely point of sale for potions/oils/coatings. Renamed
+from "Thistle."
 
 ---
 
-### Sage — Town Archivist / Librarian
+### Percival — Town Archivist / Librarian
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Sage — the Archive/Library, in town |
+| Name / Role / Location | Percival — the Archive/Library, in town |
 | Personality traits | Memory-holder. Gentle, a little formal, deeply kind rather than eerie — holds pieces of information others don't have access to. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -400,12 +424,14 @@ Ties into Earth/Growth and the Alchemy system (see 8.2) — likely point of sale
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Elf |
 | Visual notes | Old-fashioned waistcoat, ink-stained fingers, wire-rim glasses |
 | Nature (spoiler field) | TBD |
 
-Sells maps, books, and lore scrolls. Mechanically, Sage can tell the player about a seasonal Wild Spawn before
+Sells maps, books, and lore scrolls. Mechanically, Percival can tell the player about a seasonal Wild Spawn before
 they've physically found it — feeding the "informationally known" map flag from 9.3, and giving that mechanic an
-actual voice instead of a passive unlock.
+actual voice instead of a passive unlock. Elf longevity plausibly explains why he'd be the one holding information
+others don't. Renamed from "Sage."
 
 ---
 
@@ -430,11 +456,11 @@ romanceable. Renamed from "Clover" — Leonair is a male take on "Eleanor."
 
 ---
 
-### Briar — Dungeon Gatekeeper / Town-Side Watchman
+### Thorne — Dungeon Gatekeeper / Town-Side Watchman
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Briar — stationed at the dungeon entrance, in town, at the threshold before floor 1 |
+| Name / Role / Location | Thorne — stationed at the dungeon entrance, in town, at the threshold before floor 1 |
 | Personality traits | Grumpy-because-he-cares, played all the way through rather than as a one-note bit — gruff, visibly reluctant to say anything sentimental out loud, but always follows through with action. Independent (not neglect-sensitive per 4.4) — he'd never admit to needing anyone else's attention. |
 | Romanceable? | Yes |
 | Personal questline | TBD — carries a recurring mechanical/narrative beat (see below) that deepens with repeated interaction |
@@ -442,27 +468,31 @@ romanceable. Renamed from "Clover" — Leonair is a male take on "Eleanor."
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Orc |
 | Visual notes | Tall, broad, weathered leather vest, an almost-scowl undercut by one soft detail he'd deny (a hand-knit scarf, a pressed flower) |
 | Nature (spoiler field) | TBD, leaning Literal Alter given the narrative weight — not locked |
 
 **Signature mechanic — Warn, Carry, Snack:**
-1. **Warning.** Before a player's first dungeon entry (and available as a repeatable dialogue line after), Briar
+1. **Warning.** Before a player's first dungeon entry (and available as a repeatable dialogue line after), Thorne
    gives an in-fiction version of the loot-loss risk info from 11.2 — knockout risk, losing your things, don't be
    stupid about it — replacing a dry system tooltip with an actual voice.
-2. **Knockout rescue cutscene.** Any knockout that happens inside the dungeon triggers a short cutscene: Briar
+2. **Knockout rescue cutscene.** Any knockout that happens inside the dungeon triggers a short cutscene: Thorne
    grumbling the entire way while physically getting the player home. Loot-loss per 11.2 still applies in full —
    this is a narrative layer on top of the existing system, not a mechanical override.
 3. **Aftermath note.** The next time the player heads back toward the dungeon, they find a snack waiting (a Food
    item per 9.1, restores Hearts on use) with a handwritten note: *"Here, take this next time you go out. Maybe I
    won't have to carry you home next time."*
 
+Even more literal thorn imagery than the previous name — an imposing exterior with a soft interior, continuing the
+Orc dignity-first throughline (Barrow, Cassian, Gideon). Renamed from "Briar."
+
 ---
 
-### Poppy — Tailor / Cosmetics Vendor
+### Seraphina — Tailor / Cosmetics Vendor
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Poppy — a dress shop, in town |
+| Name / Role / Location | Seraphina — a dress shop, in town |
 | Personality traits | Playful and expressive — genuinely delights in helping people look how they want to look, no vanity-caricature undertone. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -470,11 +500,12 @@ romanceable. Renamed from "Clover" — Leonair is a male take on "Eleanor."
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Fairy |
 | Visual notes | Colorful layered outfit (her own work), pincushion on wrist, ribbons |
 | Nature (spoiler field) | TBD |
 
 Point of sale for cosmetic Clothing (see 8.3/8.4) — gives the "cosmetics as prestige reward, never power" philosophy
-an actual voice in town rather than just a shop-menu category.
+an actual voice in town rather than just a shop-menu category. Renamed from "Poppy."
 
 ---
 
@@ -499,11 +530,11 @@ Ties into the Wild/Beast skill tree — sells Basic Feed, oversees the Pen/Coop 
 
 ---
 
-### Cedar — Carpenter / Architect
+### Barnaby — Carpenter / Architect
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Cedar (male) — a construction yard/workshop, in town |
+| Name / Role / Location | Barnaby (male) — a construction yard/workshop, in town |
 | Personality traits | Steady, practical, takes visible pride in a well-built structure. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -511,18 +542,20 @@ Ties into the Wild/Beast skill tree — sells Basic Feed, oversees the Pen/Coop 
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Human |
 | Visual notes | Sturdy build, tool belt, sawdust on his forearms |
 | Nature (spoiler field) | TBD |
 
-Ties into Forge/Craft — construction and structures, distinct from Marrow's weapons/armor lane.
+Ties into Forge/Craft — construction and structures, distinct from Gideon's weapons/armor lane. Renamed from
+"Cedar."
 
 ---
 
-### Rowan — Beekeeper / Apiarist
+### Linnet — Beekeeper / Apiarist
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Rowan (androgynous) — tends hives, likely near the edge of town |
+| Name / Role / Location | Linnet (androgynous) — tends hives, likely near the edge of town |
 | Personality traits | Quiet, attentive, finds meaning in small daily upkeep. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -530,12 +563,13 @@ Ties into Forge/Craft — construction and structures, distinct from Marrow's we
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
+| Species | Animal-hybrid (faint antennae, subtle wing-shimmer at the shoulders) |
 | Visual notes | Veiled hat pushed back off-duty, honey-gold color accents, gentle hands |
 | Nature (spoiler field) | TBD |
 
 Ties into Earth/Growth — sells honey/wax. Originally proposed as a groundskeeper/gardener, changed deliberately:
 "the Gardener" is already a malicious figure in Rose's discovery chain (6.4), and a friendly NPC with an overlapping
-title would collide with that. Mind spaces don't need a groundskeeper.
+title would collide with that. Mind spaces don't need a groundskeeper. Renamed from "Rowan."
 
 ---
 
@@ -555,7 +589,7 @@ title would collide with that. Mind spaces don't need a groundskeeper.
 | Visual notes | Travel-worn clothing, a well-used pack, layered scarf, road-dust on their boots |
 | Nature (spoiler field) | TBD |
 
-Distinct from Sage's settled-archivist energy — Olivier brings information in from outside rather than holding
+Distinct from Percival's settled-archivist energy — Olivier brings information in from outside rather than holding
 what's already here. Renamed from "River."
 
 ---

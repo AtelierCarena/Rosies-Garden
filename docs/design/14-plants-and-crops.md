@@ -28,12 +28,12 @@ design goal with new Winter content.
 
 A few notes on these picks:
 - **Belladonna** continues the "beautiful but dangerous" thread already running through Nightshade Berries (14.4)
-  — another strong Alchemy reagent candidate for Thistle's shop (8.2).
-- **Basil** and **Mint** are the first cooking-herb crops in the roster — plausible ingredients for Saffron (Chef,
+  — another strong Alchemy reagent candidate for Mina's shop (8.2).
+- **Basil** and **Mint** are the first cooking-herb crops in the roster — plausible ingredients for Delphine (Chef,
   12-npc-roster.md).
 - **Wheat** is the roster's first grain/staple crop — useful for baking, and was a genuine gap before this.
 
-A plausible future hook, still not locked: Sage could be the one who first mentions a new crop exists, before it's
+A plausible future hook, still not locked: Percival could be the one who first mentions a new crop exists, before it's
 purchasable — same "informationally known before physically available" pattern already established for Wild Spawns
 in 9.3.
 
@@ -65,7 +65,7 @@ flag split applying to each.
 | Fall | Witch Hazel Bark, Amber Resin, Thistledown |
 | Winter | Frost-Kissed Ivy, Silverbell Sprigs, Snowdrop Blossom |
 
-Nightshade Berries and Witch Hazel Bark are plausible Alchemy reagents (ties to Thistle's shop, 8.2's Alchemy
+Nightshade Berries and Witch Hazel Bark are plausible Alchemy reagents (ties to Mina's shop, 8.2's Alchemy
 system) rather than pure gift/decor items.
 
 ## 14.5 Fish and Bugs
@@ -95,7 +95,7 @@ economy logic as everything else:
 | Legendary | 500g+ |
 
 ### Fish
-Ties to Alder's Fisherman role and the fishing Shared Activity (4.3). Freshwater-flavored given Alder is
+Ties to Silas's Fisherman role and the fishing Shared Activity (4.3). Freshwater-flavored given Silas is
 docks/riverside-based.
 
 | Season | Fish | Rarity | Sell Price |
@@ -114,7 +114,7 @@ rather than a generic "big rare fish" — worth revisiting once more of that tra
 
 ### Bugs
 Likely uses: Wild/Beast feed/crafting reagents (Beau's shop), collection/gift items, possibly Arcane reagents
-(Ember's shop).
+(Ignatia's shop).
 
 | Season | Bugs | Rarity | Sell Price |
 |---|---|---|---|
