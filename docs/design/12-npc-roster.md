@@ -36,7 +36,7 @@ Renaming may happen at any time — the direction is what's locked, names are ea
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Pixie |
-| Visual notes | Compact build, trinket-covered travel pack, bright bandana, alert posture, sturdy boots |
+| Visual notes | Petite and slim build, trinket-covered travel pack, bright bandana, alert posture, sturdy boots |
 | Nature (spoiler field) | TBD |
 
 Ties into 11.5's boss-reward/fast-travel loop — Nix is a plausible point of sale/service once a bracket entrance is
@@ -57,7 +57,7 @@ unlocked. Renamed from "Pip."
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Human |
-| Visual notes | Practical rolled-sleeve apron, hair in a simple braid, sturdy approachable stance |
+| Visual notes | Heavyset, strong build; practical rolled-sleeve apron, hair in a simple braid, sturdy approachable stance |
 | Nature (spoiler field) | TBD |
 
 Point of sale for basic tools, seeds, and general supplies — the everyday commerce hub, ties loosely into Trade/Charm
@@ -78,7 +78,7 @@ without being the Trade tree's own shop-stall system (that's the player's). Rena
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Fairy |
-| Visual notes | Mismatched charms pinned to a vest, singed sleeve cuffs, wide curious eyes, perpetually staticky hair |
+| Visual notes | Tall and lanky; mismatched charms pinned to a vest, singed sleeve cuffs, wide curious eyes, perpetually staticky hair |
 | Nature (spoiler field) | TBD |
 
 Ties into the Arcane skill tree — sells spell components/reagents, staffs the basic Arcane Workbench (see 3.7).
@@ -99,7 +99,7 @@ Renamed from "Ember."
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Elf |
-| Visual notes | Tailored-but-approachable outfit with a sash/pin of office, composed posture, neatly pinned hair |
+| Visual notes | Lean, upright build; tailored-but-approachable outfit with a sash/pin of office, composed posture, neatly pinned hair |
 | Nature (spoiler field) | TBD |
 
 Renamed from "Magnolia."
@@ -119,11 +119,13 @@ Renamed from "Magnolia."
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Human |
-| Visual notes | Thaddeus — weathered clothes, a well-worn cane, calm watchful eyes. Genevieve — soft shawl, flowers braided into silver hair, animated hands |
+| Visual notes | Thaddeus — slight, weathered frame; weathered clothes, calm watchful eyes, uses a wheelchair some days and a well-worn cane on others depending on how he's doing. Genevieve — soft, round-bodied; soft shawl, flowers braided into silver hair, animated hands |
 | Nature (spoiler field) | TBD |
 
 Human, deliberately — the founders read as the town's original, unembellished people, a grounding contrast to the
-more magical newer residents. Renamed from "Elm and Ivy."
+more magical newer residents. Thaddeus's mobility aid is a stable, unremarked-on part of who he is rather than a
+plot point — some days the wheelchair, some days the cane, no explanation needed either way. Renamed from "Elm and
+Ivy."
 
 ---
 
@@ -140,7 +142,7 @@ more magical newer residents. Renamed from "Elm and Ivy."
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Animal-hybrid (small otter ear-fins) |
-| Visual notes | Sun-weathered skin, rolled sleeves, worn tackle vest, hat tipped back |
+| Visual notes | Broad, sturdy build; sun-weathered skin, rolled sleeves, worn tackle vest, hat tipped back |
 | Nature (spoiler field) | TBD |
 
 Owns the Shared Activity of inviting an NPC to fish, already referenced in [03-npc-relationships.md, 4.3](03-npc-relationships.md).
@@ -161,7 +163,7 @@ Naming history: "Reed" (too on-the-nose a pun for a fisherman), then "Alder," la
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Orc |
-| Visual notes | Soot-dulled clothes, pickaxe over shoulder, thick gloves, a squint from underground work |
+| Visual notes | Bulky, muscular build; soot-dulled clothes, pickaxe over shoulder, thick gloves, a squint from underground work |
 | Nature (spoiler field) | TBD |
 
 Resource supply — a Forge/Earth crossover point for raw materials. Written with the same dignity-first care as the
@@ -182,7 +184,7 @@ rest of the cast — physically tough and blunt, not a "grunting brute." Renamed
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Pixie |
-| Visual notes | Loose expressive clothing, an instrument always nearby, easy grin, deliberately tousled hair |
+| Visual notes | Slim, wiry build; loose expressive clothing, an instrument always nearby, easy grin, deliberately tousled hair |
 | Nature (spoiler field) | TBD |
 
 Trade/Charm-adjacent, town color/atmosphere. Naming history: "Reed" twice (once for the Fisherman, retired for
@@ -214,7 +216,7 @@ presentation (10.3) — consistent with clothing already being fully gender-unre
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Human |
-| Visual notes | Cozy apron over a soft dress, hair tied back with a simple ribbon, often carrying a tray |
+| Visual notes | Curvy, busty build; cozy apron over a soft dress, freckles across her nose and shoulders, hair tied back with a simple ribbon, often carrying a tray |
 | Nature (spoiler field) | TBD |
 
 Renamed from "Hazel."
@@ -234,7 +236,7 @@ Renamed from "Hazel."
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Orc (or half-Orc) |
-| Visual notes | Athletic build, wrapped hands/forearms, short practical hair, one or two sparring scars |
+| Visual notes | Bulky, muscular build; wrapped hands/forearms, short practical hair, one or two sparring scars |
 | Nature (spoiler field) | TBD |
 
 Plausible in-fiction source for the melee/ranged/evasion fundamentals The Rose Garden bracket teaches (10.3 in
@@ -257,7 +259,7 @@ from "Robin."
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Elf |
-| Visual notes | Flowing mismatched clothing, paint/pollen smudges, loose wavy hair with a flower tucked in |
+| Visual notes | Tall, willowy build; flowing mismatched clothing, paint/pollen smudges, loose wavy hair with a flower tucked in |
 | Nature (spoiler field) | TBD |
 
 Grows and presses rare flowers, sells Placeables/Decor (8.4) — a reward category with no NPC tied to it until now.
@@ -278,7 +280,7 @@ Ties into Earth/Growth without duplicating Mina's apothecary lane. Renamed from 
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Fairy |
-| Visual notes | Bold colorful outfit, expressive accessories, magnetic posture |
+| Visual notes | Curvy, busty build; bold colorful outfit, expressive accessories, magnetic posture |
 | Nature (spoiler field) | TBD |
 
 Ties into Trade/Charm's relationship-gain theme (3.7) — gives that mechanic an actual social personality behind it
@@ -299,7 +301,7 @@ rather than just a passive bonus.
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Human |
-| Visual notes | Neat practical coat, hair kept simply out of the way, calm precise movements |
+| Visual notes | Lean, narrow build; neat practical coat, hair kept simply out of the way, calm precise movements |
 | Nature (spoiler field) | TBD |
 
 Fills the mechanical gap flagged earlier: the Town Hospital (1.3/11.1's knockout relocation point) had nobody
@@ -321,7 +323,7 @@ on Sebastian.
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Animal-hybrid (rabbit ears) |
-| Visual notes | Practical uniform slightly mussed from rushing, bright expressive face |
+| Visual notes | Petite, soft-bodied build; practical uniform slightly mussed from rushing, freckled cheeks, bright expressive face |
 | Nature (spoiler field) | TBD |
 
 Paired with Sebastian at the Hospital — Sebastian already composed and settled into the role, Daisy still growing into
@@ -343,7 +345,7 @@ hers. The contrast is intentional groundwork for later, not a plot beat being de
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Animal-hybrid (fox ears) |
-| Visual notes | Flour-dusted apron, sleeves rolled, a signature bandana |
+| Visual notes | Curvy, thick-thighed build; flour-dusted apron, sleeves rolled, a signature bandana |
 | Nature (spoiler field) | TBD |
 
 Ties into the Simple Cooking Pot (9.2) and Food consumables (9.1). Renamed from "Saffron."
@@ -363,7 +365,7 @@ Ties into the Simple Cooking Pot (9.2) and Food consumables (9.1). Renamed from 
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Human |
-| Visual notes | Relaxed outfit, bar rag over one shoulder, easy posture |
+| Visual notes | Heavyset, broad-shouldered build; relaxed outfit, bar rag over one shoulder, easy posture |
 | Nature (spoiler field) | TBD |
 
 Given its own Tavern distinct from the Inn so Camellia and Adelaide aren't sharing a workplace/role. Renamed from
@@ -384,7 +386,7 @@ Given its own Tavern distinct from the Inn so Camellia and Adelaide aren't shari
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Orc |
-| Visual notes | Stocky build, soot-smudged apron, bare forearms, hair tied back |
+| Visual notes | Stocky, muscular build; soot-smudged apron, bare forearms, hair tied back |
 | Nature (spoiler field) | TBD |
 
 Ties into the Forge/Craft skill tree — likely point of sale for early Forge recipes/machines (see 3.7). Physically
@@ -405,7 +407,7 @@ imposing but warm, continuing the dignity-first framing already set for Barrow a
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Fairy |
-| Visual notes | Herb-stuffed cardigan, small glasses, a leaf always caught in her hair |
+| Visual notes | Short, soft-round build; herb-stuffed cardigan, small glasses, freckled nose, a leaf always caught in her hair |
 | Nature (spoiler field) | TBD |
 
 Ties into Earth/Growth and the Alchemy system (see 8.2) — likely point of sale for potions/oils/coatings. Renamed
@@ -426,7 +428,7 @@ from "Thistle."
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Elf |
-| Visual notes | Old-fashioned waistcoat, ink-stained fingers, wire-rim glasses |
+| Visual notes | Tall, slim build; old-fashioned waistcoat, ink-stained fingers, wire-rim glasses |
 | Nature (spoiler field) | TBD |
 
 Sells maps, books, and lore scrolls. Mechanically, Percival can tell the player about a seasonal Wild Spawn before
@@ -449,7 +451,7 @@ others don't. Renamed from "Sage."
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Animal-hybrid (soft lamb features) |
-| Visual notes | Soft oversized sweater, round gentle face, perpetually mid-smile |
+| Visual notes | Soft, round-bodied build; oversized sweater, round gentle face, perpetually mid-smile |
 | Nature (spoiler field) | TBD |
 
 No shop, no system tie-in, no function to justify existing — that absence is the point, even now that Milo is
@@ -471,7 +473,7 @@ boyish.
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Orc |
-| Visual notes | Tall, broad, weathered leather vest, an almost-scowl undercut by one soft detail he'd deny (a hand-knit scarf, a pressed flower) |
+| Visual notes | Tall, bulky, muscular build; weathered leather vest, an almost-scowl undercut by one soft detail he'd deny (a hand-knit scarf, a pressed flower) |
 | Nature (spoiler field) | TBD, leaning Literal Alter given the narrative weight — not locked |
 
 **Signature mechanic — Warn, Carry, Snack:**
@@ -503,7 +505,7 @@ Orc dignity-first throughline (Barrow, Cassian, Gideon). Renamed from "Briar."
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Fairy |
-| Visual notes | Colorful layered outfit (her own work), pincushion on wrist, ribbons |
+| Visual notes | Petite, slim build; colorful layered outfit (her own work), pincushion on wrist, ribbons |
 | Nature (spoiler field) | TBD |
 
 Point of sale for cosmetic Clothing (see 8.3/8.4) — gives the "cosmetics as prestige reward, never power" philosophy
@@ -524,7 +526,7 @@ an actual voice in town rather than just a shop-menu category. Renamed from "Pop
 | Companion connection | Plausible source for tamed companion guidance/feed — see Section 5 |
 | Lore ancestry | TBD |
 | Species | Animal-hybrid (deer/stag antlers) |
-| Visual notes | Earthy tones, hay-dusted work clothes, calm steady hands |
+| Visual notes | Tall, lean-muscled build; earthy tones, hay-dusted work clothes, freckled forearms, calm steady hands |
 | Nature (spoiler field) | TBD |
 
 Ties into the Wild/Beast skill tree — sells Basic Feed, oversees the Pen/Coop and Sanctuary/Breeding Nest structures
@@ -545,7 +547,7 @@ Ties into the Wild/Beast skill tree — sells Basic Feed, oversees the Pen/Coop 
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Human |
-| Visual notes | Sturdy build, tool belt, sawdust on his forearms |
+| Visual notes | Bulky, broad-shouldered build; tool belt, sawdust on his forearms |
 | Nature (spoiler field) | TBD |
 
 Ties into Forge/Craft — construction and structures, distinct from Gideon's weapons/armor lane. Renamed from
@@ -566,7 +568,7 @@ Ties into Forge/Craft — construction and structures, distinct from Gideon's we
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Animal-hybrid (faint antennae, subtle wing-shimmer at the shoulders) |
-| Visual notes | Veiled hat pushed back off-duty, honey-gold color accents, gentle hands |
+| Visual notes | Short, soft-bodied build; veiled hat pushed back off-duty, honey-gold color accents, freckled skin, gentle hands |
 | Nature (spoiler field) | TBD |
 
 Ties into Earth/Growth — sells honey/wax. Originally proposed as a groundskeeper/gardener, changed deliberately:
@@ -588,7 +590,7 @@ title would collide with that. Mind spaces don't need a groundskeeper. Renamed f
 | Companion connection | TBD |
 | Lore ancestry | TBD |
 | Species | Elf |
-| Visual notes | Travel-worn clothing, a well-used pack, layered scarf, road-dust on their boots |
+| Visual notes | Lean, wiry build; travel-worn clothing, a well-used pack, layered scarf, road-dust on their boots |
 | Nature (spoiler field) | TBD |
 
 Distinct from Percival's settled-archivist energy — Julian brings information in from outside rather than holding
