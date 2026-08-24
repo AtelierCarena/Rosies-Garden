@@ -31,6 +31,10 @@ value, and — for gear specifically — enchantment slot count.
   16-resources-and-materials.md, 16.2 — higher tier ore means higher base durability), further modified by any
   Enchantments applied. If an item has both a wood and an ore component (e.g. an axe handle + head), only the ore
   portion affects durability — wood is purely cosmetic (16.1) and never a stat input.
+- **Enchantment scaling — Locked:** each filled Enchant slot adds **+10% durability** on top of the item's ore-tier
+  base (16.2), and **+10% sell/base price** the same way — durability and value scale together rather than as
+  separate systems, so a fully-enchanted item reads as more durable *and* more valuable at a glance. A Legendary
+  Thornsteel item with all 4 slots filled sits around 500 x 1.4 = 700 durability, at 1.4x its unenchanted price.
 
 ## 8.3 Cosmetics: Fully Separate From Stat Gear
 Appearance/Outfit is an independent slot system from functional Armor — a player can wear a Legendary chestplate for
