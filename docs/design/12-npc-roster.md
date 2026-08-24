@@ -65,11 +65,11 @@ without being the Trade tree's own shop-stall system (that's the player's). Rena
 
 ---
 
-### Ignatia — Arcane Vendor
+### Leonair — Arcane Vendor
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Ignatia — the Arcane Workbench, in town |
+| Name / Role / Location | Leonair — the Arcane Workbench, in town |
 | Personality traits | Eccentric but approachable — delighted-nerd energy about magic rather than mysterious or sinister. Deliberately counters the "creepy occultist" trope. |
 | Romanceable? | No |
 | Personal questline | Minimal by design |
@@ -86,12 +86,12 @@ Renamed from "Ember."
 
 ---
 
-### Cordelia — Mayor
+### Olivier — Mayor
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Cordelia — Town Hall, in town |
-| Personality traits | Dignified, warm authority — organizes festivals/events and genuinely listens rather than just presiding. Community glue. |
+| Name / Role / Location | Olivier (male) — Town Hall, in town |
+| Personality traits | Dignified, warm authority — organizes festivals/events and genuinely listens rather than just presiding. Community glue. Masculine leadership presence — steady and grounding rather than commanding. |
 | Romanceable? | No |
 | Personal questline | Minimal by design |
 | Confidant-tier reveal | TBD |
@@ -169,11 +169,11 @@ rest of the cast — physically tough and blunt, not a "grunting brute." Renamed
 
 ---
 
-### Zander — Musician / Bard
+### Alistair — Musician / Bard
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Zander (male) — plays around town, no fixed shop |
+| Name / Role / Location | Alistair (male) — plays around town, no fixed shop |
 | Personality traits | Easy charm, expressive, reads a room well. Flirts constantly and enjoys it — but he's aromantic/asexual, so it never leads anywhere and isn't meant to. Not a tease with a hidden route; the flirting *is* the whole thing. |
 | Romanceable? | No |
 | Personal questline | Minimal by design |
@@ -187,7 +187,7 @@ rest of the cast — physically tough and blunt, not a "grunting brute." Renamed
 
 Trade/Charm-adjacent, town color/atmosphere. Naming history: "Reed" twice (once for the Fisherman, retired for
 being too on-the-nose, then reused here and retired again), then "Wilder," then "Lysander" (dropped — read slightly
-too feminine), landing on Zander.
+too feminine), landing on Alistair.
 
 ---
 
@@ -286,11 +286,11 @@ rather than just a passive bonus.
 
 ---
 
-### Alistair — Town Doctor
+### Sebastian — Town Doctor
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Alistair — staffs the Town Hospital, in town |
+| Name / Role / Location | Sebastian — staffs the Town Hospital, in town |
 | Personality traits | Composed, competent, quietly steady under pressure — the person you trust in a crisis without needing convincing. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -303,7 +303,8 @@ rather than just a passive bonus.
 | Nature (spoiler field) | TBD |
 
 Fills the mechanical gap flagged earlier: the Town Hospital (1.3/11.1's knockout relocation point) had nobody
-staffing it until now. Renamed from "Linden."
+staffing it until now. Naming history: "Linden," then "Alistair" (freed up when the Bard took that name), landing
+on Sebastian.
 
 ---
 
@@ -311,7 +312,7 @@ staffing it until now. Renamed from "Linden."
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Daisy — works alongside Alistair at the Town Hospital, in town |
+| Name / Role / Location | Daisy — works alongside Sebastian at the Town Hospital, in town |
 | Personality traits | Warm, sunny, a little unsure of herself at first — determined rather than discouraged by it. Youthful energy. |
 | Romanceable? | Yes |
 | Personal questline | TBD — *she "becomes" a Nurse over the course of the game rather than starting fully settled into the role; this growth is a flagged future questline direction, not designed yet* |
@@ -323,7 +324,7 @@ staffing it until now. Renamed from "Linden."
 | Visual notes | Practical uniform slightly mussed from rushing, bright expressive face |
 | Nature (spoiler field) | TBD |
 
-Paired with Alistair at the Hospital — Alistair already composed and settled into the role, Daisy still growing into
+Paired with Sebastian at the Hospital — Sebastian already composed and settled into the role, Daisy still growing into
 hers. The contrast is intentional groundwork for later, not a plot beat being designed now. Renamed from "Marigold"
 — wanted something more youthful-sounding.
 
@@ -435,11 +436,11 @@ others don't. Renamed from "Sage."
 
 ---
 
-### Leonair — No Job
+### Milo — No Job
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Leonair — present around town, no fixed post |
+| Name / Role / Location | Milo — present around town, no fixed post |
 | Personality traits | Pure companionship. Warm, low-stakes, simply present — the direct answer to "some of us are just here to keep us company." |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -451,8 +452,9 @@ others don't. Renamed from "Sage."
 | Visual notes | Soft oversized sweater, round gentle face, perpetually mid-smile |
 | Nature (spoiler field) | TBD |
 
-No shop, no system tie-in, no function to justify existing — that absence is the point, even now that Leonair is
-romanceable. Renamed from "Clover" — Leonair is a male take on "Eleanor."
+No shop, no system tie-in, no function to justify existing — that absence is the point, even now that Milo is
+romanceable. Naming history: "Clover," then "Leonair" (a male take on "Eleanor"), landing on Milo — soft and
+boyish.
 
 ---
 
@@ -530,11 +532,11 @@ Ties into the Wild/Beast skill tree — sells Basic Feed, oversees the Pen/Coop 
 
 ---
 
-### Barnaby — Carpenter / Architect
+### August — Carpenter / Architect
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Barnaby (male) — a construction yard/workshop, in town |
+| Name / Role / Location | August (male) — a construction yard/workshop, in town |
 | Personality traits | Steady, practical, takes visible pride in a well-built structure. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -573,11 +575,11 @@ title would collide with that. Mind spaces don't need a groundskeeper. Renamed f
 
 ---
 
-### Olivier — Wandering Scholar / Traveling Merchant
+### Julian — Wandering Scholar / Traveling Merchant
 
 | Field | Value |
 |---|---|
-| Name / Role / Location | Olivier (androgynous) — passes through town periodically rather than staying put |
+| Name / Role / Location | Julian (male) — passes through town periodically rather than staying put |
 | Personality traits | Curious, worldly, comfortable being new somewhere. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
@@ -589,8 +591,9 @@ title would collide with that. Mind spaces don't need a groundskeeper. Renamed f
 | Visual notes | Travel-worn clothing, a well-used pack, layered scarf, road-dust on their boots |
 | Nature (spoiler field) | TBD |
 
-Distinct from Percival's settled-archivist energy — Olivier brings information in from outside rather than holding
-what's already here. Renamed from "River."
+Distinct from Percival's settled-archivist energy — Julian brings information in from outside rather than holding
+what's already here. Naming history: "River," then "Olivier" (freed up when the Mayor took that name), landing on
+Julian — softer and more intellectual.
 
 ---
 

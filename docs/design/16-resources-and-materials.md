@@ -1,7 +1,7 @@
 # 16. Resources and Materials
 
 Fills a gap left open by the Forge/Craft skill tree (3.7, "tool/weapon quality" progression) and several already-
-locked NPCs/zones that depend on raw materials existing: Barrow (Miner/Prospector), Gideon and Barnaby (Forge/
+locked NPCs/zones that depend on raw materials existing: Barrow (Miner/Prospector), Gideon and August (Forge/
 Carpenter), the Quarry, the Forest and Hidden Forest (15.1). All names made up to fit the world rather than generic
 real-world material names.
 

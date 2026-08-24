@@ -36,14 +36,14 @@ More will be added as they come up. This list is deliberately not exhaustive.
 ## 15.3 Plausible Ties to Already-Locked Systems (not committed placements, just obvious overlaps worth noting)
 - **The Homestead** — already referenced as a knockout-relocation point (11.1) and the player's individual base
   (2.5). This zone is almost certainly that location, not a new one.
-- **The Hospital** — Alistair and Daisy's location (12-npc-roster.md) is "the Town Hospital, in town" — this zone
+- **The Hospital** — Sebastian and Daisy's location (12-npc-roster.md) is "the Town Hospital, in town" — this zone
   is that hospital.
-- **The Forge / Blacksmith** — Gideon's and Barnaby's locations. Gideon is "the Forge, in town"; Barnaby's construction
+- **The Forge / Blacksmith** — Gideon's and August's locations. Gideon is "the Forge, in town"; August's construction
   yard/workshop is Forge/Craft-adjacent and may or may not be the same physical building — TBD.
 - **The Inn** — Adelaide's location.
 - **Quarry** — a plausible home for Barrow (Miner/Prospector), currently listed as "near the dungeon entrance or a
   mining outpost" in the roster — the Quarry may be that outpost.
-- **Mage Tower** — a plausible home for Ignatia (Arcane Vendor) and the Arcane Workbench structure (3.7), currently
+- **Mage Tower** — a plausible home for Leonair (Arcane Vendor) and the Arcane Workbench structure (3.7), currently
   just "in town."
 - **Cathedral** — no current NPC/system tie. Worth keeping in mind for World Story weight given the game's central
   twist (06-storyline-structure.md, 7.1) — a cathedral is a strong candidate location for something narratively

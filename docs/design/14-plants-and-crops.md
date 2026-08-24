@@ -114,7 +114,7 @@ rather than a generic "big rare fish" — worth revisiting once more of that tra
 
 ### Bugs
 Likely uses: Wild/Beast feed/crafting reagents (Beau's shop), collection/gift items, possibly Arcane reagents
-(Ignatia's shop).
+(Leonair's shop).
 
 | Season | Bugs | Rarity | Sell Price |
 |---|---|---|---|
