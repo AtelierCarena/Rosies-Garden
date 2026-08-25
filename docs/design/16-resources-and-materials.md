@@ -87,18 +87,21 @@ Mechanic), not a separate roll — a better tool makes catches within its range 
 - **Animal Trap** — a live-catch trap for Tamed Companions (04-companions.md), not Fish/Bugs at all. Same ladder,
   same tier-gates-max-rarity logic, applied to creature "wildness" instead of catch rarity.
 
-**Sourcing — Locked, revised.** Unlike the Pickaxe and Axe, none of these four tools are part of the universal
-Tier 0 hand-craftable baseline — each is granted by the NPC whose trade actually matches it, the first time the
-player meets them (08-starting-experience.md, 9.5-9.7):
+**Sourcing — Locked, revised.** Unlike the Axe, none of these four catch/tame tools (or the Pickaxe) are part of
+the universal Tier 0 hand-craftable baseline — each is granted by the NPC whose trade actually matches it
+(08-starting-experience.md, 9.5-9.8):
 - **Silas** grants the Fishing Rod (the physical starting tool) plus recipes for the Crude Rod, Lobster Trap, and
-  Common Fishing Bait, plus Worm Gathering.
-- **Linnet** grants the Net recipe.
-- **Beau** grants the Animal Trap recipe.
+  Common Fishing Bait, plus Worm Gathering. Player-driven trigger (Dock/Tavern/3-day letter, 9.5).
+- **Linnet** grants the Net recipe. Single-encounter trigger (9.6).
+- **Beau** grants the Animal Trap recipe. Single-encounter trigger (9.7).
+- **Barrow** grants the Pickaxe (the physical starting tool) plus its recipe, and the Map — delivered together via
+  a guaranteed Day 1 doorstep note rather than an encounter trigger, since mining tools are needed from the very
+  first moment of play (9.8).
 
-This is a deliberate exception to the Crude Pickaxe/Crude Axe pattern: fishing/bug-catching/taming are each
-introduced through an actual NPC relationship beat rather than silently handed to the player at spawn, giving all
-three NPCs a concrete first-meeting hook the way Adelaide's Inn or Bella's General Store already imply for other
-early interactions.
+This is a deliberate exception to the Crude Axe pattern: mining/fishing/bug-catching/taming are each introduced
+through an actual NPC relationship beat rather than silently handed to the player at spawn, giving all four NPCs a
+concrete first-meeting hook the way Adelaide's Inn or Bella's General Store already imply for other early
+interactions.
 
 **Fishing Bait — Locked, new consumable.** A per-cast consumable, distinct from Rod tier — Bait improves
 catch-chance within whatever rarity range the equipped Rod can already reach, but never raises the max catchable

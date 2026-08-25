@@ -171,7 +171,10 @@ Naming history: "Reed" (too on-the-nose a pun for a fisherman), then "Alder," la
 | Nature (spoiler field) | TBD |
 
 Resource supply — a Forge/Earth crossover point for raw materials. Written with the same dignity-first care as the
-rest of the cast — physically tough and blunt, not a "grunting brute." Renamed from "Flint."
+rest of the cast — physically tough and blunt, not a "grunting brute." Also owns the player's very first tool —
+the Pickaxe and Map arrive together in a note blocking the spawn house's door on Day 1, sent by Barrow at the
+Mayor's prompting, inviting the player to come meet him in town (08-starting-experience.md, 9.8). Renamed from
+"Flint."
 
 ---
 

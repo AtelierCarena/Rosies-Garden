@@ -9,9 +9,11 @@ Every player, regardless of chosen Combat Class, begins with:
 | Crude Axe | Gathering — matches the Tier 0 hand-craftable of the same name (9.2); listed here since every player also starts with one on hand, not just the recipe |
 | Watering Can | Dual-function: waters crops, AND grows traversal flora — used on a flowerbed at the base of a cliff to sprout a large flower the player can climb up and down, gating elevation-based exploration behind the farming toolkit itself. |
 | A few placeable Torches | Can be placed in the world as a light source, OR equipped in the off-hand to auto-light the player's path while walking. Press L to place a torch from the off-hand. |
-| Map | See 9.3. |
 | Class Weapon, Light Clothing, Light Armor | Determined by chosen Combat Class — see Section 10. |
 | Small amount of Food | Healing/buff item — not a depleting hunger meter (see 1.3). |
+
+**Deliberately not here: the Map and Pickaxe.** Both are delivered together via a guaranteed Day 1 event rather
+than silently sitting in the starting inventory — see 9.8, Barrow's Doorstep Note.
 
 ## 9.2 Default Hand-Craftables (Tier 0 — No Station, No Points Required)
 A universal baseline every character knows regardless of build, sitting below Tier 1 of every skill tree:
@@ -20,19 +22,19 @@ A universal baseline every character knows regardless of build, sitting below Ti
 |---|---|
 | Campfire | Placeable/Utility — light source, basic cooking |
 | Basic Storage Chest | Placeable/Storage |
-| Crude Pickaxe | Tool — basic mining |
 | Crude Axe | Tool — basic wood-gathering |
 | Simple Bandage | Consumable — minor heart/heal restore |
 | Basic Fence (short) | Placeable/Building — teaches placement UI, base-marking |
 | Torch (handheld) | Tool/Utility — portable light, separate from Campfire |
 | Simple Cooking Pot | Placeable/Utility — upgrade path from Campfire cooking |
 
-**Deliberately not here: the Fishing Rod and Net.** Unlike the rest of this table, fishing/bug-catching tools are
-NPC-granted rather than universal-from-start — see 9.5, Silas's Fishing Lesson.
+**Deliberately not here: the Fishing Rod, Net, and Pickaxe.** Unlike the rest of this table, fishing/bug-catching/
+mining tools are NPC-granted rather than universal-from-start — see 9.5 (Silas), 9.6 (Linnet), and 9.8 (Barrow).
 
 ## 9.3 Map System
-- Starts as a physical inventory item. On FIRST open, it leaves the inventory permanently and becomes a persistent
-  small UI element (corner minimap) — a one-way conversion.
+- Delivered to the player on Day 1 via Barrow's Doorstep Note (9.8), not silently placed in the starting
+  inventory. Starts as a physical inventory item from that point. On FIRST open, it leaves the inventory
+  permanently and becomes a persistent small UI element (corner minimap) — a one-way conversion.
 - Pressing M expands the minimap into a full-screen map view for navigation.
 - **Visibility:** rough outlines/regions are visible from the start (general shapes); details stay fogged until physically
   explored. Once revealed, detail is permanent (does not re-fog).
@@ -119,3 +121,27 @@ trap used to tame small wild creatures into Tamed Companions (04-companions.md),
 existing taming mechanic to an actual physical tool for the first time. Follows the same Ore-tier ladder as
 Rod/Net/Lobster Trap (16.2) — higher tiers raise the maximum "wildness"/rarity of creature that can be safely
 tamed with it, mirroring the Rod's max-catchable-rarity gate.
+
+## 9.8 Barrow's Doorstep Note — Locked
+Unlike Silas/Linnet/Beau's flexible, player-driven encounters (9.5-9.7), this one is **guaranteed and immediate** —
+Barrow has the strongest claim to a starting tool of any NPC (mining is core to Forge/Earth progression from hour
+one), so the pattern here is deliberately different: no "go find him," the note comes to the player instead.
+
+**Trigger — Locked:** fires on Day 1, no player action required to start it. A note, a Crude Pickaxe, and the Map
+spawn together **directly in front of the player's spawn house door** — physically blocking the exit. This is a
+diegetic soft-gate, not an invisible wall: the player must pick up the note (and with it, the Pickaxe and Map) to
+clear the doorway and leave the house at all. No player can miss this one.
+
+**What it grants, all at once:**
+
+| Item | Type |
+|---|---|
+| 1x Crude Pickaxe | Physical tool — the actual starting Pickaxe |
+| Recipe: Crude Pickaxe | So the player can craft replacements/rebuilds later |
+| Map | Physical item, becomes the persistent minimap on first open (9.3) |
+| The Note itself | In-fiction: Barrow, prompted by the Mayor, left this for the new arrival — invites the player down to town to meet him properly |
+
+**No forced follow-up.** The note tells the player where to find Barrow, the same nudge-not-auto-trigger logic
+already established for Silas's letter (9.5) — actually walking down to meet him is a narrative/relationship beat
+the player can pursue on their own schedule, not a second mechanical gate. The doorstep delivery is what makes the
+tools/Map guaranteed; the in-person meeting is optional flavor on top of that.
