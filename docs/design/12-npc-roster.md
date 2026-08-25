@@ -146,6 +146,9 @@ Ivy."
 | Nature (spoiler field) | TBD |
 
 Owns the Shared Activity of inviting an NPC to fish, already referenced in [03-npc-relationships.md, 4.3](03-npc-relationships.md).
+Also owns the player's very first fishing lesson — meeting Silas (at the Dock, at the Tavern at night, or via his
+letter after 3 in-game days) hands over the starting Fishing Rod, the Net/Lobster Trap/Bait recipes, and Worm
+Gathering (08-starting-experience.md, 9.5) — the first fully fleshed-out NPC-given tutorial event in the roster.
 Naming history: "Reed" (too on-the-nose a pun for a fisherman), then "Alder," landing on Silas.
 
 ---

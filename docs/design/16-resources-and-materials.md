@@ -56,13 +56,13 @@ elsewhere in Forge/Craft (02-skill-trees.md, 3.6). A Tier 1 Pickaxe can only min
 unlocks mining of the next ore tier up, 1:1, so a player can see a higher-tier node before they're equipped to
 harvest it.
 
-**Fishing Rod / Net / Trap tier-gating — Locked:** the same pattern extends to catching Fish and Bugs
+**Fishing Rod / Net / Lobster Trap tier-gating — Locked:** the same pattern extends to catching Fish and Bugs
 (14-plants-and-crops.md, 14.5). Each tool is crafted at the matching Ore tier and gates two things at once: the
 **maximum rarity tier catchable at all**, and a **per-tier bonus to catch-chance/minigame ease** within whatever
 range that tool can already reach. A Tier 1 Rod simply cannot hook a Rare fish — the creature won't bite at all —
 rather than offering a harder chance at it.
 
-| Ore Tier | Rod/Net/Trap Tier | Max Catchable Rarity | Catch-Chance Bonus |
+| Ore Tier | Rod/Net/Lobster Trap Tier | Max Catchable Rarity | Catch-Chance Bonus |
 |---|---|---|---|
 | 1 (Rosevein) | Crude | Common | — (baseline) |
 | 2 (Ashenshale) | Tier 2 | Uncommon | +10% |
@@ -78,15 +78,25 @@ Mechanic), not a separate roll — a better tool makes catches within its range 
 **Three distinct tools, one shared ladder:**
 - **Fishing Rod** — active, used at water, catches Fish. The player engages the timed bar-alignment minigame.
 - **Net** — active, used on land/air, catches Bugs. The player engages the timed positioning/swing minigame.
-- **Trap** — passive, placed near a Fish or Bug spawn zone and left to work over one in-game day/night cycle, no
-  minigame required. Trades the active tools' catch-chance bonus for zero player time cost — a Trap only ever
-  catches at its tier's baseline chance (no +10%/+20%/etc. bonus), regardless of Trap tier, since the tradeoff is
-  convenience, not power. Higher Trap tiers still raise the max catchable rarity, same as Rod/Net.
+- **Lobster Trap** — passive, placed near a Fish or Bug spawn zone and left to work over one in-game day/night
+  cycle, no minigame required. Trades the active tools' catch-chance bonus for zero player time cost — a Lobster
+  Trap only ever catches at its tier's baseline chance (no +10%/+20%/etc. bonus), regardless of its own tier, since
+  the tradeoff is convenience, not power. Higher-tier Lobster Traps still raise the max catchable rarity, same as
+  Rod/Net.
 
-Crude versions of the Rod and Net are part of the Tier 0 hand-craftable baseline (08-starting-experience.md, 9.2) —
-every player starts able to fish/net Common-tier creatures immediately, mirroring the Crude Pickaxe/Crude Axe
-pattern already established there. The Trap is a Forge/Craft Tier 1 unlock rather than a Tier 0 hand-craftable,
-since passive automation is a step up from the immediate-use starting toolkit.
+**Sourcing — Locked, revised.** Unlike the Pickaxe and Axe, the Crude Fishing Rod is **not** part of the universal
+Tier 0 hand-craftable baseline. It's granted by Silas the first time the player meets him (08-starting-experience.md,
+9.5) — along with the recipes for the Crude Rod, Net, Lobster Trap, and Common Fishing Bait, plus Worm Gathering.
+This is a deliberate exception to the Crude Pickaxe/Crude Axe pattern: fishing is introduced through an actual NPC
+relationship beat rather than silently handed to the player at spawn, giving Silas a concrete first-meeting hook
+the way Adelaide's Inn or Bella's General Store already imply for other early interactions.
+
+**Fishing Bait — Locked, new consumable.** A per-cast consumable, distinct from Rod tier — Bait improves
+catch-chance within whatever rarity range the equipped Rod can already reach, but never raises the max catchable
+rarity (that stays hard-gated by Rod tier per the table above). Crafted from Worms, gathered by digging randomly
+spawning "soft spots" in the dirt across the overworld (not tied to a fixed Wild Spawn zone, 9.3) — Silas teaches
+the player to recognize these during the same first-meeting event. Common Fishing Bait is the Tier 0 baseline;
+higher Bait tiers are a plausible future unlock, not detailed yet.
 
 ## 16.3 Fiber Plants (for Cloth) — Locked
 

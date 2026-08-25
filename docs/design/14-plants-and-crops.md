@@ -187,7 +187,7 @@ wasn't worth the added complexity.
 | Legendary | 500g+ | Rare Sighting |
 
 **Catching is tool-gated — Locked.** Which rarity tiers a player can even hook/net depends on their Fishing
-Rod/Net/Trap tier, with higher tiers also improving catch-chance within range — see
+Rod/Net/Lobster Trap tier, with higher tiers also improving catch-chance within range — see
 16-resources-and-materials.md, 16.2 for the full tier table. A Crude Rod (the Tier 0 starting tool,
 08-starting-experience.md 9.2) can only ever catch Common-tier fish, regardless of what's swimming past.
 
