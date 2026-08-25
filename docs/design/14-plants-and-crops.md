@@ -283,34 +283,75 @@ catches at once.
 | Fall | Harvest Moon Mantis | Epic | 275g | Fall Harvest Festival, at the River (same window as Harvest Moon Salmon) |
 | Winter | Yule Glow Beetle | Epic | 280g | Winter Solstice festival, at the Lake (same window as Yulewater Salmon) |
 
-### Dungeon-Exclusive Fish and Bugs — Locked, new subcategory
-One fish and one bug per depth bracket (10-dungeons-and-risk.md, 11.2), themed to that bracket's name/tone rather
-than reused overworld species. **These are not mobs or enemies** — they use the same catch mechanic as overworld
-fish/bugs (shadow/ripple approach, timed minigame) at water features or insect spawns scattered through that
-bracket, don't attack, and aren't part of the enemy difficulty curve (11.3) at all. A calmer, optional layer inside
-an otherwise risk-heavy space — something to notice and catch between fights rather than another threat.
+### Dungeon-Exclusive Fish and Bugs — Locked, expanded
+3 fish and 3 bugs per depth bracket (10-dungeons-and-risk.md, 11.2) — expanded from 1 each, since a single catch
+per bracket read as thin for a full dungeon. Themed to that bracket's name/tone rather than reused overworld
+species. **These are not mobs or enemies** — they use the same catch mechanic as overworld fish/bugs (shadow/ripple
+approach, timed minigame) at water features or insect spawns scattered through that bracket, don't attack, and
+aren't part of the enemy difficulty curve (11.3) at all. A calmer, optional layer inside an otherwise risk-heavy
+space — something to notice and catch between fights rather than another threat.
 
-Rarity scales with bracket depth, mirroring the enemy power curve (11.3) rather than inventing a separate scale.
+**Spawn Frequency — Locked, new concept:** not every catchable in a bracket appears on every run — each carries a
+per-run sighting chance, distinct from its sell-price rarity tier. A run might turn up all three of a bracket's
+fish, or none.
 
-| Bracket | Fish | Bug | Rarity | Sell Price (each) |
-|---|---|---|---|---|
-| 1-24, The Rose Garden | Rosewater Guppy | Petal-Wing Ladybug | Common | 25g / 20g |
-| 25-49, Forget-Me-Not Fields | Forgetful Minnow | Wisp Moth | Uncommon | 55g / 55g |
-| 50-74, The Dollhouse | Porcelain Guppy | Wind-Up Cricket | Uncommon | 65g / 60g |
-| 75-99, The Opera House | Marionette Eel | Curtain Moth | Rare | 120g / 115g |
-| 100-124, Porcelain Orchards | Glass Bloom Koi | Kiln Firefly | Rare | 140g / 130g |
-| 125-149, Her Hollow | Hollow Eel | Widow's Web Spider | Epic | 220g / 210g |
-| 150-174, Ballerinas Catacombs | Bone-China Carp | Corps Moth | Epic | 240g / 230g |
-| 175-199, The Cradle Graveyard | Wailing Koi | Keening Cicada | Legendary | 450g / 430g |
-| 200, The Trellis | Rose-Thorn Koi | Trellis Firefly | Legendary | 550g / 520g |
+| Frequency | Meaning |
+|---|---|
+| Frequent | Turns up on most runs through the bracket |
+| Occasional | Turns up on a meaningful minority of runs |
+| Rare Sighting | Turns up only rarely — priced a tier above the bracket's baseline, functioning as that bracket's own mini-chase item |
+
+Rarity/price scales with bracket depth overall, mirroring the enemy power curve (11.3), with Rare Sighting entries
+bumped one price tier above their bracket's baseline.
+
+| Bracket | Fish | Frequency | Bug | Frequency | Rarity (baseline) |
+|---|---|---|---|---|---|
+| 1-24, The Rose Garden | Rosewater Guppy | Frequent | Petal-Wing Ladybug | Frequent | Common |
+| | Bramblefin Loach | Occasional | Rosebud Beetle | Occasional | Common |
+| | Thornscale Minnow | Rare Sighting | Garden Sprite Moth | Rare Sighting | Uncommon |
+| 25-49, Forget-Me-Not Fields | Forgetful Minnow | Frequent | Wisp Moth | Frequent | Uncommon |
+| | Driftmist Carp | Occasional | Fading Firefly | Occasional | Uncommon |
+| | Vanishing Trout | Rare Sighting | Lost Memory Moth | Rare Sighting | Rare |
+| 50-74, The Dollhouse | Porcelain Guppy | Frequent | Wind-Up Cricket | Frequent | Uncommon |
+| | Broken China Loach | Occasional | Stitched Button Beetle | Occasional | Uncommon |
+| | Nanny's Pearlfish | Rare Sighting | Porcelain Mantis | Rare Sighting | Rare |
+| 75-99, The Opera House | Marionette Eel | Frequent | Curtain Moth | Frequent | Rare |
+| | Understudy Guppy | Occasional | Backstage Beetle | Occasional | Rare |
+| | Prima Donna Koi | Rare Sighting | Maestro's Cicada | Rare Sighting | Epic |
+| 100-124, Porcelain Orchards | Glass Bloom Koi | Frequent | Kiln Firefly | Frequent | Rare |
+| | Shard-Scale Minnow | Occasional | Brittlewing Wasp | Occasional | Rare |
+| | Kiln-Fired Carp | Rare Sighting | Orchard Warden Beetle | Rare Sighting | Epic |
+| 125-149, Her Hollow | Hollow Eel | Frequent | Widow's Web Spider | Frequent | Epic |
+| | Ambush Pike | Occasional | Elite Thorn Beetle | Occasional | Epic |
+| | Widow-Song Koi | Rare Sighting | Hollow Queen's Moth | Rare Sighting | Legendary |
+| 150-174, Ballerinas Catacombs | Bone-China Carp | Frequent | Corps Moth | Frequent | Epic |
+| | Corps Koi | Occasional | Chorus Cricket | Occasional | Epic |
+| | Prima's Pearlfin | Rare Sighting | Conductor's Cicada | Rare Sighting | Legendary |
+| 175-199, The Cradle Graveyard | Wailing Koi | Frequent | Keening Cicada | Frequent | Legendary |
+| | Forgotten Nurse Eel | Occasional | Cradle Moth | Occasional | Legendary |
+| | Keening Mother's Carp | Rare Sighting | Wailing Mantis | Rare Sighting | Legendary |
+
+**Sell prices** follow the standard rarity bands (14.5's Rarity Tiers table above), with each bracket's Frequent
+and Occasional entries priced near the bottom and middle of their baseline tier respectively, and Rare Sighting
+entries priced near the bottom of the tier one step up.
 
 **The Dollhouse** and **Opera House** entries lean into those brackets' "still their original terrain underneath
-the name" detail (10-dungeons-and-risk.md, 11.6 — a bog and a marsh) — Porcelain Guppy and Marionette Eel are
-plausible bog/marsh creatures wearing the bracket's flavor name, the same way the brackets themselves work.
+the name" detail (10-dungeons-and-risk.md, 11.6 — a bog and a marsh) — Porcelain Guppy and Marionette Eel (and
+their bracket-mates) are plausible bog/marsh creatures wearing the bracket's flavor name, the same way the
+brackets themselves work.
 
-**Rose-Thorn Koi and Trellis Firefly** are the single unique catches at floor 200 — quiet, found in the same
-soft-light, time-doesn't-move space Rose rests in (11.4), continuing that bracket's deliberately non-combat,
-non-Sleeping-Beauty tone rather than treating floor 200 as just "the hardest catch."
+### Floor 200, The Trellis — Locked
+Kept smaller than the other brackets (2 fish, 2 bugs, both Frequent — no Rare Sighting tier) since floor 200 is a
+single unique finale floor, not a 25-level bracket like the rest (11.4).
+
+| Fish | Bug | Rarity | Sell Price (each) |
+|---|---|---|---|
+| Rose-Thorn Koi | Trellis Firefly | Legendary | 550g / 520g |
+| Sleeping Bloom Fish | Eternal Bloom Moth | Legendary | 560g / 555g |
+
+Rose-Thorn Koi, Trellis Firefly, Sleeping Bloom Fish, and Eternal Bloom Moth are all found in the same soft-light,
+time-doesn't-move space Rose rests in (11.4), continuing that bracket's deliberately non-combat, non-Sleeping-Beauty
+tone rather than treating floor 200 as just "the hardest catch."
 
 ## 14.6 Trees and Orchards
 Perennial placeables, distinct from the tilled seasonal-crop-rotation system — once planted and grown, they don't
