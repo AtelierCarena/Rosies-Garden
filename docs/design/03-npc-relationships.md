@@ -37,9 +37,11 @@ plugs into; individual NPC personalities/dialogue are designed separately (see S
 
 ## 4.5 Event Triggers
 - **Threshold events** — fire once, automatically, the moment a meter crosses a tier boundary.
-- **Conditional events** — require a tier PLUS an external condition (season, weather, or the player's progress in a
-  specific skill tree), layering relationship depth on top of the other systems for richer, less predictable pacing than
-  pure meter-climbing.
+- **Conditional events** — triggered purely by an external world-state condition, unrelated to and not gated behind
+  meter tier at all (e.g. interacting with a specific tree in the woods on a Friday in Year 2). Independent from
+  tier-scaling entirely — a conditional event can fire for a Stranger-tier NPC just as easily as a Confidant-tier
+  one, since it's the world-state condition doing the gating, not relationship progress. This layers a second,
+  unpredictable discovery axis on top of the meter's steady climb rather than compounding with it.
 
 ## 4.6 Dungeon Companions — Locked
 At **Tier 4 (Confidant)**, the player can ask an eligible NPC to join them in the dungeon. Tier 4 was chosen
