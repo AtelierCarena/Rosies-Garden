@@ -86,3 +86,19 @@ ending:
   "this moment is different" on a visual/subconscious level before they consciously understand why, reinforcing
   the twist without a single line of dialogue doing it for them.
 
+## 7.4 Memory Notes/Items — First Batch, Locked
+Each a plain, ordinary object first — nothing narrated as significant, no dialogue calling attention to it — only
+reading as more than that in hindsight, once the ending recontextualizes it. Placed across existing zones
+(15-regions-and-zones.md, 15.1), spread out rather than clustered.
+
+| Item | Location | What the player sees |
+|---|---|---|
+| A pressed flower in a borrowed book | The Homestead, on a bookshelf | Gone brittle-thin, tucked at the same page every time the book is opened |
+| A child's height marked in pencil on a doorframe | The Inn | The marks stop partway up, mid-childhood, never finished |
+| A torn ticket stub | Near the Train Station, half-buried | For a place that doesn't appear anywhere on the map |
+| A single mitten | Snagged on the fence near the Garden Wall | No pair, no owner, weathered like it's been there a long time |
+| An unlit, unused birthday candle | A drawer at the Inn | The wrong number of them for any age that makes obvious sense |
+| A folded crayon drawing | The Hidden Forest | A house, a sun, two stick figures holding hands — one figure scribbled out later, in a different color of crayon |
+
+More Memory Notes are expected as the World Story track develops further — this batch establishes the pattern
+(ordinary object, specific and slightly wrong detail, no explanation) rather than being the complete set.
