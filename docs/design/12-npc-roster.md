@@ -70,10 +70,10 @@ without being the Trade tree's own shop-stall system (that's the player's). Rena
 | Field | Value |
 |---|---|
 | Name / Role / Location | Leonair — the Arcane Workbench, in town |
-| Personality traits | Eccentric but approachable — delighted-nerd energy about magic rather than mysterious or sinister. Deliberately counters the "creepy occultist" trope. |
+| Personality traits | Eccentric but approachable — delighted-nerd energy about magic rather than mysterious or sinister. Deliberately counters the "creepy occultist" trope. Surface layer stays exactly this; see Confidant-tier reveal below for what's underneath. |
 | Romanceable? | No |
 | Personal questline | Minimal by design |
-| Confidant-tier reveal | TBD |
+| Confidant-tier reveal | **Locked — quietly the most powerful Arcane practitioner in the roster.** He could plausibly have held a formal, prestigious Arcane position (a seat at the Arcane Altar's institutional equivalent, a title) and turned it down — not out of humility-as-tragedy, but because he genuinely prefers practicing magic among people who actually use it day-to-day over hoarding it in a tower. Money is a mundane, faintly funny problem he never pretends is beneath him; magic doesn't pay rent, and he finds that more amusing than ironic. The reveal lands via one concrete demonstration rather than exposition — an off-hand, almost embarrassed display of doing something well above what his modest shop should be capable of (no-selling a problem Percival or Mina couldn't crack, for instance), recalibrating what the player thought he was. |
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
@@ -82,7 +82,10 @@ without being the Trade tree's own shop-stall system (that's the player's). Rena
 | Nature (spoiler field) | TBD |
 
 Ties into the Arcane skill tree — sells spell components/reagents, staffs the basic Arcane Workbench (see 3.7).
-Renamed from "Ember."
+**Also, quietly, the reason the Arcane tree's higher end is reachable at all** — plausibly the one who authored or
+first taught the Archivist's Insight potion recipe (07-item-system.md, 8.6) and has some hand in the Arcane
+Altar's existence (3.7, Tier 7) — giving his hidden depth an actual mechanical fingerprint rather than staying
+pure flavor text. Renamed from "Ember."
 
 ---
 
