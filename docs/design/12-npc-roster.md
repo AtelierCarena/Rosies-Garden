@@ -616,36 +616,43 @@ not all at once, given the scope.
 
 **13.1 Functional NPCs:**
 
-| NPC | Dungeon Role | Ability Concept |
-|---|---|---|
-| Nix | Companion-Granter | Coin Sprite familiar — auto-collects nearby dropped gold/small loot |
-| Bella | Companion-Granter | Pack-badger companion — increases carry capacity, reduces loot-loss chance on knockout (ties 11.2) |
-| Leonair | Dungeon Escort | Field-applies a short-duration Enchant-style buff to the player's weapon/armor, on cooldown |
-| Olivier | Companion-Granter | Owl/hawk "town watch" spirit — briefly reveals nearby enemy positions on the minimap |
-| Thaddeus and Genevieve | Companion-Granter (joint) | A loyal old hound companion — grounding/protective, moderate HP tank-lite |
-| Silas | Dungeon Escort | Auto-nets bonus Fish-tier ingredient drops from water hazards passed (raw drops, not cooked — distinct from Delphine) |
-| Barrow | Dungeon Escort | Auto-mines Ore nodes the party passes (direct tie to 16.2's Ore/Pickaxe system) |
-| Alistair | Dungeon Escort | Traveling Tune — passive periodic party buff (minor Stamina/Speed regen), no trigger needed |
+| NPC | Dungeon Role | Ability Concept | Attributes (Escort only) |
+|---|---|---|---|
+| Nix | Companion-Granter | Coin Sprite familiar — auto-collects nearby dropped gold/small loot | N/A — see 04-companions.md |
+| Bella | Companion-Granter | Pack-badger companion — increases carry capacity, reduces loot-loss chance on knockout (ties 11.2) | N/A — see 04-companions.md |
+| Leonair | Dungeon Escort | Field-applies a short-duration Enchant-style buff to the player's weapon/armor, on cooldown | HP 60 / Power 10 / Speed 12 — fragile support caster |
+| Olivier | Companion-Granter | Owl/hawk "town watch" spirit — briefly reveals nearby enemy positions on the minimap | N/A — see 04-companions.md |
+| Thaddeus and Genevieve | Companion-Granter (joint) | A loyal old hound companion — grounding/protective, moderate HP tank-lite | N/A — see 04-companions.md |
+| Silas | Dungeon Escort | Auto-nets bonus Fish-tier ingredient drops from water hazards passed (raw drops, not cooked — distinct from Delphine) | HP 70 / Power 8 / Speed 10 — non-combat utility |
+| Barrow | Dungeon Escort | Auto-mines Ore nodes the party passes (direct tie to 16.2's Ore/Pickaxe system) | HP 100 / Power 16 / Speed 8 — tanky, slow miner |
+| Alistair | Dungeon Escort | Traveling Tune — passive periodic party buff (minor Stamina/Speed regen), no trigger needed | HP 65 / Power 8 / Speed 14 — fragile support |
 
 **13.2 Romanceable NPCs (excluding Delphine, above):**
 
-| NPC | Dungeon Role | Ability Concept |
-|---|---|---|
-| Adelaide | Dungeon Escort | Sets up a portable rest point once per bracket, restoring Hearts (camp-style, distinct from Delphine's food-heal) |
-| Cassian | Dungeon Escort | Direct melee combat assist — highest Power among non-Thorne Escorts |
-| Ophelia | Companion-Granter | Pollen-moth/fairy companion — small heal-over-time aura |
-| Dahlia | Companion-Granter | Scent-warding animal companion — repels/deters specific enemy types within a radius |
-| Sebastian | Dungeon Escort | Healing/revive assist — can revive a downed Escort or Companion |
-| Daisy | Dungeon Escort | Secondary healer — cures poison/status debuffs, pairs with Sebastian |
-| Camellia | Dungeon Escort | Crafts a temporary stat-buff drink mid-run, cooldown-gated (parallel structure to Delphine's cooking, buff- rather than heal-focused) |
-| Gideon | Dungeon Escort | Field-repairs the player's equipped Tool/Weapon/Armor durability once per bracket (ties 16.2/8.2) |
-| Mina | Dungeon Escort | Crafts a temporary Alchemy-style potion buff from foraged wild plants mid-run |
-| Percival | Dungeon Escort | Reveals hidden rooms/traps on the minimap within a radius (ties 9.3) |
-| Milo | Companion-Granter | Gentle lamb-spirit companion — no combat power, passive comfort buff (small Stamina regen); keeps his "no function to justify existing" flavor even here |
-| Thorne | Dungeon Escort | Tank/guard — highest HP/Power of any Escort, can block/taunt hits for the player (fits his Gatekeeper role directly) |
-| Seraphina | Companion-Granter | Silk-moth companion — brief evasion/dodge-cloak buff on summon |
-| Beau | Dungeon Escort | Temporarily calms/pacifies one wild-type dungeon enemy (crowd control, animal-whisperer theme) |
-| August | Dungeon Escort | Builds a temporary barricade mid-run (crowd control/utility, ties Forge/Craft) |
-| Linnet | Companion-Granter | Giant bee companion — attacks enemies within a radius around the player |
-| Julian | Dungeon Escort | Identifies an enemy's element/weak point on first encounter each run (distinct from Percival's room/trap focus) |
+| NPC | Dungeon Role | Ability Concept | Attributes (Escort only) |
+|---|---|---|---|
+| Adelaide | Dungeon Escort | Sets up a portable rest point once per bracket, restoring Hearts (camp-style, distinct from Delphine's food-heal) | HP 75 / Power 8 / Speed 10 — non-combat support |
+| Cassian | Dungeon Escort | Direct melee combat assist — highest Power among non-Thorne Escorts | HP 100 / Power 32 / Speed 14 |
+| Ophelia | Companion-Granter | Pollen-moth/fairy companion — small heal-over-time aura | N/A — see 04-companions.md |
+| Dahlia | Companion-Granter | Scent-warding animal companion — repels/deters specific enemy types within a radius | N/A — see 04-companions.md |
+| Sebastian | Dungeon Escort | Healing/revive assist — can revive a downed Escort or Companion | HP 85 / Power 10 / Speed 11 |
+| Daisy | Dungeon Escort | Secondary healer — cures poison/status debuffs, pairs with Sebastian | HP 75 / Power 8 / Speed 13 |
+| Camellia | Dungeon Escort | Crafts a temporary stat-buff drink mid-run, cooldown-gated (parallel structure to Delphine's cooking, buff- rather than heal-focused) | HP 80 / Power 12 / Speed 11 |
+| Gideon | Dungeon Escort | Field-repairs the player's equipped Tool/Weapon/Armor durability once per bracket (ties 16.2/8.2) | HP 110 / Power 18 / Speed 8 — sturdy, slow |
+| Mina | Dungeon Escort | Crafts a temporary Alchemy-style potion buff from foraged wild plants mid-run | HP 75 / Power 10 / Speed 11 |
+| Percival | Dungeon Escort | Reveals hidden rooms/traps on the minimap within a radius (ties 9.3) | HP 65 / Power 6 / Speed 10 — fragile scholar |
+| Milo | Companion-Granter | Gentle lamb-spirit companion — no combat power, passive comfort buff (small Stamina regen); keeps his "no function to justify existing" flavor even here | N/A — see 04-companions.md |
+| Thorne | Dungeon Escort | Tank/guard — highest HP/Power of any Escort, can block/taunt hits for the player (fits his Gatekeeper role directly) | HP 150 / Power 30 / Speed 8 — the tankiest Escort in the roster |
+| Seraphina | Companion-Granter | Silk-moth companion — brief evasion/dodge-cloak buff on summon | N/A — see 04-companions.md |
+| Beau | Dungeon Escort | Temporarily calms/pacifies one wild-type dungeon enemy (crowd control, animal-whisperer theme) | HP 90 / Power 12 / Speed 16 |
+| August | Dungeon Escort | Builds a temporary barricade mid-run (crowd control/utility, ties Forge/Craft) | HP 95 / Power 14 / Speed 9 |
+| Linnet | Companion-Granter | Giant bee companion — attacks enemies within a radius around the player | N/A — see 04-companions.md |
+| Julian | Dungeon Escort | Identifies an enemy's element/weak point on first encounter each run (distinct from Percival's room/trap focus) | HP 70 / Power 10 / Speed 15 — wiry traveler |
+
+**Attributes calibration note:** Thorne anchors the top of the scale (HP 150/Power 30) as the roster's dedicated
+tank; Cassian anchors peak Power (32) as the dedicated damage-dealer; Percival anchors the low end (HP 65/Power 6)
+as the roster's most fragile Escort. Everyone else is placed relative to those three based on role — support/
+utility Escorts (Silas, Adelaide, Leonair, Alistair, Percival, Mina, Sebastian, Daisy) sit lower on Power, combat-
+or labor-adjacent Escorts (Barrow, Gideon, August, Beau) sit higher on HP, and none exceed Thorne or Cassian at
+their respective specialties.
 
