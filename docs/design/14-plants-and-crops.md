@@ -170,49 +170,58 @@ A hybrid of Animal Crossing: New Horizons' tools and Stardew Valley's timed mini
   positioning/timing window on the net swing. Difficulty of the minigame/timing window scales with the
   creature's rarity tier below.
 
-### Rarity Tiers and Sell Prices — Suggested
-Reuses the existing rarity scale from 8.1 rather than inventing a separate one, so fish/bugs slot into the same
-economy logic as everything else:
+### Rarity, Frequency, and Sell Price — Master Reference, Locked
+One consolidated table every Fish/Bug section below points back to, rather than repeating rarity/price ranges per
+table. Reuses the existing rarity scale from 8.1 rather than inventing a separate one, so fish/bugs slot into the
+same economy logic as everything else. **Spawn Frequency** (also used for the dungeon-exclusive catches later in
+this section) is derived directly from Rarity for the overworld seasonal tables below — Epic collapses into the
+same Rare Sighting frequency bucket as Rare, since both already read as a rare catch and a fourth frequency label
+wasn't worth the added complexity.
 
-| Rarity | Suggested Sell Price |
-|---|---|
-| Common | 20-40g |
-| Uncommon | 50-90g |
-| Rare | 100-180g |
-| Epic | 200-350g |
-| Legendary | 500g+ |
+| Rarity | Sell Price | Spawn Frequency (overworld seasonal) |
+|---|---|---|
+| Common | 20-40g | Frequent |
+| Uncommon | 50-90g | Occasional |
+| Rare | 100-180g | Rare Sighting |
+| Epic | 200-350g | Rare Sighting |
+| Legendary | 500g+ | Rare Sighting |
+
+**Catching is tool-gated — Locked.** Which rarity tiers a player can even hook/net depends on their Fishing
+Rod/Net/Trap tier, with higher tiers also improving catch-chance within range — see
+16-resources-and-materials.md, 16.2 for the full tier table. A Crude Rod (the Tier 0 starting tool,
+08-starting-experience.md 9.2) can only ever catch Common-tier fish, regardless of what's swimming past.
 
 ### Fish — Expanded
 Ties to Silas's Fisherman role and the fishing Shared Activity (4.3). Freshwater-flavored given Silas is
 docks/riverside-based. Expanded to **6 regular entries per season**, and each season keeps at least one Common-tier
 entry so new/casual anglers always have an easy catch available.
 
-| Season | Fish | Rarity | Sell Price |
-|---|---|---|---|
-| Spring | Glassfin Minnow | Common | 25g |
-| Spring | Petalfin Guppy | Common | 20g |
-| Spring | Duckling Fry | Common | 20g |
-| Spring | Blushcarp | Uncommon | 60g |
-| Spring | Cherryscale Trout | Uncommon | 55g |
-| Spring | Willowfin Perch | Uncommon | 65g |
-| Summer | Sungold Minnow | Common | 25g |
-| Summer | Lilyleap Frogfish | Common | 25g |
-| Summer | Sunscale Bass | Uncommon | 70g |
-| Summer | Reeftail Snapper | Uncommon | 75g |
-| Summer | Driftwood Catfish | Uncommon | 70g |
-| Summer | Dragonfly Darter | Rare | 130g |
-| Fall | Coppergill Carp | Common | 25g |
-| Fall | Harvestgill Bass | Common | 25g |
-| Fall | Ambertail Trout | Uncommon | 65g |
-| Fall | Rustfin Perch | Uncommon | 60g |
-| Fall | Duskwater Pike | Uncommon | 70g |
-| Fall | Mistfin Eel | Rare | 150g |
-| Winter | Glacierscale Smelt | Common | 20g |
-| Winter | Icevein Herring | Common | 20g |
-| Winter | Silverfrost Cod | Uncommon | 65g |
-| Winter | Frostgill Pike | Rare | 160g |
-| Winter | Deepchill Sturgeon | Rare | 165g |
-| Winter | Moonshadow Koi | Epic | 280g |
+| Season | Fish | Rarity | Frequency | Sell Price |
+|---|---|---|---|---|
+| Spring | Glassfin Minnow | Common | Frequent | 25g |
+| Spring | Petalfin Guppy | Common | Frequent | 20g |
+| Spring | Duckling Fry | Common | Frequent | 20g |
+| Spring | Blushcarp | Uncommon | Occasional | 60g |
+| Spring | Cherryscale Trout | Uncommon | Occasional | 55g |
+| Spring | Willowfin Perch | Uncommon | Occasional | 65g |
+| Summer | Sungold Minnow | Common | Frequent | 25g |
+| Summer | Lilyleap Frogfish | Common | Frequent | 25g |
+| Summer | Sunscale Bass | Uncommon | Occasional | 70g |
+| Summer | Reeftail Snapper | Uncommon | Occasional | 75g |
+| Summer | Driftwood Catfish | Uncommon | Occasional | 70g |
+| Summer | Dragonfly Darter | Rare | Rare Sighting | 130g |
+| Fall | Coppergill Carp | Common | Frequent | 25g |
+| Fall | Harvestgill Bass | Common | Frequent | 25g |
+| Fall | Ambertail Trout | Uncommon | Occasional | 65g |
+| Fall | Rustfin Perch | Uncommon | Occasional | 60g |
+| Fall | Duskwater Pike | Uncommon | Occasional | 70g |
+| Fall | Mistfin Eel | Rare | Rare Sighting | 150g |
+| Winter | Glacierscale Smelt | Common | Frequent | 20g |
+| Winter | Icevein Herring | Common | Frequent | 20g |
+| Winter | Silverfrost Cod | Uncommon | Occasional | 65g |
+| Winter | Frostgill Pike | Rare | Rare Sighting | 160g |
+| Winter | Deepchill Sturgeon | Rare | Rare Sighting | 165g |
+| Winter | Moonshadow Koi | Epic | Rare Sighting | 280g |
 
 **Event Fish — Locked, new subcategory.** 2 per season, region-scattered, appearing only during a specific
 festival or weather window (a Conditional Event, 03-npc-relationships.md 4.5 — world-state gated, not tied to any
@@ -241,36 +250,36 @@ Likely uses: Wild/Beast feed/crafting reagents (Beau's shop), collection/gift it
 (Leonair's shop). Expanded to **7 regular entries per season** — one more than Fish, since a farming sim's bug
 population realistically outnumbers its fish variety.
 
-| Season | Bugs | Rarity | Sell Price |
-|---|---|---|---|
-| Spring | Petal Moth | Common | 20g |
-| Spring | Dewdrop Beetle | Common | 30g |
-| Spring | Ladybug Sprite | Common | 20g |
-| Spring | Garden Ant | Common | 15g |
-| Spring | Snaildrift Beetle | Common | 25g |
-| Spring | Blossom Weevil | Uncommon | 55g |
-| Spring | Pixiewing Dragonfly | Uncommon | 55g |
-| Summer | Emberwing Firefly | Uncommon | 55g |
-| Summer | Velvet Longhorn Beetle | Uncommon | 65g |
-| Summer | Sunbeetle | Common | 20g |
-| Summer | Grasshopper Nymph | Common | 25g |
-| Summer | Buzzwing Hornet | Uncommon | 60g |
-| Summer | Jeweled Scarab | Rare | 130g |
-| Summer | Sunspark Cicada | Rare | 125g |
-| Fall | Amber Cicada | Rare | 120g |
-| Fall | Rustwing Grasshopper | Common | 35g |
-| Fall | Acorn Weevil | Common | 20g |
-| Fall | Harvest Ant | Common | 15g |
-| Fall | Rustling Leaf Bug | Common | 25g |
-| Fall | Coppertail Beetle | Uncommon | 60g |
-| Fall | Thistledown Moth | Uncommon | 60g |
-| Winter | Frost Cricket | Uncommon | 60g |
-| Winter | Glasswing Moth | Epic | 250g |
-| Winter | Icevein Spider | Rare | 155g |
-| Winter | Frostback Beetle | Common | 20g |
-| Winter | Snowflake Moth | Uncommon | 55g |
-| Winter | Icicle Weevil | Common | 25g |
-| Winter | Pale Widow Spider | Rare | 150g |
+| Season | Bugs | Rarity | Frequency | Sell Price |
+|---|---|---|---|---|
+| Spring | Petal Moth | Common | Frequent | 20g |
+| Spring | Dewdrop Beetle | Common | Frequent | 30g |
+| Spring | Ladybug Sprite | Common | Frequent | 20g |
+| Spring | Garden Ant | Common | Frequent | 15g |
+| Spring | Snaildrift Beetle | Common | Frequent | 25g |
+| Spring | Blossom Weevil | Uncommon | Occasional | 55g |
+| Spring | Pixiewing Dragonfly | Uncommon | Occasional | 55g |
+| Summer | Emberwing Firefly | Uncommon | Occasional | 55g |
+| Summer | Velvet Longhorn Beetle | Uncommon | Occasional | 65g |
+| Summer | Sunbeetle | Common | Frequent | 20g |
+| Summer | Grasshopper Nymph | Common | Frequent | 25g |
+| Summer | Buzzwing Hornet | Uncommon | Occasional | 60g |
+| Summer | Jeweled Scarab | Rare | Rare Sighting | 130g |
+| Summer | Sunspark Cicada | Rare | Rare Sighting | 125g |
+| Fall | Amber Cicada | Rare | Rare Sighting | 120g |
+| Fall | Rustwing Grasshopper | Common | Frequent | 35g |
+| Fall | Acorn Weevil | Common | Frequent | 20g |
+| Fall | Harvest Ant | Common | Frequent | 15g |
+| Fall | Rustling Leaf Bug | Common | Frequent | 25g |
+| Fall | Coppertail Beetle | Uncommon | Occasional | 60g |
+| Fall | Thistledown Moth | Uncommon | Occasional | 60g |
+| Winter | Frost Cricket | Uncommon | Occasional | 60g |
+| Winter | Glasswing Moth | Epic | Rare Sighting | 250g |
+| Winter | Icevein Spider | Rare | Rare Sighting | 155g |
+| Winter | Frostback Beetle | Common | Frequent | 20g |
+| Winter | Snowflake Moth | Uncommon | Occasional | 55g |
+| Winter | Icicle Weevil | Common | Frequent | 25g |
+| Winter | Pale Widow Spider | Rare | Rare Sighting | 150g |
 
 **Event Bugs — Locked, new subcategory.** 1 per season, sharing the same trigger window as that season's showcase
 Event Fish (same festival, same rough timing) — a reason to be in the right region at the right moment for both

@@ -22,6 +22,8 @@ A universal baseline every character knows regardless of build, sitting below Ti
 | Basic Storage Chest | Placeable/Storage |
 | Crude Pickaxe | Tool — basic mining |
 | Crude Axe | Tool — basic wood-gathering |
+| Crude Fishing Rod | Tool — basic fishing, Common-tier catches only (16-resources-and-materials.md, 16.2) |
+| Crude Net | Tool — basic bug-catching, Common-tier catches only (16-resources-and-materials.md, 16.2) |
 | Simple Bandage | Consumable — minor heart/heal restore |
 | Basic Fence (short) | Placeable/Building — teaches placement UI, base-marking |
 | Torch (handheld) | Tool/Utility — portable light, separate from Campfire |
