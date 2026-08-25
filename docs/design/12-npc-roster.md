@@ -256,7 +256,7 @@ from "Robin."
 
 ---
 
-### Ophelia — Florist / Botanical Artist
+### Ophelia — Botanical Artist
 
 | Field | Value |
 |---|---|
@@ -273,7 +273,9 @@ from "Robin."
 | Visual notes | Tall, willowy build; flowing mismatched clothing, paint/pollen smudges, loose wavy hair with a flower tucked in |
 
 Grows and presses rare flowers, sells Placeables/Decor (8.4) — a reward category with no NPC tied to it until now.
-Ties into Earth/Growth without duplicating Mina's apothecary lane. Renamed from "Iris."
+Ties into Earth/Growth without duplicating Mina's apothecary lane. Title changed from "Florist" to "Botanical
+Artist" to avoid colliding with the unrelated, much heavier Florist figure in Rose's discovery chain
+(05-character-cast.md, 6.4) — that figure is male and reads nothing like her. Renamed from "Iris."
 
 ---
 

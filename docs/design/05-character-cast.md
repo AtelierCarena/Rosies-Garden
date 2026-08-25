@@ -72,13 +72,12 @@ than a quest marker or relationship meter.
 | 1 | A key is found in a box buried under a mound of disturbed dirt at the foot of a weeping willow tree — this tree always spawns next to the player's house regardless of where on the Homestead the house itself lands, so no player can miss it. | Intro: Rose sprouts alone in a small patch of soil surrounded by toxic soil. Uneasy, visibly juvenile, an air of innocence. She grows slowly, unsure. |
 | 2 | Player discovers a hidden gate to a garden. | A Gardener finds her, reaches out, and begins plucking her flowers to sell — flattering at first, growing more intense and demanding, hurting her for his own gain. |
 | 3 | Player discovers a small babydoll under a weeping willow in the garden. | A child stumbles into the garden, sees her sitting sadly with her babydoll, and sits to keep her company. He returns every day; she seems happy for the first time. |
-| 4 | A footprint, frozen in old clay/stone, found leading away and out through the Garden Wall gate. | She asks to leave with him. He says it isn't a good idea, tells her she deserves more than he can provide, and leaves through the gate. She waits, as always. He does not come back. She turns — the Gardener stands with his shears raised, a Wolf bares its teeth, a Snake slithers up a tree, watching her with cold eyes. A hand closes over her mouth from behind. A muffled scream, cut short. Fade to black over her hand reaching for the gate he just walked through — too far, and no one left to hear her. |
+| 4 | A footprint, frozen in old clay/stone, found leading away and out through the Garden Wall gate. | She asks to leave with him. He says it isn't a good idea, tells her she deserves more than he can provide, and leaves through the gate. She waits, as always. He does not come back. She turns — the Gardener stands with his shears raised, a Florist cuts flowers with sharp, aggressive motions while staring straight at her, a Wolf bares its teeth, a Snake slithers up a tree, watching her with cold eyes. A hand closes over her mouth from behind. A muffled scream, cut short. Fade to black over her hand reaching for the gate he just walked through — too far, and no one left to hear her. |
 
 **4th discovery item — Resolved.** The footprint, facing away from the garden and leading out through the gate —
 it hints at the boy's departure before the scene plays, matching how the key/gate/babydoll each quietly matched
-their own scene's content. **Florist is dropped from the final tableau** (still purely symbolic per the resolution
-below, but not staged in this specific cutscene) — the scene reads tighter and more frightening with three closing
-figures rather than four, and keeps the visual focus on the Gardener as the returning, already-known threat.
+their own scene's content. All four figures (Gardener, Florist, Wolf, Snake) are present and staged in this
+cutscene.
 
 **The key's mechanical payoff — Locked.** This isn't just a cutscene trigger — it's the literal dungeon-unlock
 item. The gate it opens is a **ribbon-tied garden gate**, closed shut, which is the Garden Wall — the dungeon's
@@ -94,10 +93,19 @@ All five figures in the final scene (Gardener, Child, Florist, Wolf, Snake) are 
 to any current Interactive NPC or their ancestors.** The Gardener already set this precedent (Linnet's title was
 changed specifically to avoid colliding with him, 12-npc-roster.md); the same protection now extends to all five,
 especially Florist and Child. A warm, romanceable NPC like Ophelia secretly being one of the four figures closing
-in on Rose in her most frightening scene would retroactively poison her characterization; Child's vanished bond is
-more powerful staying ambiguous (dovetailing with 06-storyline-structure.md 7.1's deliberately undefined "who is
-the player") than pinned to one NPC's backstory. See 06-storyline-structure.md, 7.2-7.3 for the broader rule this
-follows: no Interactive NPC's Nature should ever be inferable from their role or personality.
+in on Rose in her most frightening scene would retroactively poison her characterization. **Ophelia's title was
+changed from "Florist" to "Botanical Artist" (12-npc-roster.md) specifically to avoid this collision** — Florist
+is male, an aggressive figure cutting flowers in the final tableau, and reads nothing like her. See
+06-storyline-structure.md, 7.2-7.3 for the broader rule this follows: no Interactive NPC's Nature should ever be
+inferable from their role or personality.
+
+### The Boy — New, Lore-Referenced Character (Stub)
+**Not the Florist — a separate character.** The Child from discovery #3, grown up. Referred to only as "The Boy"
+for now; he reappears later in the World Story track under a different adult name, and Rosie's realization that
+he isn't just a boy anymore is itself a story beat. Lore-Referenced only (6.3's template) — no relationship meter,
+discovered/mentioned rather than met directly, consistent with how Rose herself works. Full detail (his adult name,
+where/how he resurfaces, what "isn't just a boy anymore" means) is intentionally deferred — flagged for a future
+pass rather than locked prematurely.
 
 ### Rose and Rosie — Resolved
 "Rosie" is her childhood nickname. Rose is the core — the purest, most innocent version of her, from before the
