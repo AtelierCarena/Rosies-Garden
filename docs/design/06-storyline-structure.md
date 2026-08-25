@@ -30,10 +30,13 @@ outside visitor who entered her mind space, or a passive part/alter present to h
 background. All three readings stay valid and are never contradicted by the text — the ambiguity of "who is doing the
 experiencing" is thematically load-bearing, not a gap to fill in later.
 
-**Interactive NPCs:** mixed nature, not a uniform 1:1 clinical mapping. Some are literal parts/alters of Rosie holding
-a distinct role in how her mind protects her; others simply exist in the space under dream/mind-space logic, without
-being a specific "part" of anything. Which is which per-NPC gets decided during the roster pass (see 6.1) — the
-Interactive NPC Template (6.2) should carry a field for this once that work starts.
+**Interactive NPCs — Resolved:** no individual NPC is mechanically flagged or typed as a "literal alter" vs. an
+"ambient figure." Every resident of the town is written and played as an ordinary person, full stop — the earlier
+plan to tag each NPC's Nature per-entry (a field on the Interactive NPC Template, 6.2) has been dropped entirely,
+not just decoupled from personality. The ambiguity of what the space *is* works precisely because it's never
+resolved anywhere, including in dev-only docs — there's no hidden answer key naming who's "really" a part of
+Rosie and who isn't. The reveal lives entirely in the delivery layer (7.3), never in how any individual character
+is classified.
 
 **Rose and Rosie — confirmed:** "Rosie" is her childhood nickname. Rose is the core — the purest, most innocent
 version of her, from before the trauma happened. Her discovery chain is the origin wound the rest of the mind space
@@ -47,14 +50,12 @@ reference points) — avoiding tropes that frame parts/alters as inherently mons
 and keeping the focus on protection and process rather than spectacle. Doesn't need to be solved now, just kept in
 mind as the NPC roster and ending get built out.
 
-## 7.2 Nature Assignment — Locked Ground Rule
-**The Nature field must never be inferable from an NPC's personality, dialogue, or role during normal play.** An
-NPC whose job or personality thematically parallels a psychological function (a memory-keeper, a caretaker, a
-protector) is a coincidence the writing should stay agnostic to, never a signal — assigning Nature based on "this
-role obviously reads symbolic" is explicitly the wrong approach, since it would make individual NPCs legible as
-alters through characterization alone. **The whole town has to play completely straight** — ordinary, warm,
-specific people — with zero tell. The reveal doesn't live in the NPCs at all; it lives entirely in the separate
-delivery layer below.
+## 7.2 No Per-NPC Typing — Locked Ground Rule
+**No NPC is ever classified, even privately in dev docs, as a "literal alter" vs. an "ambient figure."** A role
+that happens to thematically parallel a psychological function (a memory-keeper, a caretaker, a protector) is
+coincidence, not a signal — the writing stays agnostic to it. **The whole town plays completely straight** —
+ordinary, warm, specific people — with zero tell, and zero hidden designation anywhere behind the scenes. The
+reveal doesn't live in the NPCs at all; it lives entirely in the separate delivery layer below.
 
 ## 7.3 Reveal Delivery Mechanisms — Locked
 The central twist surfaces exclusively through discovery, not through any NPC ever acting or speaking as if they
@@ -85,6 +86,3 @@ ending:
   "this moment is different" on a visual/subconscious level before they consciously understand why, reinforcing
   the twist without a single line of dialogue doing it for them.
 
-Nature field values (Literal Alter/Ambient Figure per-NPC) remain genuinely undecided and can now be assigned
-freely, since they no longer need to correlate with how any NPC reads on the surface — that decoupling is the
-point.

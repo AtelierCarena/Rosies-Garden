@@ -4,9 +4,6 @@ Every item below was intentionally deferred during design discussion. Nothing he
 exists so open threads don't get lost.
 
 - Rose's 4th discovery item (leading candidates: a facing-away footprint, or a rusted bell).
-- Which Interactive NPCs are literal alters vs. ambient figures (per 7.1's "mixed" framing) — now explicitly
-  decoupled from personality/role (06-storyline-structure.md, 7.2), so assignment can happen freely whenever it's
-  tackled next; not blocked on anything.
 - Beat-by-beat tutorial objective flow.
 - Overall visual/art direction, pending gathered inspiration images — now includes designing the second,
   distinct cutscene art style for World Story/memory-reveal moments (06-storyline-structure.md, 7.3).
@@ -21,6 +18,9 @@ exists so open threads don't get lost.
 **Resolved:**
 - Which of Rose's five figures (Gardener, Child, Florist, Wolf, Snake) are purely symbolic vs. tied to real NPC
   lineages — all five are purely symbolic, none tied to any current NPC (05-character-cast.md, 6.4).
+- Whether Interactive NPCs are individually typed as literal alters vs. ambient figures — dropped entirely, not
+  just decoupled from personality. No NPC is classified this way anywhere, including dev-only docs
+  (06-storyline-structure.md, 7.2).
 - Specific NPC-given tutorial items — fully specified for fishing (Silas), bug-catching (Linnet), taming (Beau),
   and mining/the Map (Barrow); see 08-starting-experience.md, 9.5-9.8.
 - The full Interactive NPC roster — 26 adult Interactive NPCs plus 5 Youth NPCs are now templated

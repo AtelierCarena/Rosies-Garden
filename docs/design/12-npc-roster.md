@@ -3,9 +3,9 @@
 The full Interactive NPC roster, built incrementally (per [05-character-cast.md, 6.1](05-character-cast.md), this was
 paused deliberately to manage scope/pacing — this doc is where that work actually happens once it starts).
 
-Uses the Interactive NPC Template from 05-character-cast.md, 6.2. The **Nature (spoiler field)** — Literal Alter /
-Ambient Figure / TBD, per [06-storyline-structure.md, 7.1](06-storyline-structure.md) — is never player-facing and
-exists for internal consistency only.
+Uses the Interactive NPC Template from 05-character-cast.md, 6.2. No NPC is individually flagged or typed in
+connection to the game's central twist — see [06-storyline-structure.md, 7.1-7.3](06-storyline-structure.md) for
+why: every resident here reads and plays as an ordinary person in the town, full stop.
 
 ## 13.1 Functional, Non-Dateable NPCs
 NPCs who fill specific functional roles in the world — shopkeepers, the dungeon merchant, and similar — without
@@ -38,7 +38,6 @@ Renaming may happen at any time — the direction is what's locked, names are ea
 | Connections | **Thorne** — both stationed at either end of the same threshold (Thorne warns before the dungeon, Nix sells inside it); gifting Thorne unlocks a small discount at Nix's dungeon shop, reflecting their shared professional respect. |
 | Species | Pixie |
 | Visual notes | Petite and slim build, trinket-covered travel pack, bright bandana, alert posture, sturdy boots |
-| Nature (spoiler field) | TBD |
 
 Ties into 11.5's boss-reward/fast-travel loop — Nix is a plausible point of sale/service once a bracket entrance is
 unlocked. Renamed from "Pip."
@@ -60,7 +59,6 @@ unlocked. Renamed from "Pip."
 | Connections | **Colette Birchwood** — works part-time at Bella's store; higher relationship with Bella opens dialogue about the Birchwood kids and small errand-quest hooks. **Barrow** — supplies basic tools/materials that Bella stocks, a small resource-economy overlap. |
 | Species | Human |
 | Visual notes | Heavyset, strong build; practical rolled-sleeve apron, hair in a simple braid, sturdy approachable stance |
-| Nature (spoiler field) | TBD |
 
 Point of sale for basic tools, seeds, and general supplies — the everyday commerce hub, ties loosely into Trade/Charm
 without being the Trade tree's own shop-stall system (that's the player's). Renamed from "Juniper."
@@ -82,7 +80,6 @@ without being the Trade tree's own shop-stall system (that's the player's). Rena
 | Connections | **Percival** — trade lore between Arcane and Archive, an information-exchange friendship. **Mina** — Arcane/Earth crossover through Alchemy; higher relationship with both unlocks a shared "arcane research" dialogue thread. |
 | Species | Fairy |
 | Visual notes | Tall and lanky; mismatched charms pinned to a vest, singed sleeve cuffs, wide curious eyes, perpetually staticky hair |
-| Nature (spoiler field) | TBD |
 
 Ties into the Arcane skill tree — sells spell components/reagents, staffs the basic Arcane Workbench (see 3.7).
 **Also, quietly, the reason the Arcane tree's higher end is reachable at all** — plausibly the one who authored or
@@ -107,7 +104,6 @@ pure flavor text. Renamed from "Ember."
 | Connections | **Thaddeus and Genevieve** — old friends and fellow keepers of town history. **Silas** and **Barrow** — Olivier is the one who prompted both their Day 1 player-onboarding events (08-starting-experience.md, 9.5 and 9.8), a structural tie as much as a social one. **Thorne** — reports dungeon safety concerns to the Mayor directly. |
 | Species | Elf |
 | Visual notes | Lean, upright build; tailored-but-approachable outfit with a sash/pin of office, composed posture, neatly pinned hair |
-| Nature (spoiler field) | TBD |
 
 Renamed from "Magnolia."
 
@@ -128,7 +124,6 @@ Renamed from "Magnolia."
 | Connections | **Cricket and Hollis** — their adopted children, giving the Founders a living connection to the town's next generation. **Olivier** — old friends, fellow keepers of town history. |
 | Species | Human |
 | Visual notes | Thaddeus — slight, weathered frame; weathered clothes, calm watchful eyes, uses a wheelchair some days and a well-worn cane on others depending on how he's doing. Genevieve — soft, round-bodied; soft shawl, flowers braided into silver hair, animated hands |
-| Nature (spoiler field) | TBD |
 
 Human, deliberately — the founders read as the town's original, unembellished people, a grounding contrast to the
 more magical newer residents. Thaddeus's mobility aid is a stable, unremarked-on part of who he is rather than a
@@ -152,7 +147,6 @@ Ivy."
 | Connections | **Delphine** — supplies Fish-tier ingredients for her recipes (07-item-system.md, 8.5). **Linnet** — taught by Silas's own fishing lesson to look for the same "soft spot"/approach cues, now teaches the bug-catching equivalent herself (08-starting-experience.md, 9.5-9.6). **Camellia** — a regular at her Tavern, matching his "Tavern at night" encounter path. |
 | Species | Animal-hybrid (small otter ear-fins) |
 | Visual notes | Broad, sturdy build; sun-weathered skin, rolled sleeves, worn tackle vest, hat tipped back |
-| Nature (spoiler field) | TBD |
 
 Owns the Shared Activity of inviting an NPC to fish, already referenced in [03-npc-relationships.md, 4.3](03-npc-relationships.md).
 Also owns the player's very first fishing lesson — meeting Silas (at the Dock, at the Tavern at night, or via his
@@ -178,7 +172,6 @@ Naming history: "Reed" (too on-the-nose a pun for a fisherman), then "Alder," la
 | Connections | **Gideon** — the ore he mines is what Gideon forges, a direct supply chain. **August** — both physical-labor/construction-adjacent, mutual respect between tradesmen. **Tobias Birchwood** — works alongside him on physical jobs around town. |
 | Species | Orc |
 | Visual notes | Bulky, muscular build; soot-dulled clothes, pickaxe over shoulder, thick gloves, a squint from underground work |
-| Nature (spoiler field) | TBD |
 
 Resource supply — a Forge/Earth crossover point for raw materials. Written with the same dignity-first care as the
 rest of the cast — physically tough and blunt, not a "grunting brute." Also owns the player's very first tool —
@@ -203,7 +196,6 @@ Mayor's prompting, inviting the player to come meet him in town (08-starting-exp
 | Connections | **Marlow Birchwood** — the teen who sneaks off to hear him play; a plausible early-mentor figure without either party framing it that way. **Camellia** — performs regularly at her Tavern. |
 | Species | Pixie |
 | Visual notes | Slim, wiry build; loose expressive clothing, an instrument always nearby, easy grin, deliberately tousled hair |
-| Nature (spoiler field) | TBD |
 
 Trade/Charm-adjacent, town color/atmosphere. Naming history: "Reed" twice (once for the Fisherman, retired for
 being too on-the-nose, then reused here and retired again), then "Wilder," then "Lysander" (dropped — read slightly
@@ -236,7 +228,6 @@ presentation (10.3) — consistent with clothing already being fully gender-unre
 | Connections | **Delphine** — the Inn's breakfast is supplied by Delphine's stall, a friendly working relationship. **Sebastian** — the Inn and the Hospital both function as places of rest/care, an informal overlap in what they each provide the town. **Milo** — both read as warm, low-stakes comfort presences; easy friendship. |
 | Species | Human |
 | Visual notes | Curvy, busty build; cozy apron over a soft dress, freckles across her nose and shoulders, hair tied back with a simple ribbon, often carrying a tray |
-| Nature (spoiler field) | TBD |
 
 Renamed from "Hazel."
 
@@ -257,7 +248,6 @@ Renamed from "Hazel."
 | Connections | **Thorne** — together they give the dungeon's fundamentals a face: Cassian teaches how to fight, Thorne warns what it costs. **Beau** — both physically active, plausibly spar or train together off the clock. |
 | Species | Orc (or half-Orc) |
 | Visual notes | Bulky, muscular build; wrapped hands/forearms, short practical hair, one or two sparring scars |
-| Nature (spoiler field) | TBD |
 
 Plausible in-fiction source for the melee/ranged/evasion fundamentals The Rose Garden bracket teaches (10.3 in
 [10-dungeons-and-risk.md](10-dungeons-and-risk.md)) — gives that early teaching moment a face, alongside Thorne's
@@ -281,7 +271,6 @@ from "Robin."
 | Connections | **Linnet** — pollination synergy between florist and beekeeper, a natural working friendship. **Percival** — botanical illustration/lore overlap, trading pressed-flower specimens for archive records. |
 | Species | Elf |
 | Visual notes | Tall, willowy build; flowing mismatched clothing, paint/pollen smudges, loose wavy hair with a flower tucked in |
-| Nature (spoiler field) | TBD |
 
 Grows and presses rare flowers, sells Placeables/Decor (8.4) — a reward category with no NPC tied to it until now.
 Ties into Earth/Growth without duplicating Mina's apothecary lane. Renamed from "Iris."
@@ -303,7 +292,6 @@ Ties into Earth/Growth without duplicating Mina's apothecary lane. Renamed from 
 | Connections | **Camellia** — friendly rivalry for "best gossip spot in town," perfume shop vs. tavern. **Seraphina** — the two most stylish people in town, a natural pairing for fashion/scent collaborations. |
 | Species | Fairy |
 | Visual notes | Curvy, busty build; bold colorful outfit, expressive accessories, magnetic posture |
-| Nature (spoiler field) | TBD |
 
 Ties into Trade/Charm's relationship-gain theme (3.7) — gives that mechanic an actual social personality behind it
 rather than just a passive bonus.
@@ -325,7 +313,6 @@ rather than just a passive bonus.
 | Connections | **Daisy** — paired at the Hospital; Sebastian settled into the role, Daisy still growing into hers (already established). **Mina** — medicine/herbalism overlap, Mina supplies some of his remedies. **Adelaide** — the Inn and Hospital's shared "place of rest" function. |
 | Species | Human |
 | Visual notes | Lean, narrow build; neat practical coat, hair kept simply out of the way, calm precise movements |
-| Nature (spoiler field) | TBD |
 
 Fills the mechanical gap flagged earlier: the Town Hospital (1.3/11.1's knockout relocation point) had nobody
 staffing it until now. Naming history: "Linden," then "Alistair" (freed up when the Bard took that name), landing
@@ -348,7 +335,6 @@ on Sebastian.
 | Connections | **Sebastian** — paired at the Hospital (already established). **Poppy Birchwood** — Daisy's gentle, youthful energy resonates with the littlest of the Birchwood kids; she plausibly looks in on Poppy sometimes. |
 | Species | Animal-hybrid (rabbit ears) |
 | Visual notes | Petite, soft-bodied build; practical uniform slightly mussed from rushing, freckled cheeks, bright expressive face |
-| Nature (spoiler field) | TBD |
 
 Paired with Sebastian at the Hospital — Sebastian already composed and settled into the role, Daisy still growing into
 hers. The contrast is intentional groundwork for later, not a plot beat being designed now. Renamed from "Marigold"
@@ -377,7 +363,6 @@ hers. The contrast is intentional groundwork for later, not a plot beat being de
 | Species | Animal-hybrid (fox ears) |
 | Physical Reference | ~5'4", curvy/thick-thighed build, warm russet-brown hair usually in a loose braid, amber eyes, freckled nose |
 | Visual notes | Flour-dusted apron, sleeves rolled, a signature bandana |
-| Nature (spoiler field) | TBD |
 
 Ties into the Simple Cooking Pot (9.2) and Food consumables (9.1). Renamed from "Saffron."
 
@@ -398,7 +383,6 @@ Ties into the Simple Cooking Pot (9.2) and Food consumables (9.1). Renamed from 
 | Connections | **Delphine** — friendly professional rivalry, food vs. drink (already established, 8.5). **Dahlia** — friendly rivalry for "best gossip spot in town." **Alistair** — performs regularly at her Tavern. **Silas** — a regular, matching his "Tavern at night" encounter path. |
 | Species | Human |
 | Visual notes | Heavyset, broad-shouldered build; relaxed outfit, bar rag over one shoulder, easy posture |
-| Nature (spoiler field) | TBD |
 
 Given its own Tavern distinct from the Inn so Camellia and Adelaide aren't sharing a workplace/role. Renamed from
 "Amber" — swapped to a different floral/coquette name.
@@ -420,7 +404,6 @@ Given its own Tavern distinct from the Inn so Camellia and Adelaide aren't shari
 | Connections | **Barrow** — direct ore supply chain, miner to blacksmith. **August** — Forge/Craft crossover, different specialties (weapons vs. structures), mutual respect. **Thorne** — equips Thorne's gear; a trust built on keeping the dungeon's gatekeeper safe. |
 | Species | Orc |
 | Visual notes | Stocky, muscular build; soot-smudged apron, bare forearms, hair tied back |
-| Nature (spoiler field) | TBD |
 
 Ties into the Forge/Craft skill tree — likely point of sale for early Forge recipes/machines (see 3.7). Physically
 imposing but warm, continuing the dignity-first framing already set for Barrow and Cassian. Renamed from "Marrow."
@@ -442,7 +425,6 @@ imposing but warm, continuing the dignity-first framing already set for Barrow a
 | Connections | **Delphine** — supplies herb ingredients for her recipes (already established, 8.5). **Sebastian** — medicine/herbalism overlap. **Leonair** — Alchemy/Arcane crossover, a shared research thread. |
 | Species | Fairy |
 | Visual notes | Short, soft-round build; herb-stuffed cardigan, small glasses, freckled nose, a leaf always caught in her hair |
-| Nature (spoiler field) | TBD |
 
 Ties into Earth/Growth and the Alchemy system (see 8.2) — likely point of sale for potions/oils/coatings. Renamed
 from "Thistle."
@@ -464,7 +446,6 @@ from "Thistle."
 | Connections | **Julian** — settled archivist vs. traveling scholar; they trade information, Julian bringing news in from outside, Percival holding what's already here. **Leonair** — an information-exchange friendship. **Ophelia** — botanical illustration/lore overlap. |
 | Species | Elf |
 | Visual notes | Tall, slim build; old-fashioned waistcoat, ink-stained fingers, wire-rim glasses |
-| Nature (spoiler field) | TBD |
 
 Sells maps, books, and lore scrolls. Mechanically, Percival can tell the player about a seasonal Wild Spawn before
 they've physically found it — feeding the "informationally known" map flag from 9.3, and giving that mechanic an
@@ -488,7 +469,6 @@ others don't. Renamed from "Sage."
 | Connections | **Poppy Birchwood** — both gentle, low-key presences; a sweet, quiet parallel between the town's littlest kid and its most low-stakes adult. **Adelaide** — easy friendship, two people who read as warm/comforting to be around. |
 | Species | Animal-hybrid (soft lamb features) |
 | Visual notes | Soft, round-bodied build; oversized sweater, round gentle face, perpetually mid-smile |
-| Nature (spoiler field) | TBD |
 
 No shop, no system tie-in, no function to justify existing — that absence is the point, even now that Milo is
 romanceable. Naming history: "Clover," then "Leonair" (a male take on "Eleanor"), landing on Milo — soft and
@@ -511,7 +491,6 @@ boyish.
 | Connections | **Cassian** — together they give the dungeon's fundamentals a face (already established). **Gideon** — equips Thorne's gear, a trust relationship. **Nix** — stationed at either end of the same threshold. **Olivier** — reports dungeon safety concerns to the Mayor directly. |
 | Species | Orc |
 | Visual notes | Tall, bulky, muscular build; weathered leather vest, an almost-scowl undercut by one soft detail he'd deny (a hand-knit scarf, a pressed flower) |
-| Nature (spoiler field) | TBD, leaning Literal Alter given the narrative weight — not locked |
 
 **Signature mechanic — Warn, Carry, Snack:**
 1. **Warning.** Before a player's first dungeon entry (and available as a repeatable dialogue line after), Thorne
@@ -544,7 +523,6 @@ Orc dignity-first throughline (Barrow, Cassian, Gideon). Renamed from "Briar."
 | Connections | **Dahlia** — the two most stylish people in town, natural collaborators. **Julian** — a running joke where she offers to fix his perpetually travel-worn coat every time he passes through. |
 | Species | Fairy |
 | Visual notes | Petite, slim build; colorful layered outfit (her own work), pincushion on wrist, ribbons |
-| Nature (spoiler field) | TBD |
 
 Point of sale for cosmetic Clothing (see 8.3/8.4) — gives the "cosmetics as prestige reward, never power" philosophy
 an actual voice in town rather than just a shop-menu category. Renamed from "Poppy."
@@ -566,7 +544,6 @@ an actual voice in town rather than just a shop-menu category. Renamed from "Pop
 | Connections | **Cassian** — both physically active, plausibly spar or train together off the clock. **Linnet** — Wild/Beast and Earth crossover, both nature-adjacent tradespeople. **Cricket** — the adopted Orc kid loves visiting the animals, a standing soft spot for Beau. |
 | Species | Animal-hybrid (deer/stag antlers) |
 | Visual notes | Tall, lean-muscled build; earthy tones, hay-dusted work clothes, freckled forearms, calm steady hands |
-| Nature (spoiler field) | TBD |
 
 Ties into the Wild/Beast skill tree — sells Basic Feed, oversees the Pen/Coop and Sanctuary/Breeding Nest structures
 (see 3.7). Also owns the player's taming lesson — meeting him at the Pen/Coop grants the Animal Trap recipe
@@ -590,7 +567,6 @@ teach. Renamed from "Fern."
 | Connections | **Barrow** — both physical-labor/construction-adjacent, mutual respect between tradesmen. **Gideon** — Forge/Craft crossover, different specialties. **Delphine** — she directs the player to him for the Chef's Range commission (already established, 3.8). |
 | Species | Human |
 | Visual notes | Bulky, broad-shouldered build; tool belt, sawdust on his forearms |
-| Nature (spoiler field) | TBD |
 
 Ties into Forge/Craft — construction and structures, distinct from Gideon's weapons/armor lane. The player can
 commission him to build or upgrade Homestead structures in person, as an alternative to self-building
@@ -614,7 +590,6 @@ decorative variants. Renamed from "Cedar."
 | Connections | **Ophelia** — pollination synergy, a natural working friendship. **Beau** — Wild/Beast and Earth crossover. **Fennick Birchwood** — the middle Birchwood kid loves chasing her bees, a minor recurring bit of chaos she takes in stride. |
 | Species | Animal-hybrid (faint antennae, subtle wing-shimmer at the shoulders) |
 | Visual notes | Short, soft-bodied build; veiled hat pushed back off-duty, honey-gold color accents, freckled skin, gentle hands |
-| Nature (spoiler field) | TBD |
 
 Ties into Earth/Growth — sells honey/wax. Originally proposed as a groundskeeper/gardener, changed deliberately:
 "the Gardener" is already a malicious figure in Rose's discovery chain (6.4), and a friendly NPC with an overlapping
@@ -639,7 +614,6 @@ Silas teaching bug-catching himself. Renamed from "Rowan."
 | Connections | **Percival** — settled archivist vs. traveling scholar; they trade information (already established). **Seraphina** — a running joke where she offers to fix his perpetually travel-worn coat every time he passes through. |
 | Species | Elf |
 | Visual notes | Lean, wiry build; travel-worn clothing, a well-used pack, layered scarf, road-dust on their boots |
-| Nature (spoiler field) | TBD |
 
 Distinct from Percival's settled-archivist energy — Julian brings information in from outside rather than holding
 what's already here. Naming history: "River," then "Olivier" (freed up when the Mayor took that name), landing on
@@ -760,8 +734,6 @@ fiercely loyal once that trust is earned. Genevieve's storytelling is a lifeline
 to process big feelings without needing to talk about them directly. Visual notes: big round glasses, a stack of
 books never far away, soft grey-toned coloring.
 
-All five kids (and Tobias/Colette) carry the standard Nature (spoiler field) — Literal Alter / Ambient Figure /
-TBD — decided per-character like the rest of the roster, never player-facing. None are assigned yet; that decision
-is deferred to whenever the World Story track is developed further, consistent with how the rest of the cast's
-Nature fields were handled.
+Like the rest of the roster, the five kids (and Tobias/Colette) are just people — no individual tie to the game's
+central twist, per 06-storyline-structure.md, 7.1-7.3.
 

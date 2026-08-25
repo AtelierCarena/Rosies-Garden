@@ -32,7 +32,6 @@ status, etc.) is deferred to the roster pass.
 | Species | Human / Elf / Fairy / Pixie / Orc / Animal-hybrid (specify trait, e.g. "rabbit ears") / TBD. Not uniform across the roster; decided per-NPC, tied to personality rather than assigned generically. |
 | **Physical Reference** | Height, build/measurements, eye/hair color, and other concrete art-reference details — distinct from Visual notes' outfit/vibe description. For the player's own sketching/character reference use. |
 | Visual notes | Outfit, vibe, signature accessories/props |
-| Nature (spoiler field) | Literal Alter / Ambient Figure / TBD — see [06-storyline-structure.md, 7.1](06-storyline-structure.md). Not uniform across the roster; decided per-NPC. Never player-facing. |
 
 **Rollout note:** the expanded fields (Connections, Dungeon Role, Dungeon Ability, Attributes, Physical Reference)
 are being backfilled across the roster incrementally — 12-npc-roster.md tracks which entries are fully upgraded vs.
