@@ -71,10 +71,17 @@ skill/prep value added, not just raw materials passed through.
 | Tier 1 — Simple Cooking Pot | ~1.8x ingredient cost | Multi-ingredient meals |
 | Tier 2+ — Chef's Range (new, gated) | ~2.5x ingredient cost | Rare/Epic/Legendary-tier showcase meals |
 
-**Chef's Range — Locked, new structure:** unlocked via Forge/Craft skill-tree investment plus Delphine's
-relationship tier (tying a Confidant-tier reveal to a mechanical unlock, consistent with how other NPCs gate
-content). Gates the Rare-and-up recipes below behind both progression and relationship investment, distinguishing
-them from Tier 1's Uncommon-tier fare.
+**Auto-scaling — Locked:** cooking tier is tied directly to the physical Kitchen structure on the player's
+Homestead, not a separate recipe-unlock step. Campfire, Simple Cooking Pot, and Chef's Range are the three
+successive upgrade stages of the same Kitchen structure (per 02-skill-trees.md, 3.5's build-early/upgrade pattern) —
+the moment the player upgrades to a given stage, every recipe at that tier and below becomes immediately craftable,
+with no additional per-recipe unlock.
+
+**Chef's Range — Locked, new structure:** built by commissioning August, the Carpenter/Architect
+(12-npc-roster.md), plus reaching Delphine's relationship-tier gate for the recipe/design input — the one
+structure in the game that can't be self-built via Forge/Craft alone (02-skill-trees.md, 3.8). Gates the Rare-and-up
+recipes below behind both progression and relationship investment, distinguishing them from Tier 1's Uncommon-tier
+fare.
 
 **Buff meals vs. pure-heal meals — Locked:** Food splits into two flavors, decided per-recipe rather than a hard
 rule:

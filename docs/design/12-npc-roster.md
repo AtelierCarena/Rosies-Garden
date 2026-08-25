@@ -550,8 +550,10 @@ Ties into the Wild/Beast skill tree — sells Basic Feed, oversees the Pen/Coop 
 | Visual notes | Bulky, broad-shouldered build; tool belt, sawdust on his forearms |
 | Nature (spoiler field) | TBD |
 
-Ties into Forge/Craft — construction and structures, distinct from Gideon's weapons/armor lane. Renamed from
-"Cedar."
+Ties into Forge/Craft — construction and structures, distinct from Gideon's weapons/armor lane. The player can
+commission him to build or upgrade Homestead structures in person, as an alternative to self-building
+(02-skill-trees.md, 3.8) — gold-for-time trade-off, higher relationship tiers reduce his fee and unlock exclusive
+decorative variants. Renamed from "Cedar."
 
 ---
 

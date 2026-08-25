@@ -158,3 +158,30 @@ Every craftable recipe or machine in the game unlocks through one of three chann
 Recurring cross-tree threads (Arcane's charm spell touches Trade; Forge's enchanting touches Arcane; Wild's "blessed
 companion" touches Arcane) are intentional — they set up future node prerequisites across trees, reinforcing hybrid
 builds.
+
+## 3.8 Hiring NPCs for Construction — Locked
+Distinct from the Trade tree's Hiring Contract (above, Tier 8 — staffing a shop stall to run passively). This is
+about who physically builds a structure, not who runs one — no such system existed before this.
+
+**Commissioning August:** the player can visit August's construction yard/workshop (12-npc-roster.md) and commission
+him to build or upgrade any Homestead structure the player has already unlocked, as an alternative to self-building
+via the Forge/Craft tree. Hiring August doesn't bypass progression — the structure must already be unlocked per the
+normal Tier-Unlocked/Structure-Gated/Event rules (3.6); this only changes *who* does the physical labor.
+
+| | Self-Build (DIY) | Commission August |
+|---|---|---|
+| Materials cost | Full material cost | Full material cost (materials aren't waived) |
+| Gold cost | None | A labor fee on top of materials |
+| Time | Instant placement | Completes after one in-game day/night cycle |
+| Requires | Forge/Craft build-speed investment to go faster | No build-speed investment needed |
+
+The trade-off is time/skill-investment vs. gold — a legitimate path for a player who wants Homestead structures
+without leaning into Forge/Craft themselves. Higher relationship tiers with August reduce the labor fee and unlock
+exclusive decorative structure variants (the Aesthetic fork line, Forge/Craft Tier 3 above) only available through
+commissioning him, giving the relationship mechanical weight beyond flavor.
+
+**Chef's Range exception — Locked:** the Chef's Range (07-item-system.md, 8.5) requires commissioning **both**
+August (construction) and reaching Delphine's relationship-tier gate (recipe/design input) — narratively the two
+collaborate to build it, since it's as much a kitchen as a piece of furniture. This is the one structure that
+cannot be self-built via Forge/Craft alone, tying a Confidant-tier reveal to a mechanical unlock the way other NPCs
+already do elsewhere in the roster.

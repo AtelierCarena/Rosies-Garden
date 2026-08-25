@@ -223,13 +223,56 @@ Spring crop can never hybridize with a Fall crop, for instance, even hypothetica
 year-round growing). Keeps the hybrid pool legible per-season rather than combinatorially exploding across all 20+
 crops once the yearly growth additions are in.
 
+**Curated pairs, not every combination — Locked.** Rather than every same-season pair producing a hybrid (which
+would combinatorially explode with the starting roster alone), only a curated list of pairs actually can. Planting
+two same-season crops adjacent that aren't on this list is a valid strategy for other reasons (space efficiency,
+proximity buffs from other systems) but simply won't ever hybridize. This keeps the sprite/art workload (below)
+bounded and lets each hybrid feel like a deliberate discovery rather than a background statistic.
+
+**Drop-chance math — Locked:** a curated pair, both plants fully grown and adjacent, has a **base 10% chance per
+in-game day tick** to produce a hybrid instead of a normal harvest. The Hybrid Seed Splicer's tree investment
+(Earth/Growth Tier 5, 3.7) adds **+4% per skill point spent beyond the unlock point**, capping at **30%** — so a
+fully-invested player roughly triples their odds over a fresh Tier 5 unlock, without ever hitting a guaranteed
+hybrid.
+
+**Hybrid sell price — Locked:** average of the two parent crops' sell prices, x1.5 (a rarity premium for the
+harder-to-produce result), rounded to the nearest 5g.
+
+### Curated Hybrid Pairs (starting roster)
+
+| Season | Parent A | Parent B | Hybrid | Sell Price |
+|---|---|---|---|---|
+| Spring | Strawberries | Tulips | Strawberry Tulip | 35g |
+| Spring | Peas | Carrots | Pea-Carrot Twist | 25g |
+| Spring | Rhubarb | Forget-Me-Nots | Forget-Me-Not Rhubarb | 30g |
+| Summer | Tomatoes | Sunflowers | Sunburst Tomato | 35g |
+| Summer | Blueberries | Lavender | Lavender Blueberry | 40g |
+| Summer | Melon | Corn | Honeyhusk Melon | 35g |
+| Fall | Pumpkins | Chrysanthemums | Chrysanthemum Pumpkin | 40g |
+| Fall | Cranberries | Amaranth | Amaranth Cranberry | 35g |
+| Fall | Yams | Cranberries | Candied Yam Berry | 35g |
+| Winter | Winter Roots | Holly | Hollyroot | 35g |
+| Winter | Winter Roots | Snow Peas | Frostroot Pea | 30g |
+| Winter | Holly | Snow Peas | Snow-Holly Sprig | 35g |
+
+Every entry doubles as a decorative-edible or a cross-category sell item (Strawberry Tulip works as both a
+Placeables/Decor item and produce, per the pattern already set by the starting example), matching the "blended
+use-case" design intent from the rule above. Winter gets all 3 possible pairings from its sparse 3-crop roster,
+since there's no larger pool to curate down from.
+
+Yearly-addition crops (14.2) aren't included in this pass — a second curation round once those are more settled is
+flagged as future work, not urgent since Winter (the only season without new additions) already has full coverage.
+
 **Sprite/art note:** every hybrid result needs its own custom sprite once art direction begins — flagging this now
 so it's on the list for that pass, since hybrids can't just reuse either parent crop's sprite.
 
 ## 14.8 Open Questions
-- Full hybrid pairing table (which specific same-season pairs produce which hybrid) and drop-chance math.
 - Full crop list expansion beyond the starting roster + the now-locked 9 yearly additions.
 - Exact bush mechanics (maturation time, placement rules) — introduced in 14.6 but not detailed yet.
+- Hybrid pairing curation for the 9 yearly-addition crops (14.2) — the starting roster's pairs are locked (14.7),
+  the yearly additions are not yet folded in.
 
-**Resolved:** Sell prices for all farmed crops, wild-foraged plants, and trees/orchards (including yearly
-additions) are now locked — see the tables in 14.3, 14.4, and 14.6.
+**Resolved:**
+- Sell prices for all farmed crops, wild-foraged plants, and trees/orchards (including yearly additions) — see the
+  tables in 14.3, 14.4, and 14.6.
+- Hybrid pairing table and drop-chance math for the starting roster — see 14.7.
