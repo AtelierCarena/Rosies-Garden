@@ -147,8 +147,9 @@ Ivy."
 
 Owns the Shared Activity of inviting an NPC to fish, already referenced in [03-npc-relationships.md, 4.3](03-npc-relationships.md).
 Also owns the player's very first fishing lesson — meeting Silas (at the Dock, at the Tavern at night, or via his
-letter after 3 in-game days) hands over the starting Fishing Rod, the Net/Lobster Trap/Bait recipes, and Worm
-Gathering (08-starting-experience.md, 9.5) — the first fully fleshed-out NPC-given tutorial event in the roster.
+letter after 3 in-game days) hands over the starting Fishing Rod plus the Lobster Trap/Bait recipes and Worm
+Gathering (08-starting-experience.md, 9.5) — the first fully fleshed-out NPC-given tutorial event in the roster,
+and the template Linnet's and Beau's own tool-lesson events (9.6-9.7) reuse.
 Naming history: "Reed" (too on-the-nose a pun for a fisherman), then "Alder," landing on Silas.
 
 ---
@@ -540,7 +541,9 @@ an actual voice in town rather than just a shop-menu category. Renamed from "Pop
 | Nature (spoiler field) | TBD |
 
 Ties into the Wild/Beast skill tree — sells Basic Feed, oversees the Pen/Coop and Sanctuary/Breeding Nest structures
-(see 3.7). Renamed from "Fern."
+(see 3.7). Also owns the player's taming lesson — meeting him at the Pen/Coop grants the Animal Trap recipe
+(08-starting-experience.md, 9.7), a live-catch tool distinct from the fishing/bug-catching tools Silas and Linnet
+teach. Renamed from "Fern."
 
 ---
 
@@ -585,7 +588,9 @@ decorative variants. Renamed from "Cedar."
 
 Ties into Earth/Growth — sells honey/wax. Originally proposed as a groundskeeper/gardener, changed deliberately:
 "the Gardener" is already a malicious figure in Rose's discovery chain (6.4), and a friendly NPC with an overlapping
-title would collide with that. Mind spaces don't need a groundskeeper. Renamed from "Rowan."
+title would collide with that. Mind spaces don't need a groundskeeper. Also owns the player's bug-catching lesson —
+meeting her at the hives grants the Fishing Net recipe (08-starting-experience.md, 9.6), a more natural fit than
+Silas teaching bug-catching himself. Renamed from "Rowan."
 
 ---
 

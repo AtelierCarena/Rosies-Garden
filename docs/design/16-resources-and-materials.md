@@ -56,13 +56,14 @@ elsewhere in Forge/Craft (02-skill-trees.md, 3.6). A Tier 1 Pickaxe can only min
 unlocks mining of the next ore tier up, 1:1, so a player can see a higher-tier node before they're equipped to
 harvest it.
 
-**Fishing Rod / Net / Lobster Trap tier-gating — Locked:** the same pattern extends to catching Fish and Bugs
-(14-plants-and-crops.md, 14.5). Each tool is crafted at the matching Ore tier and gates two things at once: the
-**maximum rarity tier catchable at all**, and a **per-tier bonus to catch-chance/minigame ease** within whatever
-range that tool can already reach. A Tier 1 Rod simply cannot hook a Rare fish — the creature won't bite at all —
-rather than offering a harder chance at it.
+**Fishing Rod / Net / Lobster Trap / Animal Trap tier-gating — Locked:** the same pattern extends to catching Fish
+and Bugs (14-plants-and-crops.md, 14.5) and, via the Animal Trap, to taming (04-companions.md). Each tool is
+crafted at the matching Ore tier and gates two things at once: the **maximum rarity/wildness tier reachable at
+all**, and a **per-tier bonus to catch-chance/minigame ease** within whatever range that tool can already reach. A
+Tier 1 Rod simply cannot hook a Rare fish — the creature won't bite at all — rather than offering a harder chance
+at it.
 
-| Ore Tier | Rod/Net/Lobster Trap Tier | Max Catchable Rarity | Catch-Chance Bonus |
+| Ore Tier | Tool Tier | Max Catchable Rarity / Tameable Wildness | Catch-Chance Bonus |
 |---|---|---|---|
 | 1 (Rosevein) | Crude | Common | — (baseline) |
 | 2 (Ashenshale) | Tier 2 | Uncommon | +10% |
@@ -75,7 +76,7 @@ Graveyard's Legendary-tier catches, or a Snowbound Anglerfish, requires a Tier 5
 creature is found. The bonus is a flat improvement to the timed-minigame catch window/bite rate (14.5's Catch
 Mechanic), not a separate roll — a better tool makes catches within its range easier, not just unlocks new ranges.
 
-**Three distinct tools, one shared ladder:**
+**Four distinct tools, one shared ladder:**
 - **Fishing Rod** — active, used at water, catches Fish. The player engages the timed bar-alignment minigame.
 - **Net** — active, used on land/air, catches Bugs. The player engages the timed positioning/swing minigame.
 - **Lobster Trap** — passive, placed near a Fish or Bug spawn zone and left to work over one in-game day/night
@@ -83,13 +84,21 @@ Mechanic), not a separate roll — a better tool makes catches within its range 
   Trap only ever catches at its tier's baseline chance (no +10%/+20%/etc. bonus), regardless of its own tier, since
   the tradeoff is convenience, not power. Higher-tier Lobster Traps still raise the max catchable rarity, same as
   Rod/Net.
+- **Animal Trap** — a live-catch trap for Tamed Companions (04-companions.md), not Fish/Bugs at all. Same ladder,
+  same tier-gates-max-rarity logic, applied to creature "wildness" instead of catch rarity.
 
-**Sourcing — Locked, revised.** Unlike the Pickaxe and Axe, the Crude Fishing Rod is **not** part of the universal
-Tier 0 hand-craftable baseline. It's granted by Silas the first time the player meets him (08-starting-experience.md,
-9.5) — along with the recipes for the Crude Rod, Net, Lobster Trap, and Common Fishing Bait, plus Worm Gathering.
-This is a deliberate exception to the Crude Pickaxe/Crude Axe pattern: fishing is introduced through an actual NPC
-relationship beat rather than silently handed to the player at spawn, giving Silas a concrete first-meeting hook
-the way Adelaide's Inn or Bella's General Store already imply for other early interactions.
+**Sourcing — Locked, revised.** Unlike the Pickaxe and Axe, none of these four tools are part of the universal
+Tier 0 hand-craftable baseline — each is granted by the NPC whose trade actually matches it, the first time the
+player meets them (08-starting-experience.md, 9.5-9.7):
+- **Silas** grants the Fishing Rod (the physical starting tool) plus recipes for the Crude Rod, Lobster Trap, and
+  Common Fishing Bait, plus Worm Gathering.
+- **Linnet** grants the Net recipe.
+- **Beau** grants the Animal Trap recipe.
+
+This is a deliberate exception to the Crude Pickaxe/Crude Axe pattern: fishing/bug-catching/taming are each
+introduced through an actual NPC relationship beat rather than silently handed to the player at spawn, giving all
+three NPCs a concrete first-meeting hook the way Adelaide's Inn or Bella's General Store already imply for other
+early interactions.
 
 **Fishing Bait — Locked, new consumable.** A per-cast consumable, distinct from Rod tier — Bait improves
 catch-chance within whatever rarity range the equipped Rod can already reach, but never raises the max catchable

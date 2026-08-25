@@ -173,3 +173,29 @@ Alchemy-reagent-flavored wild-foraged plants locked in 14-plants-and-crops.md, 1
 Every unlock category the collaborative brainstorm asked for is represented at least once (quest x2, friendship
 milestone x2, skill-tree advancement x1, lore revelation x1, shop-exclusive x1, dungeon scroll x1) — a template for
 adding more Advanced Potions later without needing to invent new unlock mechanisms first.
+
+## 8.7 Selling Locations and Relationship Bonus — Locked
+Three places to sell anything: the Homestead's own sell point, Bella's General Store, or an NPC's specialty shop
+(where one matches the item's category — ore to Gideon, potions to Mina, and so on). **This "Homestead Shop Stall"
+is a different thing from the Trade tree's Shop Stall/Full Shop machine (02-skill-trees.md, 3.7)** — the Homestead
+one is a free, always-available sell-dump the player drops items into for base price, no Trade investment needed;
+the Trade-tree one is the player's own vending structure for passive income from others buying, an unrelated
+system that happens to share a name. Some NPCs already have a dedicated shop (Gideon's Forge, Mina's Apothecary,
+etc.); others without one may instead run a stall somewhere in the Plaza (Town Square) — a flavor/placement detail
+per NPC, not a mechanical difference.
+
+**Specialty-shop bonus — Locked:** selling at a matching specialty shop instead of the Homestead Stall or Bella's
+General Store earns a percentage bonus on top of base sell price, scaling with relationship tier (03-npc-
+relationships.md, 4.2) with the NPC who runs that shop:
+
+| Relationship Tier | Bonus |
+|---|---|
+| Any tier (baseline) | +3% |
+| Tier 2, Friend ("half friendship") | +5% |
+| Tier 5a/5b, Best Friend or Partner ("full friendship") | +15% |
+
+The Homestead Stall and Bella's General Store never carry this bonus regardless of relationship tier — they're the
+convenience/baseline option, and the bonus is specifically the reward for building a relationship with a specialty
+shopkeeper instead of defaulting to the easy dump point.
+
+See 03-npc-relationships.md, 4.7 for how this same tier ladder also gates Romance eligibility and Marriage.

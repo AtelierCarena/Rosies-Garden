@@ -71,3 +71,21 @@ Both tracks share:
 
 Full per-NPC assignment (Escort vs. Companion-Granter) and ability design lives in the NPC Roster
 (12-npc-roster.md), using the expanded Interactive NPC Template (05-character-cast.md, 6.2).
+
+## 4.7 Romance, Proposal, and Marriage — Locked
+Pins concrete tiers to the 4.2 fork rather than leaving "Romance-eligible" abstract:
+
+- **Romance eligibility unlocks at Tier 4, Confidant** — the same tier that already gates the personal lore/
+  backstory reveal (4.2) and Dungeon Companion access (4.6). No separate romance-specific threshold; reaching
+  Confidant opens the fork to pursue Tier 5b (Partner) instead of settling at 5a (Best Friend).
+- **Tier 5b, Partner** is "full friendship plus romance" — the prerequisite for Proposal.
+- **Proposal** becomes available once a player reaches Tier 5b with an NPC. There's no rejection state modeled —
+  by the time a player reaches Partner tier, acceptance is guaranteed, keeping the moment a celebration rather
+  than another skill check.
+- **Marriage** takes place automatically **one in-game week (7 days) after Proposal** — no player-run ceremony
+  planning, no additional gate. The wait exists purely for pacing/anticipation, not as a resource or quest gate.
+
+This tier ladder is shared with the specialty-shop selling bonus (07-item-system.md, 8.7) — Tier 2 ("half
+friendship") and Tier 5a/5b ("full friendship") aren't just Romance milestones, they're also when a matching
+specialty shopkeeper's price bonus steps up. Relationship investment pays off in flavor, dungeon utility, and
+economy all off the same meter, rather than three separate tracking systems.

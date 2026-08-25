@@ -182,7 +182,8 @@ commissioning him, giving the relationship mechanical weight beyond flavor.
 
 **Two tabs at August's workshop — Locked:**
 - **Structures tab** — available from the start. The base buildable list: Stables, Cabin, House, Storage Shed,
-  Hatchery, and similar. No special gate beyond the normal unlock rules (3.6).
+  Hatchery, **Smithy, Arcane Shrine, Shop Stall (base)**, and similar. No special gate beyond the normal unlock
+  rules (3.6). This is deliberately where the skill-tree Machine system (3.6-3.7) gets a physical home — see below.
 - **Upgrades tab** — locked until unlocked via dialogue (see below). Not new structures — upgrades to existing
   ones. Deliberately expensive, since these are late-game investments rather than early conveniences.
 
@@ -192,3 +193,25 @@ not a passive relationship-tier threshold. Once open, the Upgrades tab includes 
 (Simple Cooking Pot -> Chef's Range, 07-item-system.md 8.5) and Greenhouse restoration (02-skill-trees.md 3.7,
 Earth/Growth Tier 7) as its first two entries. August is the one who actually builds/restores either — Delphine's
 role is opening the door, not doing the labor herself.
+
+**Machine placement — Locked.** Every tree's skill-gated "Machine:" nodes (3.7) now have a concrete physical home,
+resolving what used to be an abstract tree mechanic with no building attached:
+
+| Tree | Base Structure (Structures tab) | Machines it houses (Upgrades tab tiers) |
+|---|---|---|
+| — (Food) | The House itself — the Kitchen is part of it, not a separate building | Chef's Range |
+| Forge/Craft | **Smithy** (new) — deliberately separate from the House, matching how forges work everywhere else (fire/noise/danger kept apart from living space) | Forge Hall, Enchanting Anvil, Mass Production Line |
+| Earth/Growth | **Greenhouse** — special case, see below | *(Greenhouse's own Tier 7 functional unlock)* |
+| Wild/Beast | **Stables** — already existed in the base Structures list; this is what it was quietly anticipating | Pen/Coop, Sanctuary, Breeding Nest |
+| Arcane | **Arcane Shrine** (new) | Arcane Workbench, Arcane Altar, Familiar Summoning Circle |
+| Trade/Charm | **Shop Stall** (new, base version) | Full Shop |
+
+**Greenhouse stays a unique case — Locked.** Unlike every other entry above, the Greenhouse isn't a fresh build:
+a dormant, already-existing greenhouse sits on the Homestead from the start, and the Upgrades-tab entry
+**restores** it rather than constructing one from nothing — the one exception to "base structure, then upgrade
+it," kept exactly as already locked.
+
+**Sacred Grove isn't a building at all — Locked.** Earth/Growth Tier 8's "large-scale terraforming" description
+reads as a landscape change (a grove taking root somewhere on the property), not something with walls. It's a pure
+skill-tree unlock the player triggers themselves once they hit Tier 8 — no August commission, no Structures-tab
+entry, since there's nothing to build.
