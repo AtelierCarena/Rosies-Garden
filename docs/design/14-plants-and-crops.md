@@ -41,12 +41,48 @@ in 9.3.
 Leans into the game's soft/floral aesthetic rather than generic fantasy produce — several entries double as
 Placeables/Decor material once harvested (8.4) or as gift items for the NPC gift-preference system (4.3).
 
-| Season | Crops |
-|---|---|
-| Spring | Strawberries, Peas, Tulips, Rhubarb, Carrots, Forget-Me-Nots |
-| Summer | Tomatoes, Sunflowers, Blueberries, Melon, Lavender, Corn |
-| Fall | Pumpkins, Cranberries, Amaranth, Yams, Chrysanthemums |
-| Winter | Winter Roots, Holly, Snow Peas — deliberately sparse; Winter is meant to be the lean season, encouraging Greenhouse investment |
+**Sell prices — Locked.** Farmed crops sit in the Common range (14.5's rarity/price scale, 20-40g) since they're
+grow-to-order rather than found — cheaper than wild-foraged (below), which trades reliability for a price bump.
+
+| Season | Crop | Sell Price |
+|---|---|---|
+| Spring | Strawberries | 20g |
+| Spring | Peas | 15g |
+| Spring | Tulips | 25g |
+| Spring | Rhubarb | 20g |
+| Spring | Carrots | 15g |
+| Spring | Forget-Me-Nots | 20g |
+| Summer | Tomatoes | 20g |
+| Summer | Sunflowers | 25g |
+| Summer | Blueberries | 25g |
+| Summer | Melon | 30g |
+| Summer | Lavender | 25g |
+| Summer | Corn | 15g |
+| Fall | Pumpkins | 30g |
+| Fall | Cranberries | 25g |
+| Fall | Amaranth | 20g |
+| Fall | Yams | 20g |
+| Fall | Chrysanthemums | 25g |
+| Winter | Winter Roots | 20g |
+| Winter | Holly | 25g |
+| Winter | Snow Peas | 20g |
+
+Winter stays deliberately sparse (3 crops vs. 5-6 elsewhere) — Winter is meant to be the lean season, encouraging
+Greenhouse investment.
+
+**Yearly additions — sell prices:**
+
+| Year | Crop | Sell Price | Notes |
+|---|---|---|---|
+| 1 | Larkspur | 25g | |
+| 1 | Zinnias | 25g | |
+| 1 | Elderberries | 30g | |
+| 2 | Anemones | 25g | |
+| 2 | Basil | 20g | |
+| 2 | Belladonna | 40g | Upper-Common/edge-of-Uncommon — "beautiful but dangerous," priced above its Fall peers |
+| 3 | Foxglove | 30g | Another dangerous-beauty crop, priced accordingly |
+| 3 | Mint | 20g | |
+| 3 | Wheat | 15g | Grain/staple — deliberately the cheapest of the three, matching its bulk-ingredient role |
 
 **Forget-Me-Nots** are a deliberate echo of the dungeon bracket name (Forget-Me-Not Fields, 10-dungeons-and-risk.md)
 — the same flower exists literally in the farmable world, not just as dungeon flavor text.
@@ -58,15 +94,27 @@ evocative flower/plant names that lean a little dark or a little strange, rather
 Tied to the Wild Spawn seasonal resource zones from 9.3, with the physically-discovered / informationally-known
 flag split applying to each.
 
-| Season | Wild Plants |
-|---|---|
-| Spring | Bleeding Heart Blossom, Dew-Kissed Clover, Sweetpea Vine |
-| Summer | Honeysuckle, Nightshade Berries, Firefly Nectar |
-| Fall | Witch Hazel Bark, Amber Resin, Thistledown |
-| Winter | Frost-Kissed Ivy, Silverbell Sprigs, Snowdrop Blossom |
+**Sell prices — Locked.** Wild-foraged plants sit in the Uncommon range (14.5's scale, 50-90g) — priced above farmed
+crops since finding them costs seasonal timing and searching rather than guaranteed farm-plot yield. Nightshade
+Berries edges toward Rare given its Alchemy/danger value.
+
+| Season | Wild Plant | Sell Price |
+|---|---|---|
+| Spring | Bleeding Heart Blossom | 55g |
+| Spring | Dew-Kissed Clover | 50g |
+| Spring | Sweetpea Vine | 55g |
+| Summer | Honeysuckle | 50g |
+| Summer | Nightshade Berries | 90g |
+| Summer | Firefly Nectar | 65g |
+| Fall | Witch Hazel Bark | 75g |
+| Fall | Amber Resin | 70g |
+| Fall | Thistledown | 50g |
+| Winter | Frost-Kissed Ivy | 60g |
+| Winter | Silverbell Sprigs | 65g |
+| Winter | Snowdrop Blossom | 55g |
 
 Nightshade Berries and Witch Hazel Bark are plausible Alchemy reagents (ties to Mina's shop, 8.2's Alchemy
-system) rather than pure gift/decor items.
+system) rather than pure gift/decor items — their above-average prices reflect that dual value.
 
 ## 14.5 Fish and Bugs
 **Design directive:** same correction as 14.4 — stylized, thematic names, not real-world species pulled 1:1 the way
@@ -131,11 +179,21 @@ Likely uses: Wild/Beast feed/crafting reagents (Beau's shop), collection/gift it
 Perennial placeables, distinct from the tilled seasonal-crop-rotation system — once planted and grown, they don't
 need replanting each season.
 
-| Category | Trees |
-|---|---|
-| Fruit | Rosehip Tree, Fig Tree, Plum Tree, Apple Tree, Pear Tree |
-| Nut | Walnut Tree, Chestnut Tree, Oak Tree (acorns — feed/decor use) |
-| Maple | Maple Tree — tappable for syrup (a Fall/Winter activity), and a wood-type resource variant for the Forge/Craft tree |
+**Sell prices — Locked.** Priced in the same Common range as farmed crops (perennial convenience offsets the longer
+setup time) except Maple Syrup, a processed good priced above raw harvest.
+
+| Category | Tree | Sell Price |
+|---|---|---|
+| Fruit | Rosehip Tree | 25g |
+| Fruit | Fig Tree | 25g |
+| Fruit | Plum Tree | 25g |
+| Fruit | Apple Tree | 20g |
+| Fruit | Pear Tree | 20g |
+| Nut | Walnut Tree | 20g |
+| Nut | Chestnut Tree | 15g |
+| Nut | Oak Tree (acorns — feed/decor use) | 10g |
+| Maple | Maple Tree (raw tap) | 15g |
+| Maple | Maple Syrup (processed) | 35g |
 
 **Rosehip Tree** is a deliberate thematic tie-in — rosehips are the literal fruit of a rose bush, connecting straight
 back to the game's central imagery without being on-the-nose about it.
@@ -145,11 +203,11 @@ Trees and Orchards get their own version of 14.2's growth mechanic: **1 new tree
 Years 1-3, then stopping — same three-year settling pattern as the tilled crop rotation, for consistency across
 both systems.
 
-| Year | Tree | Bush |
-|---|---|---|
-| 1 | Cherry Tree | Blackberry Bush |
-| 2 | Peach Tree | Raspberry Bush |
-| 3 | Persimmon Tree | Gooseberry Bush |
+| Year | Tree | Sell Price | Bush | Sell Price |
+|---|---|---|---|---|
+| 1 | Cherry Tree | 25g | Blackberry Bush | 25g |
+| 2 | Peach Tree | 25g | Raspberry Bush | 25g |
+| 3 | Persimmon Tree | 30g | Gooseberry Bush | 25g |
 
 Bushes are a new sub-category introduced here — smaller than trees, likely faster to mature, but still perennial
 rather than tilled/replanted. Blackberry ties naturally into the game's existing thorn imagery.
@@ -172,3 +230,6 @@ so it's on the list for that pass, since hybrids can't just reuse either parent 
 - Full hybrid pairing table (which specific same-season pairs produce which hybrid) and drop-chance math.
 - Full crop list expansion beyond the starting roster + the now-locked 9 yearly additions.
 - Exact bush mechanics (maturation time, placement rules) — introduced in 14.6 but not detailed yet.
+
+**Resolved:** Sell prices for all farmed crops, wild-foraged plants, and trees/orchards (including yearly
+additions) are now locked — see the tables in 14.3, 14.4, and 14.6.

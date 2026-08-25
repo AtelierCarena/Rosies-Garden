@@ -56,3 +56,58 @@ stats while visually appearing in a cute sundress. Cosmetics become a strong rew
 | Cosmetics/Outfits | Yes (prestige, not power) | Shops, relationships, events, achievements |
 | Quest/Key Items | No | Story/discovery only |
 | Currency/Trade Goods | N/A | Selling, quests |
+
+## 8.5 Cooking / Food Consumables — Locked
+Ties to the Campfire and Simple Cooking Pot (08-starting-experience.md, 9.2), Delphine's Chef role (12-npc-roster.md),
+and the crop/wild-plant/fish sell prices locked in 14-plants-and-crops.md. Three station tiers gate meal
+tiers, mirroring the tool-tier gating pattern already used for Ore/Pickaxes (16.2).
+
+**Pricing logic:** meal sell price is roughly ingredient cost x a markup that scales with station tier — reflecting
+skill/prep value added, not just raw materials passed through.
+
+| Station Tier | Markup | Unlocks |
+|---|---|---|
+| Tier 0 — Campfire | ~1.5x ingredient cost | Simple, 1-ingredient meals, no station upgrade needed |
+| Tier 1 — Simple Cooking Pot | ~1.8x ingredient cost | Multi-ingredient meals |
+| Tier 2+ — Chef's Range (new, gated) | ~2.5x ingredient cost | Rare/Epic/Legendary-tier showcase meals |
+
+**Chef's Range — Locked, new structure:** unlocked via Forge/Craft skill-tree investment plus Delphine's
+relationship tier (tying a Confidant-tier reveal to a mechanical unlock, consistent with how other NPCs gate
+content). Gates the Rare-and-up recipes below behind both progression and relationship investment, distinguishing
+them from Tier 1's Uncommon-tier fare.
+
+**Buff meals vs. pure-heal meals — Locked:** Food splits into two flavors, decided per-recipe rather than a hard
+rule:
+- **Pure-Heal meals:** restore Hearts only. The simple/cheap end, mostly Tier 0.
+- **Buff meals:** restore Hearts AND grant a temporary situational buff (Stamina, Charm/Trade, cold-resist, Attack,
+  etc.) tied to the ingredients' flavor. The higher-tier/pricier end — gives cooking investment a reason to exist
+  beyond just bigger heal numbers.
+
+### Tier 0 — Campfire Recipes
+
+| Meal | Recipe | Ingredient Cost | Effect | Sell Price |
+|---|---|---|---|---|
+| Roasted Corn | 1x Corn | 15g | Small Heart restore (pure-heal) | 25g |
+| Baked Yam | 1x Yam | 20g | Small Heart restore (pure-heal) | 35g |
+| Toasted Chestnuts | 2x Chestnut | 30g | Small Heart restore (pure-heal) | 50g |
+| Pan-Seared Catch | 1x any Common-tier Fish | ~20-25g | Small Heart restore, minor Stamina buff | 40g |
+| Berry Skewer | 1x any Berry crop | ~20-25g | Small Heart restore (pure-heal) | 40g |
+
+### Tier 1 — Simple Cooking Pot Recipes
+
+| Meal | Recipe | Ingredient Cost | Effect | Sell Price |
+|---|---|---|---|---|
+| Garden Stew | 1x Carrots + 1x Tomatoes + 1x Peas | 50g | Medium Heart restore (pure-heal) | 90g |
+| Pumpkin Harvest Soup | 2x Pumpkins + 1x Yams | 80g | Medium Heart restore + cold-resist buff (Fall/Winter flavor) | 130g |
+| Lavender Iced Tea | 2x Lavender + 1x Melon | 80g | Small Heart restore + temporary Charm/Trade buff (Dahlia synergy) | 130g |
+| Basil Cranberry Tart | 1x Basil + 2x Cranberries | 70g | Medium Heart restore (pure-heal) | 120g |
+
+### Tier 2+ — Chef's Range Recipes (Rare and up)
+
+| Meal | Recipe | Ingredient Cost | Effect | Sell Price |
+|---|---|---|---|---|
+| Chef's Catch Platter | 2x any Uncommon-tier Fish + 1x Mint | ~150g | Large Heart restore + Stamina buff | 240g (Epic) |
+| Nightshade Reduction | 2x Nightshade Berries + 1x Witch Hazel Bark | ~255g | Large Heart restore + temporary Attack buff, but a small chance (~15%) to inflict brief Poison status if eaten outside deliberate prep — a genuine risk/reward dish, not just flavor text, continuing the "beautiful but dangerous" thread from Nightshade Berries and Witch Hazel Bark (14.4) | 400g (Legendary) |
+
+Nightshade Reduction is meant to read as a tactical pre-boss-fight dish rather than a casual snack — the poison
+chance rewards deliberate use (eating it in a safe moment before a fight) over reflexive spamming.
