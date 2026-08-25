@@ -100,6 +100,9 @@ rule:
 | Toasted Chestnuts | 2x Chestnut | 30g | Small Heart restore (pure-heal) | 50g |
 | Pan-Seared Catch | 1x any Common-tier Fish | ~20-25g | Small Heart restore, minor Stamina buff | 40g |
 | Berry Skewer | 1x any Berry crop | ~20-25g | Small Heart restore (pure-heal) | 40g |
+| Snapdragon Nibbles | 2x Snapdragons | 50g | Small Heart restore (pure-heal), decorative-edible dual sell | 75g |
+| Glazed Radish | 1x Radishes | 15g | Small Heart restore (pure-heal) | 25g |
+| Beet Chips | 2x Beets | 40g | Small Heart restore (pure-heal) | 60g |
 
 ### Tier 1 — Simple Cooking Pot Recipes
 
@@ -109,6 +112,9 @@ rule:
 | Pumpkin Harvest Soup | 2x Pumpkins + 1x Yams | 80g | Medium Heart restore + cold-resist buff (Fall/Winter flavor) | 130g |
 | Lavender Iced Tea | 2x Lavender + 1x Melon | 80g | Small Heart restore + temporary Charm/Trade buff (Dahlia synergy) | 130g |
 | Basil Cranberry Tart | 1x Basil + 2x Cranberries | 70g | Medium Heart restore (pure-heal) | 120g |
+| Acorn Squash Bake | 2x Acorn Squash + 1x Yams | 70g | Medium Heart restore (pure-heal) | 125g |
+| Winter Cabbage Roll | 2x Winter Cabbage + 1x Parsnips | 55g | Medium Heart restore + cold-resist buff (Winter's second buff-meal alongside Pumpkin Harvest Soup) | 100g |
+| Pixie Cap Risotto | 2x Pixie Cap Mushroom + 1x Basil | 140g | Medium Heart restore + minor Arcane/mana buff (Leonair synergy) | 250g |
 
 ### Tier 2+ — Chef's Range Recipes (Rare and up)
 
@@ -116,6 +122,51 @@ rule:
 |---|---|---|---|---|
 | Chef's Catch Platter | 2x any Uncommon-tier Fish + 1x Mint | ~150g | Large Heart restore + Stamina buff | 240g (Epic) |
 | Nightshade Reduction | 2x Nightshade Berries + 1x Witch Hazel Bark | ~255g | Large Heart restore + temporary Attack buff, but a small chance (~15%) to inflict brief Poison status if eaten outside deliberate prep — a genuine risk/reward dish, not just flavor text, continuing the "beautiful but dangerous" thread from Nightshade Berries and Witch Hazel Bark (14.4) | 400g (Legendary) |
+| Blackthorn Bramble Tart | 2x Blackthorn Berries + 1x Amber Resin | ~220g | Large Heart restore + Attack buff — another "dangerous beauty" dish, without the poison-chance twist Nightshade Reduction carries | 350g (Epic) |
+| Widow's Lace Consommé | 2x Widow's Lace + 1x Hoarfrost Lichen | ~205g | Large Heart restore + cold-immunity — Winter's first Chef's Range dish, filling a gap the original recipe set left open | 320g (Epic) |
 
 Nightshade Reduction is meant to read as a tactical pre-boss-fight dish rather than a casual snack — the poison
 chance rewards deliberate use (eating it in a safe moment before a fight) over reflexive spamming.
+
+## 8.6 Alchemy / Potions — Locked
+Fills a gap that had sat open since 8.2 first mentioned Alchemy as a temporary-buff system distinct from
+Enchanting — no actual potions existed until now. Sold via Mina's Apothecary (12-npc-roster.md), crafted from the
+Alchemy-reagent-flavored wild-foraged plants locked in 14-plants-and-crops.md, 14.4.
+
+**Two tiers — Locked:**
+- **Base Potions (8):** available from the start at Mina's shop, once the player has the relevant reagents. Flat
+  Uncommon-tier price (70g), matching the wild-forage cost band they're crafted from.
+- **Advanced/Unlockable Potions (8):** each locked behind a distinct unlock path rather than simple gold purchase —
+  quest completion, an NPC friendship milestone, skill-tree advancement, a World Story/lore revelation, a
+  shop-exclusive purchase, or a scroll found in the dungeon. Rare-to-Legendary tier, reflecting the extra investment
+  each one demands.
+
+### Base Potions
+
+| Potion | Recipe | Effect | Price |
+|---|---|---|---|
+| Sunscale Tonic | Sunburst Fern + Wild Chamomile | Minor Stamina regen | 70g |
+| Frostward Elixir | Hoarfrost Lichen + Frost-Kissed Ivy | Cold/damage resist | 70g |
+| Bloomwake Serum | Moonpetal Iris + Dew-Kissed Clover | Minor heal-over-time | 70g |
+| Emberheart Tonic | Amber Resin + Blackthorn Berries | Damage buff | 70g |
+| Clarity Draught | Wild Chamomile + Sweetpea Vine | Cures status debuffs | 70g |
+| Widow's Veil Potion | Widow's Lace + Silverbell Sprigs | Evasion/stealth buff | 70g |
+| Honeyglow Balm | Bee Balm + Firefly Nectar | Charm/Trade buff | 70g |
+| Nightshade Draught | Nightshade Berries + Witch Hazel Bark | Attack buff, poison-risk — Alchemy's own version of the Nightshade Reduction dish (8.5), sold raw rather than cooked | 70g |
+
+### Advanced / Unlockable Potions
+
+| Potion | Unlock Path | Effect | Price |
+|---|---|---|---|
+| Verdant Bloom Elixir | Quest reward — Ophelia's personal questline | Large heal + minor temporary Earth/Growth yield buff | 150g (Rare) |
+| Silvertongue Draught | Friendship milestone — Confidant tier with Dahlia | Strong Charm/Trade buff, above Honeyglow Balm's tier | 150g (Rare) |
+| Archivist's Insight | Skill-tree advancement — Arcane Tier 5 (3.7) | Temporarily reveals hidden dungeon rooms/traps — a consumable version of Percival's Escort ability (12-npc-roster.md, 13.3) | 180g (Rare) |
+| Rosebound Tonic | Lore revelation — a World Story beat tied to Rose's discovery chain (05-character-cast.md, 6.4) | Large heal + brief damage resist, thematically tied to Rose's imagery | 500g (Legendary) |
+| Thornsteel Draught | Shop-exclusive — purchase only, no recipe, sold solely at Gideon's Forge | Temporary Armor/Defense buff, themed to Thornsteel ore (16.2) | 200g (Epic) |
+| Moonshadow Brew | Dungeon scroll — found in the Porcelain Orchards or Her Hollow bracket (10-dungeons-and-risk.md), teaches the recipe on pickup (Event/Relationship-Unlocked channel, 3.6) | Temporary stealth/evasion buff + minor increase to Legendary-loot chance (11.2) | 250g (Epic) |
+| Gatekeeper's Resolve | Friendship milestone — Confidant tier with Thorne | Temporary max-Heart increase for one dungeon run | 160g (Rare) |
+| Hollowroot Cure-All | Quest reward — Sebastian's or Daisy's personal questline | Cures all debuffs + moderate heal — a "master medicine" capstone potion | 280g (Epic) |
+
+Every unlock category the collaborative brainstorm asked for is represented at least once (quest x2, friendship
+milestone x2, skill-tree advancement x1, lore revelation x1, shop-exclusive x1, dungeon scroll x1) — a template for
+adding more Advanced Potions later without needing to invent new unlock mechanisms first.

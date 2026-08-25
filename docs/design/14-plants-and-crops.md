@@ -13,10 +13,11 @@ which seeds are purchasable. Availability is governed by season and rarity inste
 
 ## 14.2 Yearly Crop Rotation Growth — Locked
 Every in-game year, **3 new crops are added to the rotation** — new seeds become purchasable/discoverable that
-weren't available before. This continues through Year 3, then stops: by Year 4 the crop roster is permanently
-complete (the 14.3 starting list, plus these 9 crops added across Years 1-3).
+weren't available before. This continues through **Year 4** (extended from the original Year 3 cutoff, to match a
+farming sim's realistic multi-year playtime), then stops: by Year 5 the crop roster is permanently complete (the
+14.3 starting list, plus these 12 crops added across Years 1-4).
 
-Each year's 3 additions land in Spring, Summer, and Fall only — Winter stays untouched across all three years,
+Each year's 3 additions land in Spring, Summer, and Fall only — Winter stays untouched across all four years,
 reinforcing its intentional scarcity (14.3) and the incentive to invest in the Greenhouse rather than diluting that
 design goal with new Winter content.
 
@@ -25,6 +26,7 @@ design goal with new Winter content.
 | 1 | Larkspur | Zinnias | Elderberries |
 | 2 | Anemones | Basil | Belladonna |
 | 3 | Foxglove | Mint | Wheat |
+| 4 | Delphiniums | Cosmos | Ironweed |
 
 A few notes on these picks:
 - **Belladonna** continues the "beautiful but dangerous" thread already running through Nightshade Berries (14.4)
@@ -32,14 +34,20 @@ A few notes on these picks:
 - **Basil** and **Mint** are the first cooking-herb crops in the roster — plausible ingredients for Delphine (Chef,
   12-npc-roster.md).
 - **Wheat** is the roster's first grain/staple crop — useful for baking, and was a genuine gap before this.
+- **Delphiniums** double as a small, deliberate nod toward Delphine (Chef, 12-npc-roster.md) without being a literal
+  reference.
+- **Ironweed** leans into the ore/thorn-adjacent dark palette running through the world (Thornsteel, the dungeon
+  bracket names) — a sturdy, hardy fall bloom rather than another delicate flower.
 
 A plausible future hook, still not locked: Percival could be the one who first mentions a new crop exists, before it's
 purchasable — same "informationally known before physically available" pattern already established for Wild Spawns
 in 9.3.
 
-## 14.3 Farmed Crops (starting roster, first-pass)
+## 14.3 Farmed Crops (starting roster, expanded)
 Leans into the game's soft/floral aesthetic rather than generic fantasy produce — several entries double as
-Placeables/Decor material once harvested (8.4) or as gift items for the NPC gift-preference system (4.3).
+Placeables/Decor material once harvested (8.4) or as gift items for the NPC gift-preference system (4.3). Expanded
+from the original starting roster to give crop rotation planning real depth — Spring/Summer/Fall now sit at 9 crops
+each, Winter at 6 (still deliberately behind the others, see below).
 
 **Sell prices — Locked.** Farmed crops sit in the Common range (14.5's rarity/price scale, 20-40g) since they're
 grow-to-order rather than found — cheaper than wild-foraged (below), which trades reliability for a price bump.
@@ -52,23 +60,36 @@ grow-to-order rather than found — cheaper than wild-foraged (below), which tra
 | Spring | Rhubarb | 20g |
 | Spring | Carrots | 15g |
 | Spring | Forget-Me-Nots | 20g |
+| Spring | Violets | 25g |
+| Spring | Radishes | 15g |
+| Spring | Snapdragons | 25g |
 | Summer | Tomatoes | 20g |
 | Summer | Sunflowers | 25g |
 | Summer | Blueberries | 25g |
 | Summer | Melon | 30g |
 | Summer | Lavender | 25g |
 | Summer | Corn | 15g |
+| Summer | Zucchini | 20g |
+| Summer | Peonies | 30g |
+| Summer | Hibiscus | 25g |
 | Fall | Pumpkins | 30g |
 | Fall | Cranberries | 25g |
 | Fall | Amaranth | 20g |
 | Fall | Yams | 20g |
 | Fall | Chrysanthemums | 25g |
+| Fall | Turnips | 15g |
+| Fall | Beets | 20g |
+| Fall | Black-Eyed Susans | 25g |
+| Fall | Acorn Squash | 25g |
 | Winter | Winter Roots | 20g |
 | Winter | Holly | 25g |
 | Winter | Snow Peas | 20g |
+| Winter | Frost Lilies | 25g |
+| Winter | Parsnips | 15g |
+| Winter | Winter Cabbage | 20g |
 
-Winter stays deliberately sparse (3 crops vs. 5-6 elsewhere) — Winter is meant to be the lean season, encouraging
-Greenhouse investment.
+Winter stays deliberately sparse (6 crops vs. 9 elsewhere) — Winter is meant to be the lean season, encouraging
+Greenhouse investment. The gap is narrower than the original 3-vs-6 split (still noticeable, less punishing).
 
 **Yearly additions — sell prices:**
 
@@ -83,6 +104,9 @@ Greenhouse investment.
 | 3 | Foxglove | 30g | Another dangerous-beauty crop, priced accordingly |
 | 3 | Mint | 20g | |
 | 3 | Wheat | 15g | Grain/staple — deliberately the cheapest of the three, matching its bulk-ingredient role |
+| 4 | Delphiniums | 25g | Small nod toward Delphine (Chef), without being a literal reference |
+| 4 | Cosmos | 25g | |
+| 4 | Ironweed | 30g | Sturdy, dark-palette bloom |
 
 **Forget-Me-Nots** are a deliberate echo of the dungeon bracket name (Forget-Me-Not Fields, 10-dungeons-and-risk.md)
 — the same flower exists literally in the farmable world, not just as dungeon flavor text.
@@ -96,25 +120,41 @@ flag split applying to each.
 
 **Sell prices — Locked.** Wild-foraged plants sit in the Uncommon range (14.5's scale, 50-90g) — priced above farmed
 crops since finding them costs seasonal timing and searching rather than guaranteed farm-plot yield. Nightshade
-Berries edges toward Rare given its Alchemy/danger value.
+Berries edges toward Rare given its Alchemy/danger value. Expanded from 3 to **6 per season**, matching the crop
+density increase in 14.3 — several new entries feed directly into the Alchemy/Potions system (07-item-system.md,
+8.6).
 
 | Season | Wild Plant | Sell Price |
 |---|---|---|
 | Spring | Bleeding Heart Blossom | 55g |
 | Spring | Dew-Kissed Clover | 50g |
 | Spring | Sweetpea Vine | 55g |
+| Spring | Moonpetal Iris | 65g |
+| Spring | Wild Chamomile | 55g |
+| Spring | Pixie Cap Mushroom | 60g |
 | Summer | Honeysuckle | 50g |
 | Summer | Nightshade Berries | 90g |
 | Summer | Firefly Nectar | 65g |
+| Summer | Sunburst Fern | 60g |
+| Summer | Bee Balm | 55g |
+| Summer | Glimmerwing Pollen | 70g |
 | Fall | Witch Hazel Bark | 75g |
 | Fall | Amber Resin | 70g |
 | Fall | Thistledown | 50g |
+| Fall | Blackthorn Berries | 75g |
+| Fall | Faded Marigold | 55g |
+| Fall | Rustcap Mushroom | 60g |
 | Winter | Frost-Kissed Ivy | 60g |
 | Winter | Silverbell Sprigs | 65g |
 | Winter | Snowdrop Blossom | 55g |
+| Winter | Hoarfrost Lichen | 65g |
+| Winter | Widow's Lace | 70g |
+| Winter | Pale Frost Moss | 60g |
 
 Nightshade Berries and Witch Hazel Bark are plausible Alchemy reagents (ties to Mina's shop, 8.2's Alchemy
-system) rather than pure gift/decor items — their above-average prices reflect that dual value.
+system) rather than pure gift/decor items — their above-average prices reflect that dual value. Most of the new
+additions (Moonpetal Iris, Pixie Cap Mushroom, Glimmerwing Pollen, Blackthorn Berries, Rustcap Mushroom, Hoarfrost
+Lichen, Pale Frost Moss) are Alchemy-reagent-flavored by design — direct feed material for 8.6's potion roster.
 
 ## 14.5 Fish and Bugs
 **Design directive:** same correction as 14.4 — stylized, thematic names, not real-world species pulled 1:1 the way
@@ -200,14 +240,14 @@ back to the game's central imagery without being on-the-nose about it.
 
 ### Yearly Growth — Locked
 Trees and Orchards get their own version of 14.2's growth mechanic: **1 new tree plus 1 new bush per year**, for
-Years 1-3, then stopping — same three-year settling pattern as the tilled crop rotation, for consistency across
-both systems.
+Years 1-4 (extended from Years 1-3 to match the crop rotation's extension in 14.2), then stopping.
 
 | Year | Tree | Sell Price | Bush | Sell Price |
 |---|---|---|---|---|
 | 1 | Cherry Tree | 25g | Blackberry Bush | 25g |
 | 2 | Peach Tree | 25g | Raspberry Bush | 25g |
 | 3 | Persimmon Tree | 30g | Gooseberry Bush | 25g |
+| 4 | Quince Tree | 25g | Juniper Bush | 25g |
 
 Bushes are a new sub-category introduced here — smaller than trees, likely faster to mature, but still perennial
 rather than tilled/replanted. Blackberry ties naturally into the game's existing thorn imagery.
@@ -267,12 +307,14 @@ flagged as future work, not urgent since Winter (the only season without new add
 so it's on the list for that pass, since hybrids can't just reuse either parent crop's sprite.
 
 ## 14.8 Open Questions
-- Full crop list expansion beyond the starting roster + the now-locked 9 yearly additions.
 - Exact bush mechanics (maturation time, placement rules) — introduced in 14.6 but not detailed yet.
-- Hybrid pairing curation for the 9 yearly-addition crops (14.2) — the starting roster's pairs are locked (14.7),
-  the yearly additions are not yet folded in.
+- Hybrid pairing curation for the 12 yearly-addition crops (14.2) and the expanded 14.3 starting roster's new
+  entries — the original starting roster's pairs are locked (14.7), the rest are not yet folded in.
 
 **Resolved:**
 - Sell prices for all farmed crops, wild-foraged plants, and trees/orchards (including yearly additions) — see the
   tables in 14.3, 14.4, and 14.6.
 - Hybrid pairing table and drop-chance math for the starting roster — see 14.7.
+- Crop/forage density expansion — Spring/Summer/Fall at 9 farmed crops each (Winter at 6), 6 wild-foraged plants
+  per season, yearly crop rotation extended through Year 4 (12 total additions), tree/bush growth extended through
+  Year 4.
