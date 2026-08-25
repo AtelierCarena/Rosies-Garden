@@ -221,7 +221,7 @@ presentation (10.3) — consistent with clothing already being fully gender-unre
 | Personality traits | Warm, hospitable, a genuinely good listener. The "safe harbor" type — the Inn is a literal place of rest, and Adelaide's whole presence matches that. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
-| Confidant-tier reveal | TBD |
+| Confidant-tier reveal | **Locked.** A vague childhood memory of caring for a small girl in her family's home, alongside her parents — soft-edged, incomplete, she can't recall what became of the girl or how the memory even ends. Doesn't chase the answer or treat it as a mystery to solve; it simply left her with a quiet, driving need to give weary people somewhere safe to rest and wake up again another day. The Inn is that need, made into a life's work. |
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
@@ -441,7 +441,7 @@ from "Thistle."
 | Personality traits | Memory-holder. Gentle, a little formal, deeply kind rather than eerie — holds pieces of information others don't have access to. |
 | Romanceable? | Yes |
 | Personal questline | TBD |
-| Confidant-tier reveal | TBD |
+| Confidant-tier reveal | **Locked.** His Elf longevity is the actual explanation for the archivist role, not just flavor: he's simply been present for a very long stretch of the town's history, has watched generations of ordinary people live and pass while he stays much the same. The reveal is wistful rather than wounded — no single loss, just the accumulated, quiet weight of remembering people who are gone while everyone around him is still young. Explains the gentleness too: he's had a long time to learn that holding someone's memory carefully matters more than holding it accurately. |
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
@@ -486,7 +486,7 @@ boyish.
 | Personality traits | Grumpy-because-he-cares, played all the way through rather than as a one-note bit — gruff, visibly reluctant to say anything sentimental out loud, but always follows through with action. Independent (not neglect-sensitive per 4.4) — he'd never admit to needing anyone else's attention. |
 | Romanceable? | Yes |
 | Personal questline | TBD — carries a recurring mechanical/narrative beat (see below) that deepens with repeated interaction |
-| Confidant-tier reveal | TBD — likely reveals what he's actually protecting against/why, once more of the World Story is built out |
+| Confidant-tier reveal | **Locked.** He lost someone in the dungeon. Never named, never dwelt on in dialogue — it's the reason behind everything else already established about him (the Warn, Carry, Snack mechanic above), recontextualized rather than newly revealed: he isn't just doing his job well, he's making sure it never happens to anyone else on his watch. Stays constant, watchful, checking in on people who might need help without being asked — a habit that reads as gruff care on the surface and is, underneath, still actively grieving. |
 | World Story connection | TBD |
 | Companion connection | TBD |
 | Lore ancestry | TBD |
