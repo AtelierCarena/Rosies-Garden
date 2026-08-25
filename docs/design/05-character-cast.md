@@ -80,10 +80,15 @@ the garden fence; a muddy footprint frozen in old clay/stone facing away from th
 and the bell lean strongest, since both let the object hint at departure/waiting before the scene even plays — matching
 how the key/gate/babydoll each quietly matched their own scene's content.
 
-### Open Threads
-- The five figures in the final scene (Gardener, Child, Florist, Wolf, Snake) are a mix of purely symbolic figures and
-  figures tied to real Interactive NPCs or their ancestors — which is which is not yet assigned. Needs a tracking flag
-  once the NPC roster exists.
+### The Five Figures — Resolved
+All five figures in the final scene (Gardener, Child, Florist, Wolf, Snake) are **purely symbolic — none are tied
+to any current Interactive NPC or their ancestors.** The Gardener already set this precedent (Linnet's title was
+changed specifically to avoid colliding with him, 12-npc-roster.md); the same protection now extends to all five,
+especially Florist and Child. A warm, romanceable NPC like Ophelia secretly being one of the four figures closing
+in on Rose in her most frightening scene would retroactively poison her characterization; Child's vanished bond is
+more powerful staying ambiguous (dovetailing with 06-storyline-structure.md 7.1's deliberately undefined "who is
+the player") than pinned to one NPC's backstory. See 06-storyline-structure.md, 7.2-7.3 for the broader rule this
+follows: no Interactive NPC's Nature should ever be inferable from their role or personality.
 
 ### Rose and Rosie — Resolved
 "Rosie" is her childhood nickname. Rose is the core — the purest, most innocent version of her, from before the

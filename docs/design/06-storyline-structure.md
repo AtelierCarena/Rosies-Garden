@@ -46,3 +46,45 @@ media that's handled dissociation/trauma respectfully has used (Celeste, Hellbla
 reference points) — avoiding tropes that frame parts/alters as inherently monstrous or as something to be "defeated,"
 and keeping the focus on protection and process rather than spectacle. Doesn't need to be solved now, just kept in
 mind as the NPC roster and ending get built out.
+
+## 7.2 Nature Assignment — Locked Ground Rule
+**The Nature field must never be inferable from an NPC's personality, dialogue, or role during normal play.** An
+NPC whose job or personality thematically parallels a psychological function (a memory-keeper, a caretaker, a
+protector) is a coincidence the writing should stay agnostic to, never a signal — assigning Nature based on "this
+role obviously reads symbolic" is explicitly the wrong approach, since it would make individual NPCs legible as
+alters through characterization alone. **The whole town has to play completely straight** — ordinary, warm,
+specific people — with zero tell. The reveal doesn't live in the NPCs at all; it lives entirely in the separate
+delivery layer below.
+
+## 7.3 Reveal Delivery Mechanisms — Locked
+The central twist surfaces exclusively through discovery, not through any NPC ever acting or speaking as if they
+know what they are. Several parallel channels, layered across the whole runtime rather than dumped near the
+ending:
+
+- **Memory Notes/Items.** Found objects — diary pages, letters, small keepsakes — scattered through the world and
+  the dungeon, each surfacing a fragment of Rosie's real history. Rose's locket and diary at the Trellis
+  (05-character-cast.md, 6.4) are the anchor example; more should exist earlier and lower-stakes, seeded well
+  before the ending the same way Rose's own discovery chain plants quiet wrongness without confirming anything
+  (7.1).
+- **Conditional Events.** The world-state-gated event system (03-npc-relationships.md, 4.5 — unrelated to
+  relationship tier) is a natural vehicle for memory-fragment beats tied to a specific place, day, or season,
+  the same mechanical shape already used for lighter content (a tree in the woods on a specific day).
+- **Companion-carried fragments.** Story-Given Companions especially (Thornwyrm, Lumen — 04-companions.md, 5.2)
+  are well-positioned to surface pieces of the truth as their bond deepens, given their own discovery-chain origin
+  already ties them to something larger than a simple tame.
+- **Ambient Rosie Sightings — new, Locked.** Distinct from Rose's formal discovery chain (which is deliberate,
+  staged, and confirms new information each time): occasional, easy-to-miss glimpses of a young girl in a
+  flowerbed somewhere in the world, unconfirmed and unremarked on by any NPC. No prompt, no marker, nothing
+  forcing the player to notice — pure atmosphere that only clicks into meaning in hindsight, once the ending
+  recontextualizes it. Should appear rarely enough that finding one feels like a private, slightly eerie moment
+  rather than a collectible.
+- **Two distinct cutscene art styles — new, Locked.** Tutorial and NPC-relationship cutscenes (Silas's fishing
+  lesson, romance scenes, milestone events) use the game's normal cozy visual language throughout. **World
+  Story/memory-reveal cutscenes use a deliberately different art style** — more painterly, dreamlike, or
+  dissociative-coded than the everyday register. The shift itself is a storytelling tool: the player registers
+  "this moment is different" on a visual/subconscious level before they consciously understand why, reinforcing
+  the twist without a single line of dialogue doing it for them.
+
+Nature field values (Literal Alter/Ambient Figure per-NPC) remain genuinely undecided and can now be assigned
+freely, since they no longer need to correlate with how any NPC reads on the surface — that decoupling is the
+point.
