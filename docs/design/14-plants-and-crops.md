@@ -184,48 +184,104 @@ economy logic as everything else:
 
 ### Fish — Expanded
 Ties to Silas's Fisherman role and the fishing Shared Activity (4.3). Freshwater-flavored given Silas is
-docks/riverside-based. Expanded from 2 to **3 per season**, and each season now gets one Common-tier entry — the
-original list was Uncommon-and-up everywhere except Spring, leaving new/casual anglers with no easy catch outside
-one season. This fixes that gap while expanding.
+docks/riverside-based. Expanded to **6 regular entries per season**, and each season keeps at least one Common-tier
+entry so new/casual anglers always have an easy catch available.
 
 | Season | Fish | Rarity | Sell Price |
 |---|---|---|---|
 | Spring | Glassfin Minnow | Common | 25g |
-| Spring | Blushcarp | Uncommon | 60g |
 | Spring | Petalfin Guppy | Common | 20g |
-| Summer | Sunscale Bass | Uncommon | 70g |
-| Summer | Dragonfly Darter | Rare | 130g |
+| Spring | Duckling Fry | Common | 20g |
+| Spring | Blushcarp | Uncommon | 60g |
+| Spring | Cherryscale Trout | Uncommon | 55g |
+| Spring | Willowfin Perch | Uncommon | 65g |
+| Summer | Sungold Minnow | Common | 25g |
 | Summer | Lilyleap Frogfish | Common | 25g |
-| Fall | Ambertail Trout | Uncommon | 65g |
-| Fall | Mistfin Eel | Rare | 150g |
+| Summer | Sunscale Bass | Uncommon | 70g |
+| Summer | Reeftail Snapper | Uncommon | 75g |
+| Summer | Driftwood Catfish | Uncommon | 70g |
+| Summer | Dragonfly Darter | Rare | 130g |
 | Fall | Coppergill Carp | Common | 25g |
-| Winter | Frostgill Pike | Rare | 160g |
-| Winter | Moonshadow Koi | Epic | 280g |
+| Fall | Harvestgill Bass | Common | 25g |
+| Fall | Ambertail Trout | Uncommon | 65g |
+| Fall | Rustfin Perch | Uncommon | 60g |
+| Fall | Duskwater Pike | Uncommon | 70g |
+| Fall | Mistfin Eel | Rare | 150g |
 | Winter | Glacierscale Smelt | Common | 20g |
+| Winter | Icevein Herring | Common | 20g |
+| Winter | Silverfrost Cod | Uncommon | 65g |
+| Winter | Frostgill Pike | Rare | 160g |
+| Winter | Deepchill Sturgeon | Rare | 165g |
+| Winter | Moonshadow Koi | Epic | 280g |
 
-Open idea, not locked: a single Legendary-rarity fish (500g+, per the table above) tied to World Story/Rose lore
-rather than a generic "big rare fish" — worth revisiting once more of that track exists, rather than naming it now.
+**Event Fish — Locked, new subcategory.** 2 per season, region-scattered, appearing only during a specific
+festival or weather window (a Conditional Event, 03-npc-relationships.md 4.5 — world-state gated, not tied to any
+relationship tier). Not purchasable, not in the regular catch pool the rest of the year — a genuine "you had to be
+there" reward.
+
+| Season | Event Fish | Rarity | Sell Price | Trigger |
+|---|---|---|---|---|
+| Spring | Blossomtail Koi | Rare | 140g | Cherry Blossom Festival week, at the Bay |
+| Spring | Puddlejump Toadfish | Uncommon | 60g | Any Spring rainy day, in flooded Town Square puddles |
+| Summer | Starlight Marlin | Epic | 300g | Summer nighttime festival, at the Dock |
+| Summer | Emberfin Piranha | Rare | 135g | A heatwave weather event, in the Hidden Forest's hot spring |
+| Fall | Harvest Moon Salmon | Epic | 290g | Fall Harvest Festival, at the River |
+| Fall | Withered Eel | Rare | 145g | Unlocked by a specific World Story lore beat, then found in the Hidden Forest's murky ponds |
+| Winter | Yulewater Salmon | Epic | 295g | Winter Solstice festival, at the Lake |
+| Winter | Snowbound Anglerfish | Legendary | 520g | A Blizzard weather event, at night, in deep dungeon-adjacent waters |
+
+The Rose-lore Legendary fish flagged below stays a separate, still-open idea — Snowbound Anglerfish fills the
+"a Legendary fish should exist" gap without preempting that more story-specific one.
+
+Open idea, not locked: a single Legendary-rarity fish tied specifically to World Story/Rose lore rather than a
+generic "big rare fish" — worth revisiting once more of that track exists, rather than naming it now.
 
 ### Bugs — Expanded
 Likely uses: Wild/Beast feed/crafting reagents (Beau's shop), collection/gift items, possibly Arcane reagents
-(Leonair's shop). Expanded from 2 to **3 per season**, filling rarity-curve gaps each season had (Spring was
-all-Common with no step up, Summer had no Rare, Fall and Winter each had a jump straight from Common/Uncommon to
-Rare/Epic with nothing in between).
+(Leonair's shop). Expanded to **7 regular entries per season** — one more than Fish, since a farming sim's bug
+population realistically outnumbers its fish variety.
 
 | Season | Bugs | Rarity | Sell Price |
 |---|---|---|---|
 | Spring | Petal Moth | Common | 20g |
 | Spring | Dewdrop Beetle | Common | 30g |
+| Spring | Ladybug Sprite | Common | 20g |
+| Spring | Garden Ant | Common | 15g |
+| Spring | Snaildrift Beetle | Common | 25g |
 | Spring | Blossom Weevil | Uncommon | 55g |
+| Spring | Pixiewing Dragonfly | Uncommon | 55g |
 | Summer | Emberwing Firefly | Uncommon | 55g |
 | Summer | Velvet Longhorn Beetle | Uncommon | 65g |
+| Summer | Sunbeetle | Common | 20g |
+| Summer | Grasshopper Nymph | Common | 25g |
+| Summer | Buzzwing Hornet | Uncommon | 60g |
+| Summer | Jeweled Scarab | Rare | 130g |
 | Summer | Sunspark Cicada | Rare | 125g |
 | Fall | Amber Cicada | Rare | 120g |
 | Fall | Rustwing Grasshopper | Common | 35g |
+| Fall | Acorn Weevil | Common | 20g |
+| Fall | Harvest Ant | Common | 15g |
+| Fall | Rustling Leaf Bug | Common | 25g |
+| Fall | Coppertail Beetle | Uncommon | 60g |
 | Fall | Thistledown Moth | Uncommon | 60g |
 | Winter | Frost Cricket | Uncommon | 60g |
 | Winter | Glasswing Moth | Epic | 250g |
 | Winter | Icevein Spider | Rare | 155g |
+| Winter | Frostback Beetle | Common | 20g |
+| Winter | Snowflake Moth | Uncommon | 55g |
+| Winter | Icicle Weevil | Common | 25g |
+| Winter | Pale Widow Spider | Rare | 150g |
+
+**Event Bugs — Locked, new subcategory.** 1 per season, sharing the same trigger window as that season's showcase
+Event Fish (same festival, same rough timing) — a reason to be in the right region at the right moment for both
+catches at once.
+
+| Season | Event Bug | Rarity | Sell Price | Trigger |
+|---|---|---|---|---|
+| Spring | Golden Bloom Butterfly | Epic | 260g | Cherry Blossom Festival week, at the Bay (same window as Blossomtail Koi) |
+| Summer | Starlit Luna Moth | Epic | 270g | Summer nighttime festival, at the Dock (same window as Starlight Marlin) |
+| Fall | Harvest Moon Mantis | Epic | 275g | Fall Harvest Festival, at the River (same window as Harvest Moon Salmon) |
+| Winter | Yule Glow Beetle | Epic | 280g | Winter Solstice festival, at the Lake (same window as Yulewater Salmon) |
 
 ## 14.6 Trees and Orchards
 Perennial placeables, distinct from the tilled seasonal-crop-rotation system — once planted and grown, they don't
