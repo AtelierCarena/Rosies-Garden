@@ -687,25 +687,56 @@ Two family structures, for variety: three biological siblings, and two children 
 (12-npc-roster.md, 13.1) — giving the Founders a living connection to the town's next generation, and showing
 found-family alongside biological family rather than only one model.
 
+### Tobias and Colette Birchwood — The Parents
+Named rather than left as background abstractions, since three kids need somewhere to come from. Non-dateable,
+functional-flavor adults in the same spirit as 13.1, not full central-cast entries.
+
+| | Tobias | Colette |
+|---|---|---|
+| Role | Steady laborer/farmhand, plausibly works alongside Barrow or August on physical jobs around town | Warm and a little scattered, juggling three kids of very different ages; helps out part-time at Bella's General Store |
+| Personality | Quietly proud rather than showy — the kind of dad who shows love through fixing things and showing up, not through big speeches | Deeply affectionate, remembers everyone's small details (a kid's favorite snack, a scraped-knee story from last week); the emotional narrator of the family the way Genevieve is for the town |
+| Species | Human | Human |
+
 ### The Birchwood Siblings
 
-| Name | Age Band | Species | Personality | Visual Notes |
-|---|---|---|---|---|
-| Poppy Birchwood | Little (~5) | Animal-hybrid (kitten ears/tail) | Gentle, shy, speaks in short simple sentences; collects flowers and small treasures | Round-cheeked, soft oversized clothes, a flower usually tucked behind one ear |
-| Fennick Birchwood | Middle (~9) | Human | Energetic, curious, plays "adventurer" around town; protective of Poppy in a bossy-older-sibling way | Scraped knees, a stick "sword," hair that never stays combed |
-| Marlow Birchwood | Teen (~16) | Fairy | Broody-but-caring, into music, sneaks off to listen to Alistair play; complicated feelings about growing up | Deliberately mussed hair, oversized borrowed jacket, always has earbuds-equivalent (a charmed listening shell) in |
+**Poppy Birchwood — Little (~5), Animal-hybrid (kitten ears/tail).** Gentle and shy, speaks rarely and in short
+sentences, but watches everything closely. Loud noises or crowds overwhelm her fast — she retreats to quiet
+corners rather than melting down loudly. Finds comfort in small repetitive rituals, especially arranging flowers
+by color, and is fiercely attached to one particular stuffed toy. Initial shyness reads as aloof to strangers, but
+she trusts easily and completely once someone's proven gentle with her. Visual notes: round-cheeked, soft
+oversized clothes, a flower usually tucked behind one ear.
 
-Their parents are intentionally left as unnamed background figures for now — the kids are the point, not a fully
-fleshed-out parent couple; the Birchwood surname exists so the siblings read as a real family unit.
+**Fennick Birchwood — Middle (~9), Human.** Loud, energetic, plays "adventurer" constantly, fearless in play — but
+privately terrified of not being brave enough when it actually counts, and overcompensates with bravado to cover
+it. Protective of Poppy to the point of ignoring his own scraped knees. Competitive, quietly craves approval from
+adults he admires (the Barrow/Cassian type especially) while loudly insisting he doesn't care what anyone thinks.
+Once he decides you're "in his crew," that loyalty is absolute. Visual notes: scraped knees, a stick "sword," hair
+that never stays combed.
+
+**Marlow Birchwood — Teen (~16), Fairy.** Broody-but-caring, uses music and sarcasm as armor for a genuinely
+sensitive person underneath. Caught between wanting independence and still needing home, and privately worried
+about disappointing their parents even while pushing every boundary they can find. Sometimes feels like they grew
+up faster than they should have, watching over younger siblings. Sneaking off to hear Alistair play isn't
+rebellion so much as needing one space that's entirely their own. Visual notes: deliberately mussed hair, an
+oversized borrowed jacket, a charmed listening shell (this world's earbuds-equivalent) almost always in.
 
 ### Thaddeus and Genevieve's Adopted Children
 
-| Name | Age Band | Species | Personality | Visual Notes |
-|---|---|---|---|---|
-| Cricket | Middle (~10) | Orc | Cheerful despite a naturally gruff Orc look — continues the dignity-first Orc throughline (Barrow, Cassian, Gideon, Thorne); loves helping Thaddeus with small chores, chatty | Round-faced, patched hand-me-down clothes, always slightly dusty from helping out |
-| Hollis | Teen (~15) | Animal-hybrid (owl features) | Quiet and watchful like Thaddeus, reads constantly, close to Genevieve through her storytelling | Big round glasses, a stack of books never far away, soft grey-toned coloring |
+**Cricket — Middle (~10), Orc.** Cheerful and constantly chatty despite a naturally gruff Orc look — continues the
+dignity-first Orc throughline already running through Barrow, Cassian, Gideon, and Thorne. Finds security in
+routine and helping with chores; it's how Cricket shows love and feels useful, a habit that reads as slightly
+over-eager or over-apologetic at times — old instincts from before the adoption, worked through gently rather than
+dwelt on. Genuinely happy now, but happiness is still a skill Cricket is actively practicing rather than something
+automatic. Visual notes: round-faced, patched hand-me-down clothes, always a little dusty from helping out.
 
-All five carry the standard Nature (spoiler field) — Literal Alter / Ambient Figure / TBD — decided per-child like
-the rest of the roster, never player-facing. None are assigned yet; that decision is deferred to whenever the
-World Story track is developed further, consistent with how the rest of the cast's Nature fields were handled.
+**Hollis — Teen (~15), Animal-hybrid (owl features).** Quiet and watchful like Thaddeus, genuinely — not from
+sadness, just temperament. Prefers books to people, notices details others miss, slow to trust anyone new but
+fiercely loyal once that trust is earned. Genevieve's storytelling is a lifeline for Hollis specifically — a way
+to process big feelings without needing to talk about them directly. Visual notes: big round glasses, a stack of
+books never far away, soft grey-toned coloring.
+
+All five kids (and Tobias/Colette) carry the standard Nature (spoiler field) — Literal Alter / Ambient Figure /
+TBD — decided per-character like the rest of the roster, never player-facing. None are assigned yet; that decision
+is deferred to whenever the World Story track is developed further, consistent with how the rest of the cast's
+Nature fields were handled.
 
