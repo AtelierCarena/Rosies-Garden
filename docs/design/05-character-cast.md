@@ -69,7 +69,7 @@ than a quest marker or relationship meter.
 
 | # | Discovery | Cutscene |
 |---|---|---|
-| 1 | A key is found in a box buried under disturbed soil, near a tree next to the player's spawn house. | Intro: Rose sprouts alone in a small patch of soil surrounded by toxic soil. Uneasy, visibly juvenile, an air of innocence. She grows slowly, unsure. |
+| 1 | A key is found in a box buried under a mound of disturbed dirt at the foot of a weeping willow tree — this tree always spawns next to the player's house regardless of where on the Homestead the house itself lands, so no player can miss it. | Intro: Rose sprouts alone in a small patch of soil surrounded by toxic soil. Uneasy, visibly juvenile, an air of innocence. She grows slowly, unsure. |
 | 2 | Player discovers a hidden gate to a garden. | A Gardener finds her, reaches out, and begins plucking her flowers to sell — flattering at first, growing more intense and demanding, hurting her for his own gain. |
 | 3 | Player discovers a small babydoll under a weeping willow in the garden. | A child stumbles into the garden, sees her sitting sadly with her babydoll, and sits to keep her company. He returns every day; she seems happy for the first time. |
 | 4 | TBD — see options below. | She asks to leave with him. He says it isn't a good idea, tells her she deserves more than he can provide, and leaves. She waits, as always. He does not come back. The gate creaks open: the Gardener returns, a Florist peers over the wall, a Wolf watches from the bush, a Snake slithers up a tree — all staring at Rose. She sinks down, scared. Fade to black. |
@@ -78,6 +78,15 @@ than a quest marker or relationship meter.
 the garden fence; a muddy footprint frozen in old clay/stone facing away from the garden; a rusted bell. The footprint
 and the bell lean strongest, since both let the object hint at departure/waiting before the scene even plays — matching
 how the key/gate/babydoll each quietly matched their own scene's content.
+
+**The key's mechanical payoff — Locked.** This isn't just a cutscene trigger — it's the literal dungeon-unlock
+item. The gate it opens is a **ribbon-tied garden gate**, closed shut, which is the Garden Wall — the dungeon's
+entrance at the back of the Hills (10-dungeons-and-risk.md; 15-regions-and-zones.md, 15.2). The player cannot enter
+the dungeon at all until they've found the willow key, meaning the very first cutscene of the game (Rose's
+sprouting) and the mechanical act of unlocking the dungeon are one and the same discovery. Two weeping willows now
+exist in the world — this one beside the player's house, and the one in Rose's own garden where the babydoll is
+found (discovery #3) — kept deliberately distinct locations, the recurring tree read as an intentional motif
+rather than a contradiction.
 
 ### The Five Figures — Resolved
 All five figures in the final scene (Gardener, Child, Florist, Wolf, Snake) are **purely symbolic — none are tied

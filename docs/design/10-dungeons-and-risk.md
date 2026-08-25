@@ -1,5 +1,11 @@
 # 11. Dungeons and Risk Systems
 
+## 11.0 Entry Gate — Locked
+The dungeon is not accessible from the start of the game. Its entrance, the Garden Wall (15-regions-and-zones.md,
+15.2), is a ribbon-tied garden gate the player cannot open until they've found the key buried at the foot of the
+weeping willow beside their Homestead house — the game's opening discovery/cutscene beat (05-character-cast.md,
+6.4, discovery #1). Every system below assumes that gate has already been opened.
+
 ## 11.1 Knockout System (No Death)
 Combat and hazards (falls, etc.) cost Hearts. Losing the last heart results in the player being **knocked out** and
 relocated to the Town Hospital or their Homestead — Stardew/Moonlighter-style, never a fail state or permanent death.

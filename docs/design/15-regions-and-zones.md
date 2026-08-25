@@ -32,6 +32,10 @@ More will be added as they come up. This list is deliberately not exhaustive.
 - **The Garden Wall** is the dungeon's gate/entrance, located at the back of **the Hills**. This is the physical
   location for Thorne's post (10-dungeons-and-risk.md / 12-npc-roster.md — "stationed at the dungeon entrance,
   in town, at the threshold before floor 1" now has an actual place: the Garden Wall).
+- **The gate itself is a ribbon-tied garden gate, closed shut — Locked.** Physically locked until the player finds
+  the key buried at the foot of the weeping willow beside their Homestead house (05-character-cast.md, 6.4,
+  discovery #1), meaning the dungeon is genuinely inaccessible until that first discovery-chain beat fires. The
+  key-find is simultaneously the game's opening cutscene trigger and the mechanical dungeon unlock.
 
 ## 15.3 Plausible Ties to Already-Locked Systems (not committed placements, just obvious overlaps worth noting)
 - **The Homestead** — already referenced as a knockout-relocation point (11.1) and the player's individual base
