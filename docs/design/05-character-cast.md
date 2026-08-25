@@ -72,12 +72,13 @@ than a quest marker or relationship meter.
 | 1 | A key is found in a box buried under a mound of disturbed dirt at the foot of a weeping willow tree — this tree always spawns next to the player's house regardless of where on the Homestead the house itself lands, so no player can miss it. | Intro: Rose sprouts alone in a small patch of soil surrounded by toxic soil. Uneasy, visibly juvenile, an air of innocence. She grows slowly, unsure. |
 | 2 | Player discovers a hidden gate to a garden. | A Gardener finds her, reaches out, and begins plucking her flowers to sell — flattering at first, growing more intense and demanding, hurting her for his own gain. |
 | 3 | Player discovers a small babydoll under a weeping willow in the garden. | A child stumbles into the garden, sees her sitting sadly with her babydoll, and sits to keep her company. He returns every day; she seems happy for the first time. |
-| 4 | TBD — see options below. | She asks to leave with him. He says it isn't a good idea, tells her she deserves more than he can provide, and leaves. She waits, as always. He does not come back. The gate creaks open: the Gardener returns, a Florist peers over the wall, a Wolf watches from the bush, a Snake slithers up a tree — all staring at Rose. She sinks down, scared. Fade to black. |
+| 4 | A footprint, frozen in old clay/stone, found leading away and out through the Garden Wall gate. | She asks to leave with him. He says it isn't a good idea, tells her she deserves more than he can provide, and leaves through the gate. She waits, as always. He does not come back. She turns — the Gardener stands with his shears raised, a Wolf bares its teeth, a Snake slithers up a tree, watching her with cold eyes. A hand closes over her mouth from behind. A muffled scream, cut short. Fade to black over her hand reaching for the gate he just walked through — too far, and no one left to hear her. |
 
-**4th discovery item — TBD.** Candidates discussed: a wilted flower pressed in a book; a torn piece of fabric caught on
-the garden fence; a muddy footprint frozen in old clay/stone facing away from the garden; a rusted bell. The footprint
-and the bell lean strongest, since both let the object hint at departure/waiting before the scene even plays — matching
-how the key/gate/babydoll each quietly matched their own scene's content.
+**4th discovery item — Resolved.** The footprint, facing away from the garden and leading out through the gate —
+it hints at the boy's departure before the scene plays, matching how the key/gate/babydoll each quietly matched
+their own scene's content. **Florist is dropped from the final tableau** (still purely symbolic per the resolution
+below, but not staged in this specific cutscene) — the scene reads tighter and more frightening with three closing
+figures rather than four, and keeps the visual focus on the Gardener as the returning, already-known threat.
 
 **The key's mechanical payoff — Locked.** This isn't just a cutscene trigger — it's the literal dungeon-unlock
 item. The gate it opens is a **ribbon-tied garden gate**, closed shut, which is the Garden Wall — the dungeon's
