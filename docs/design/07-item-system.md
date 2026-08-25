@@ -77,11 +77,12 @@ successive upgrade stages of the same Kitchen structure (per 02-skill-trees.md, 
 the moment the player upgrades to a given stage, every recipe at that tier and below becomes immediately craftable,
 with no additional per-recipe unlock.
 
-**Chef's Range — Locked, new structure:** built by commissioning August, the Carpenter/Architect
-(12-npc-roster.md), plus reaching Delphine's relationship-tier gate for the recipe/design input — the one
-structure in the game that can't be self-built via Forge/Craft alone (02-skill-trees.md, 3.8). Gates the Rare-and-up
-recipes below behind both progression and relationship investment, distinguishing them from Tier 1's Uncommon-tier
-fare.
+**Chef's Range — Locked, new structure:** the player asks Delphine how to unlock more recipes/better cooking
+tiers; she directs them to August, whose Upgrades tab (locked until this conversation happens) is where the Chef's
+Range is actually commissioned and built (02-skill-trees.md, 3.8). Delphine opens the door, August does the labor —
+the one structure in the game that can't be self-built via Forge/Craft alone, and one of the more expensive
+Upgrades-tab entries. Gates the Rare-and-up recipes below behind both a dialogue trigger and a real gold
+investment, distinguishing them from Tier 1's Uncommon-tier fare.
 
 **Buff meals vs. pure-heal meals — Locked:** Food splits into two flavors, decided per-recipe rather than a hard
 rule:

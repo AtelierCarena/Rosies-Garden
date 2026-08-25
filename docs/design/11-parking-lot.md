@@ -12,3 +12,7 @@ exists so open threads don't get lost.
 - The full Interactive NPC roster (paused deliberately to manage scope/pacing).
 - Beat-by-beat tutorial objective flow.
 - Overall visual/art direction, pending gathered inspiration images.
+- Upgrade-price reduction mechanic (Greenhouse restoration, kitchen upgrades, etc. via August's Upgrades tab,
+  02-skill-trees.md 3.8) — deciding between a Community-Center-style bundle/turn-in system vs. an Animal Crossing-
+  style passive achievement/milestone system. Not blocking; the base (expensive, no discount) prices stand until
+  this is resolved.

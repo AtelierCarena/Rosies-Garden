@@ -13,7 +13,7 @@
 role naturally supports a personal questline — but her full template (personality, gift preferences, romanceable
 status, etc.) is deferred to the roster pass.
 
-## 6.2 Interactive NPC Template
+## 6.2 Interactive NPC Template — Expanded
 
 | Field | Purpose |
 |---|---|
@@ -25,9 +25,18 @@ status, etc.) is deferred to the roster pass.
 | World Story connection | What do they know, guard, or witness re: the fixed lore track |
 | Companion connection | Do they gift, sell, or bond a companion to the player? |
 | Lore ancestry | Is this NPC connected to a Lore-Referenced figure (e.g. a descendant)? |
+| **Connections** | Which other Interactive NPCs they know, why, and what it changes mechanically — a shared discount, a joint dialogue scene, a quest that only unlocks once both parties are at a given tier, a gift-preference overlap, etc. Interconnection is the point, not a nice-to-have — every entry should name at least one tie. |
+| **Dungeon Role** | Dungeon Escort or NPC-Granted Creature Companion — see [03-npc-relationships.md, 4.6](03-npc-relationships.md). Decided per-NPC based on whether their trade translates into direct dungeon action. |
+| **Dungeon Ability** | The specific signature ability, its trigger condition, and cooldown/limit. |
+| **Attributes** (Escort only) | HP / Power / Speed stat block — combat viability as a Dungeon Escort. Not needed for Companion-Granters, whose granted creature carries its own Companion stats (04-companions.md). |
 | Species | Human / Elf / Fairy / Pixie / Orc / Animal-hybrid (specify trait, e.g. "rabbit ears") / TBD. Not uniform across the roster; decided per-NPC, tied to personality rather than assigned generically. |
-| Visual notes | Placeholder pending visual inspiration pass |
+| **Physical Reference** | Height, build/measurements, eye/hair color, and other concrete art-reference details — distinct from Visual notes' outfit/vibe description. For the player's own sketching/character reference use. |
+| Visual notes | Outfit, vibe, signature accessories/props |
 | Nature (spoiler field) | Literal Alter / Ambient Figure / TBD — see [06-storyline-structure.md, 7.1](06-storyline-structure.md). Not uniform across the roster; decided per-NPC. Never player-facing. |
+
+**Rollout note:** the expanded fields (Connections, Dungeon Role, Dungeon Ability, Attributes, Physical Reference)
+are being backfilled across the roster incrementally — 12-npc-roster.md tracks which entries are fully upgraded vs.
+still on the pre-expansion template.
 
 ## 6.3 Companion and Lore-Referenced Character Templates
 

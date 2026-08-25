@@ -334,6 +334,8 @@ hers. The contrast is intentional groundwork for later, not a plot beat being de
 
 ### Delphine — Chef
 
+**Template status: fully expanded (worked example).**
+
 | Field | Value |
 |---|---|
 | Name / Role / Location | Delphine — a food stall, in town (separate from Adelaide's Inn) |
@@ -342,10 +344,15 @@ hers. The contrast is intentional groundwork for later, not a plot beat being de
 | Personal questline | TBD |
 | Confidant-tier reveal | TBD |
 | World Story connection | TBD |
-| Companion connection | TBD |
+| Companion connection | N/A — Delphine is a Dungeon Escort, not a Companion-Granter (see Dungeon Role below) |
 | Lore ancestry | TBD |
+| Connections | **August** — at Confidant tier (4), Delphine directs the player to August about a kitchen upgrade; this conversation is what unlocks the Upgrades tab at his workshop and starts the Chef's Range commission (02-skill-trees.md, 3.8). **Camellia** — friendly professional rivalry (food vs. drink); once both are at Friend tier (2), gifting either unlocks a small cross-discount at the other's stall/tavern, reflecting their overlapping social circle. **Mina** — supplies Basil/Mint and other herb ingredients for Delphine's recipes; higher relationship with Mina unlocks a rare-ingredient discount that feeds back into Delphine's own recipe costs. |
+| Dungeon Role | Dungeon Escort |
+| Dungeon Ability | **Forager's Feast** — while escorting, Delphine autonomously picks up Food-tier crop/wild-plant drops within her follow radius (doesn't compete with the player's own pickup priority). Once she's collected enough matching ingredients for one of her known recipes (07-item-system.md, 8.5), she auto-cooks it at the next safe point (bracket transition, Nix's shop, town return) and hands the player a free cooked meal, Hearts restored on the spot. Limited to **one free meal per bracket** so it can't trivialize the run's intended sustain difficulty. |
+| Attributes | HP 80 / Power 15 / Speed 12 — a support archetype, not a frontline fighter; her value is the free-meal utility, not combat. |
 | Species | Animal-hybrid (fox ears) |
-| Visual notes | Curvy, thick-thighed build; flour-dusted apron, sleeves rolled, a signature bandana |
+| Physical Reference | ~5'4", curvy/thick-thighed build, warm russet-brown hair usually in a loose braid, amber eyes, freckled nose |
+| Visual notes | Flour-dusted apron, sleeves rolled, a signature bandana |
 | Nature (spoiler field) | TBD |
 
 Ties into the Simple Cooking Pot (9.2) and Food consumables (9.1). Renamed from "Saffron."
@@ -600,4 +607,45 @@ what's already here. Naming history: "River," then "Olivier" (freed up when the 
 Julian — softer and more intellectual.
 
 ---
+
+## 13.3 Dungeon Role Assignments (Pending Full Backfill)
+Delphine (13.2) is the fully expanded worked example — full Connections/Attributes/Physical Reference per NPC. The
+rest of the roster gets its Dungeon Role and Ability concept locked here now; the remaining expanded-template
+fields (full Connections web, Attributes stat blocks, Physical Reference) are backfilled incrementally per-entry,
+not all at once, given the scope.
+
+**13.1 Functional NPCs:**
+
+| NPC | Dungeon Role | Ability Concept |
+|---|---|---|
+| Nix | Companion-Granter | Coin Sprite familiar — auto-collects nearby dropped gold/small loot |
+| Bella | Companion-Granter | Pack-badger companion — increases carry capacity, reduces loot-loss chance on knockout (ties 11.2) |
+| Leonair | Dungeon Escort | Field-applies a short-duration Enchant-style buff to the player's weapon/armor, on cooldown |
+| Olivier | Companion-Granter | Owl/hawk "town watch" spirit — briefly reveals nearby enemy positions on the minimap |
+| Thaddeus and Genevieve | Companion-Granter (joint) | A loyal old hound companion — grounding/protective, moderate HP tank-lite |
+| Silas | Dungeon Escort | Auto-nets bonus Fish-tier ingredient drops from water hazards passed (raw drops, not cooked — distinct from Delphine) |
+| Barrow | Dungeon Escort | Auto-mines Ore nodes the party passes (direct tie to 16.2's Ore/Pickaxe system) |
+| Alistair | Dungeon Escort | Traveling Tune — passive periodic party buff (minor Stamina/Speed regen), no trigger needed |
+
+**13.2 Romanceable NPCs (excluding Delphine, above):**
+
+| NPC | Dungeon Role | Ability Concept |
+|---|---|---|
+| Adelaide | Dungeon Escort | Sets up a portable rest point once per bracket, restoring Hearts (camp-style, distinct from Delphine's food-heal) |
+| Cassian | Dungeon Escort | Direct melee combat assist — highest Power among non-Thorne Escorts |
+| Ophelia | Companion-Granter | Pollen-moth/fairy companion — small heal-over-time aura |
+| Dahlia | Companion-Granter | Scent-warding animal companion — repels/deters specific enemy types within a radius |
+| Sebastian | Dungeon Escort | Healing/revive assist — can revive a downed Escort or Companion |
+| Daisy | Dungeon Escort | Secondary healer — cures poison/status debuffs, pairs with Sebastian |
+| Camellia | Dungeon Escort | Crafts a temporary stat-buff drink mid-run, cooldown-gated (parallel structure to Delphine's cooking, buff- rather than heal-focused) |
+| Gideon | Dungeon Escort | Field-repairs the player's equipped Tool/Weapon/Armor durability once per bracket (ties 16.2/8.2) |
+| Mina | Dungeon Escort | Crafts a temporary Alchemy-style potion buff from foraged wild plants mid-run |
+| Percival | Dungeon Escort | Reveals hidden rooms/traps on the minimap within a radius (ties 9.3) |
+| Milo | Companion-Granter | Gentle lamb-spirit companion — no combat power, passive comfort buff (small Stamina regen); keeps his "no function to justify existing" flavor even here |
+| Thorne | Dungeon Escort | Tank/guard — highest HP/Power of any Escort, can block/taunt hits for the player (fits his Gatekeeper role directly) |
+| Seraphina | Companion-Granter | Silk-moth companion — brief evasion/dodge-cloak buff on summon |
+| Beau | Dungeon Escort | Temporarily calms/pacifies one wild-type dungeon enemy (crowd control, animal-whisperer theme) |
+| August | Dungeon Escort | Builds a temporary barricade mid-run (crowd control/utility, ties Forge/Craft) |
+| Linnet | Companion-Granter | Giant bee companion — attacks enemies within a radius around the player |
+| Julian | Dungeon Escort | Identifies an enemy's element/weak point on first encounter each run (distinct from Percival's room/trap focus) |
 

@@ -40,3 +40,32 @@ plugs into; individual NPC personalities/dialogue are designed separately (see S
 - **Conditional events** — require a tier PLUS an external condition (season, weather, or the player's progress in a
   specific skill tree), layering relationship depth on top of the other systems for richer, less predictable pacing than
   pure meter-climbing.
+
+## 4.6 Dungeon Companions — Locked
+At **Tier 4 (Confidant)**, the player can ask an eligible NPC to join them in the dungeon. Tier 4 was chosen
+deliberately over the later romance-fork tiers (5a/5b) — the dungeon is a core part of village life, not a romance
+reward, so the unlock sits at the "deep trust" threshold everyone can reach regardless of romance path.
+
+Every Interactive NPC falls into exactly one of two tracks, decided per-NPC based on whether their trade translates
+into direct dungeon action:
+
+**Dungeon Escort** — the NPC physically accompanies the player into the dungeon and performs an autonomous,
+role-flavored action on a trigger/cooldown (e.g. a Chef auto-foraging ingredients and cooking Food once enough are
+collected; a Miner auto-harvesting ore nodes the party passes). Reserved for NPCs whose trade has an obvious
+dungeon-useful translation — combat, crafting, healing, or resource-gathering roles mostly.
+
+**NPC-Granted Creature Companion** — for an NPC whose trade doesn't translate directly (a Perfumer, a Beekeeper),
+reaching Tier 4 instead bestows a themed creature Companion (04-companions.md) that fights or assists on the NPC's
+behalf, carrying their trade's flavor into a form the dungeon can actually use. The NPC themselves never enters the
+dungeon; the roster isn't cut down to "useful" and "unused" halves, every Confidant-tier NPC contributes something.
+
+Both tracks share:
+- **One active Escort/Companion at a time** — the player picks who joins per dungeon run, not a full party.
+- **Knockout ties into the loot-loss system (11.2):** an Escort or Companion can be "downed" mid-run (separate HP
+  pool, see per-NPC Attributes) without ending the run — they simply stop acting until the player reaches a safe
+  point (bracket transition, Nix's shop, town return).
+- **Ability cooldowns/limits** exist specifically so no Escort ability can be spammed into trivializing a bracket's
+  intended difficulty curve (10-dungeons-and-risk.md, 11.3).
+
+Full per-NPC assignment (Escort vs. Companion-Granter) and ability design lives in the NPC Roster
+(12-npc-roster.md), using the expanded Interactive NPC Template (05-character-cast.md, 6.2).

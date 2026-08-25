@@ -180,8 +180,15 @@ without leaning into Forge/Craft themselves. Higher relationship tiers with Augu
 exclusive decorative structure variants (the Aesthetic fork line, Forge/Craft Tier 3 above) only available through
 commissioning him, giving the relationship mechanical weight beyond flavor.
 
-**Chef's Range exception — Locked:** the Chef's Range (07-item-system.md, 8.5) requires commissioning **both**
-August (construction) and reaching Delphine's relationship-tier gate (recipe/design input) — narratively the two
-collaborate to build it, since it's as much a kitchen as a piece of furniture. This is the one structure that
-cannot be self-built via Forge/Craft alone, tying a Confidant-tier reveal to a mechanical unlock the way other NPCs
-already do elsewhere in the roster.
+**Two tabs at August's workshop — Locked:**
+- **Structures tab** — available from the start. The base buildable list: Stables, Cabin, House, Storage Shed,
+  Hatchery, and similar. No special gate beyond the normal unlock rules (3.6).
+- **Upgrades tab** — locked until unlocked via dialogue (see below). Not new structures — upgrades to existing
+  ones. Deliberately expensive, since these are late-game investments rather than early conveniences.
+
+**Unlocking the Upgrades tab — Locked:** the player must first ask Delphine how to get more recipes/better cooking
+tiers. She tells them to go see August about a kitchen upgrade — this conversation is what opens the Upgrades tab,
+not a passive relationship-tier threshold. Once open, the Upgrades tab includes both the Kitchen's tier upgrades
+(Simple Cooking Pot -> Chef's Range, 07-item-system.md 8.5) and Greenhouse restoration (02-skill-trees.md 3.7,
+Earth/Growth Tier 7) as its first two entries. August is the one who actually builds/restores either — Delphine's
+role is opening the door, not doing the labor herself.
