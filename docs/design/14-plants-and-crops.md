@@ -283,6 +283,35 @@ catches at once.
 | Fall | Harvest Moon Mantis | Epic | 275g | Fall Harvest Festival, at the River (same window as Harvest Moon Salmon) |
 | Winter | Yule Glow Beetle | Epic | 280g | Winter Solstice festival, at the Lake (same window as Yulewater Salmon) |
 
+### Dungeon-Exclusive Fish and Bugs — Locked, new subcategory
+One fish and one bug per depth bracket (10-dungeons-and-risk.md, 11.2), themed to that bracket's name/tone rather
+than reused overworld species. **These are not mobs or enemies** — they use the same catch mechanic as overworld
+fish/bugs (shadow/ripple approach, timed minigame) at water features or insect spawns scattered through that
+bracket, don't attack, and aren't part of the enemy difficulty curve (11.3) at all. A calmer, optional layer inside
+an otherwise risk-heavy space — something to notice and catch between fights rather than another threat.
+
+Rarity scales with bracket depth, mirroring the enemy power curve (11.3) rather than inventing a separate scale.
+
+| Bracket | Fish | Bug | Rarity | Sell Price (each) |
+|---|---|---|---|---|
+| 1-24, The Rose Garden | Rosewater Guppy | Petal-Wing Ladybug | Common | 25g / 20g |
+| 25-49, Forget-Me-Not Fields | Forgetful Minnow | Wisp Moth | Uncommon | 55g / 55g |
+| 50-74, The Dollhouse | Porcelain Guppy | Wind-Up Cricket | Uncommon | 65g / 60g |
+| 75-99, The Opera House | Marionette Eel | Curtain Moth | Rare | 120g / 115g |
+| 100-124, Porcelain Orchards | Glass Bloom Koi | Kiln Firefly | Rare | 140g / 130g |
+| 125-149, Her Hollow | Hollow Eel | Widow's Web Spider | Epic | 220g / 210g |
+| 150-174, Ballerinas Catacombs | Bone-China Carp | Corps Moth | Epic | 240g / 230g |
+| 175-199, The Cradle Graveyard | Wailing Koi | Keening Cicada | Legendary | 450g / 430g |
+| 200, The Trellis | Rose-Thorn Koi | Trellis Firefly | Legendary | 550g / 520g |
+
+**The Dollhouse** and **Opera House** entries lean into those brackets' "still their original terrain underneath
+the name" detail (10-dungeons-and-risk.md, 11.6 — a bog and a marsh) — Porcelain Guppy and Marionette Eel are
+plausible bog/marsh creatures wearing the bracket's flavor name, the same way the brackets themselves work.
+
+**Rose-Thorn Koi and Trellis Firefly** are the single unique catches at floor 200 — quiet, found in the same
+soft-light, time-doesn't-move space Rose rests in (11.4), continuing that bracket's deliberately non-combat,
+non-Sleeping-Beauty tone rather than treating floor 200 as just "the hardest catch."
+
 ## 14.6 Trees and Orchards
 Perennial placeables, distinct from the tilled seasonal-crop-rotation system — once planted and grown, they don't
 need replanting each season.
