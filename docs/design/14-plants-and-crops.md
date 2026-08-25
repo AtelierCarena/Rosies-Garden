@@ -182,38 +182,50 @@ economy logic as everything else:
 | Epic | 200-350g |
 | Legendary | 500g+ |
 
-### Fish
+### Fish — Expanded
 Ties to Silas's Fisherman role and the fishing Shared Activity (4.3). Freshwater-flavored given Silas is
-docks/riverside-based.
+docks/riverside-based. Expanded from 2 to **3 per season**, and each season now gets one Common-tier entry — the
+original list was Uncommon-and-up everywhere except Spring, leaving new/casual anglers with no easy catch outside
+one season. This fixes that gap while expanding.
 
 | Season | Fish | Rarity | Sell Price |
 |---|---|---|---|
 | Spring | Glassfin Minnow | Common | 25g |
 | Spring | Blushcarp | Uncommon | 60g |
+| Spring | Petalfin Guppy | Common | 20g |
 | Summer | Sunscale Bass | Uncommon | 70g |
 | Summer | Dragonfly Darter | Rare | 130g |
+| Summer | Lilyleap Frogfish | Common | 25g |
 | Fall | Ambertail Trout | Uncommon | 65g |
 | Fall | Mistfin Eel | Rare | 150g |
+| Fall | Coppergill Carp | Common | 25g |
 | Winter | Frostgill Pike | Rare | 160g |
 | Winter | Moonshadow Koi | Epic | 280g |
+| Winter | Glacierscale Smelt | Common | 20g |
 
 Open idea, not locked: a single Legendary-rarity fish (500g+, per the table above) tied to World Story/Rose lore
 rather than a generic "big rare fish" — worth revisiting once more of that track exists, rather than naming it now.
 
-### Bugs
+### Bugs — Expanded
 Likely uses: Wild/Beast feed/crafting reagents (Beau's shop), collection/gift items, possibly Arcane reagents
-(Leonair's shop).
+(Leonair's shop). Expanded from 2 to **3 per season**, filling rarity-curve gaps each season had (Spring was
+all-Common with no step up, Summer had no Rare, Fall and Winter each had a jump straight from Common/Uncommon to
+Rare/Epic with nothing in between).
 
 | Season | Bugs | Rarity | Sell Price |
 |---|---|---|---|
 | Spring | Petal Moth | Common | 20g |
 | Spring | Dewdrop Beetle | Common | 30g |
+| Spring | Blossom Weevil | Uncommon | 55g |
 | Summer | Emberwing Firefly | Uncommon | 55g |
 | Summer | Velvet Longhorn Beetle | Uncommon | 65g |
+| Summer | Sunspark Cicada | Rare | 125g |
 | Fall | Amber Cicada | Rare | 120g |
 | Fall | Rustwing Grasshopper | Common | 35g |
+| Fall | Thistledown Moth | Uncommon | 60g |
 | Winter | Frost Cricket | Uncommon | 60g |
 | Winter | Glasswing Moth | Epic | 250g |
+| Winter | Icevein Spider | Rare | 155g |
 
 ## 14.6 Trees and Orchards
 Perennial placeables, distinct from the tilled seasonal-crop-rotation system — once planted and grown, they don't

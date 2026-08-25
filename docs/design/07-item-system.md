@@ -103,6 +103,7 @@ rule:
 | Snapdragon Nibbles | 2x Snapdragons | 50g | Small Heart restore (pure-heal), decorative-edible dual sell | 75g |
 | Glazed Radish | 1x Radishes | 15g | Small Heart restore (pure-heal) | 25g |
 | Beet Chips | 2x Beets | 40g | Small Heart restore (pure-heal) | 60g |
+| Frogfish Skewer | 1x Lilyleap Frogfish | 25g | Small Heart restore (pure-heal) | 40g |
 
 ### Tier 1 — Simple Cooking Pot Recipes
 
@@ -115,6 +116,7 @@ rule:
 | Acorn Squash Bake | 2x Acorn Squash + 1x Yams | 70g | Medium Heart restore (pure-heal) | 125g |
 | Winter Cabbage Roll | 2x Winter Cabbage + 1x Parsnips | 55g | Medium Heart restore + cold-resist buff (Winter's second buff-meal alongside Pumpkin Harvest Soup) | 100g |
 | Pixie Cap Risotto | 2x Pixie Cap Mushroom + 1x Basil | 140g | Medium Heart restore + minor Arcane/mana buff (Leonair synergy) | 250g |
+| Smelt Chowder | 2x Glacierscale Smelt + 1x Winter Cabbage | 60g | Medium Heart restore + cold-resist buff (Winter's third buff-meal) | 110g |
 
 ### Tier 2+ — Chef's Range Recipes (Rare and up)
 
@@ -124,6 +126,7 @@ rule:
 | Nightshade Reduction | 2x Nightshade Berries + 1x Witch Hazel Bark | ~255g | Large Heart restore + temporary Attack buff, but a small chance (~15%) to inflict brief Poison status if eaten outside deliberate prep — a genuine risk/reward dish, not just flavor text, continuing the "beautiful but dangerous" thread from Nightshade Berries and Witch Hazel Bark (14.4) | 400g (Legendary) |
 | Blackthorn Bramble Tart | 2x Blackthorn Berries + 1x Amber Resin | ~220g | Large Heart restore + Attack buff — another "dangerous beauty" dish, without the poison-chance twist Nightshade Reduction carries | 350g (Epic) |
 | Widow's Lace Consommé | 2x Widow's Lace + 1x Hoarfrost Lichen | ~205g | Large Heart restore + cold-immunity — Winter's first Chef's Range dish, filling a gap the original recipe set left open | 320g (Epic) |
+| Koi Reflection Roll | 1x Moonshadow Koi + 1x Silverbell Sprigs | ~345g | Large Heart restore + Charm buff — a showcase dish built around Winter's Epic-tier fish | 500g (Legendary) |
 
 Nightshade Reduction is meant to read as a tactical pre-boss-fight dish rather than a casual snack — the poison
 chance rewards deliberate use (eating it in a safe moment before a fight) over reflexive spamming.
