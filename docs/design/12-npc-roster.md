@@ -670,3 +670,42 @@ utility Escorts (Silas, Adelaide, Leonair, Alistair, Percival, Mina, Sebastian, 
 or labor-adjacent Escorts (Barrow, Gideon, August, Beau) sit higher on HP, and none exceed Thorne or Cassian at
 their respective specialties.
 
+---
+
+## 13.4 Youth NPCs — New Category
+A gap flagged and closed in the same pass: the roster had no children or teens, despite the world's central
+premise (06-storyline-structure.md, 7.1) inviting representation of younger alters ("littles," "middles," and
+teens in DID terminology) alongside the adult-presenting cast that made up the whole roster until now.
+
+**Design intent — same standard as 13.1's, extended.** These are archetypal ages/personalities, not literal
+depictions of anyone real, written with the same dignity-first care already locked for the rest of the cast —
+whole, specific personalities rather than plot devices or stand-ins for "innocence." All Youth NPCs are
+non-dateable and unemployed by definition (no shop role, no functional system tie), existing purely as background/
+presence — the same "keeps the space from being lonely" reasoning already established for some of 13.1.
+
+Two family structures, for variety: three biological siblings, and two children adopted by Thaddeus and Genevieve
+(12-npc-roster.md, 13.1) — giving the Founders a living connection to the town's next generation, and showing
+found-family alongside biological family rather than only one model.
+
+### The Birchwood Siblings
+
+| Name | Age Band | Species | Personality | Visual Notes |
+|---|---|---|---|---|
+| Poppy Birchwood | Little (~5) | Animal-hybrid (kitten ears/tail) | Gentle, shy, speaks in short simple sentences; collects flowers and small treasures | Round-cheeked, soft oversized clothes, a flower usually tucked behind one ear |
+| Fennick Birchwood | Middle (~9) | Human | Energetic, curious, plays "adventurer" around town; protective of Poppy in a bossy-older-sibling way | Scraped knees, a stick "sword," hair that never stays combed |
+| Marlow Birchwood | Teen (~16) | Fairy | Broody-but-caring, into music, sneaks off to listen to Alistair play; complicated feelings about growing up | Deliberately mussed hair, oversized borrowed jacket, always has earbuds-equivalent (a charmed listening shell) in |
+
+Their parents are intentionally left as unnamed background figures for now — the kids are the point, not a fully
+fleshed-out parent couple; the Birchwood surname exists so the siblings read as a real family unit.
+
+### Thaddeus and Genevieve's Adopted Children
+
+| Name | Age Band | Species | Personality | Visual Notes |
+|---|---|---|---|---|
+| Cricket | Middle (~10) | Orc | Cheerful despite a naturally gruff Orc look — continues the dignity-first Orc throughline (Barrow, Cassian, Gideon, Thorne); loves helping Thaddeus with small chores, chatty | Round-faced, patched hand-me-down clothes, always slightly dusty from helping out |
+| Hollis | Teen (~15) | Animal-hybrid (owl features) | Quiet and watchful like Thaddeus, reads constantly, close to Genevieve through her storytelling | Big round glasses, a stack of books never far away, soft grey-toned coloring |
+
+All five carry the standard Nature (spoiler field) — Literal Alter / Ambient Figure / TBD — decided per-child like
+the rest of the roster, never player-facing. None are assigned yet; that decision is deferred to whenever the
+World Story track is developed further, consistent with how the rest of the cast's Nature fields were handled.
+
