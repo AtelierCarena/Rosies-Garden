@@ -47,7 +47,7 @@ justification):
 | Hollowtail Opossum | An opossum, tying into the world's "hollow" imagery (Her Hollow) | Forest/Hills | Tier 1 | "Plays dead" — feigns death to avoid one hit per encounter |
 | Marsh Newt | A wetland newt | Hidden Forest wetlands | Tier 2 | Alchemy-crossover utility, minor reagent-sniffing |
 | Duskfox | A fox touched by dusk-toned magic | Hidden Forest | Tier 2 | Stealth-flavored, moderate combat |
-| Duskscale Serpent | A serpent with metallic dusk-toned scales, matching the Duskmetal/Ashenshale naming pattern | Hidden Forest/Bay wetlands | Tier 3 | Poison/status-infliction combat utility |
+| Duskscale Serpent | A serpent with metallic dusk-toned scales, matching the Duskmetal/Ashquartz naming pattern | Hidden Forest/Bay wetlands | Tier 3 | Poison/status-infliction combat utility |
 | Mossback Tortoise | A tortoise with a living moss shell | Hidden Forest | Tier 3 | Tanky/defensive, slow |
 | Frostkit | A fox/wolf pup touched by winter magic | Hills, Winter only | Tier 3 | Cold-resist aura for the player |
 | Glimmerstag Fawn | A young stag with faintly glimmering antlers | Forest, Rare spawn | Tier 4 | Speed/Stamina buff, majestic non-combat prestige pet |

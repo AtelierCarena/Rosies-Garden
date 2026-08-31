@@ -34,7 +34,7 @@ percentages used elsewhere, with no separate rarity-gate component:
 | Ore Tier | Axe Tier | Chop Speed/Yield Bonus |
 |---|---|---|
 | 1 (Rosevein) | Crude | — (baseline) |
-| 2 (Ashenshale) | Tier 2 | +10% |
+| 2 (Ashquartz) | Tier 2 | +10% |
 | 3 (Duskmetal) | Tier 3 | +20% |
 | 4 (Moonsilver) | Tier 4 | +30% |
 | 5 (Thornsteel) | Tier 5 | +40% |
@@ -51,14 +51,15 @@ Barrow's role (12-npc-roster.md) and Forge recipes (3.7).
 | Tier | Ore | Notes | Sell Price | Base Durability |
 |---|---|---|---|---|
 | 1 | Rosevein Ore | Common, near-surface Quarry ore — starting-tier | 15g | 50 |
-| 2 | Ashenshale Ore | Denser, standard mid-tier | 40g | 100 |
+| 2 | Ashquartz Ore | Denser, standard mid-tier — veined with pale grey crystal, faintly glassy where it fractures | 40g | 100 |
 | 3 | Duskmetal Ore | Rarer, subtle blue-black sheen, found deeper | 90g | 180 |
 | 4 | Moonsilver Ore | Rare, faintly glowing pale ore — plausible Arcane/enchanting crossover material | 200g | 300 |
 | 5 | Thornsteel Ore | Rarest, found only at the dungeon's deepest brackets — top-tier weapon/armor material, echoing the thorn motif already running through the world (Thorne, the dungeon bracket names, etc.) | 450g | 500 |
 
 **Rosevein** ties into the Rose Garden imagery already anchoring the dungeon's first bracket (10-dungeons-and-risk.md,
-11.2); **Ashenshale** carries the same faint decay/weathering thread running through the wood species (Ashgrove) and
-the dungeon's ash-and-rot tone, without literally reusing that name.
+11.2); **Ashquartz** shifts to a crystal identity — a pale, ash-grey mineral fractured through with glassy quartz
+veins — while keeping a faint echo of the same weathered, muted-grey palette already running through the wood
+species (Ashgrove), without literally reusing that name.
 
 **Quarry spawn rule — Locked:** the Quarry only spawns ore tiers the player has already discovered inside the
 dungeon. Each tier must first be found on a dungeon mining node before the Quarry starts spawning it too, at a
@@ -83,7 +84,7 @@ at it.
 | Ore Tier | Tool Tier | Max Catchable Rarity / Tameable Wildness | Catch-Chance Bonus |
 |---|---|---|---|
 | 1 (Rosevein) | Crude | Common | — (baseline) |
-| 2 (Ashenshale) | Tier 2 | Uncommon | +10% |
+| 2 (Ashquartz) | Tier 2 | Uncommon | +10% |
 | 3 (Duskmetal) | Tier 3 | Rare | +20% |
 | 4 (Moonsilver) | Tier 4 | Epic | +30% |
 | 5 (Thornsteel) | Tier 5 | Legendary | +40% |
