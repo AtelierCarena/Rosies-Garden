@@ -157,12 +157,12 @@ Favorited items and abilities — Weapons, Tools (Rod/Net/Trap/Axe/Pickaxe/Hoe/W
 | Attack / Use equipped Favorite | X |
 | Secondary action (charge/aim/block — class-dependent) | Y (hold) |
 | Interact / Talk / Pick up | A |
-| Dodge/Roll | B |
+| Dodge / Roll / Block (unified — see 10.8) | B |
 | Cycle Favorited items/abilities | D-Pad Left/Right |
 | Quick Map | D-Pad Up |
 | Companion command (call/dismiss/target-swap) | D-Pad Down |
 | Swap hot/cold Bracelet (Charm-user only, 10.6) / context quick-action (other classes) | RB |
-| Cycle Charms on the active Bracelet (Charm-user only) / guard-block (other classes) | LB |
+| Cycle Charms on the active Bracelet (Charm-user only) | LB |
 | Sprint | Left Stick Click (L3) |
 | Open Menu UI (Start/Pause/Save/Journal/Skill Trees/Inventory/Stats/Map — cycle tabs with RB/LB once open) | Menu button (Start/Options side) |
 
@@ -174,7 +174,7 @@ Favorited items and abilities — Weapons, Tools (Rod/Net/Trap/Axe/Pickaxe/Hoe/W
 | Attack / Use equipped Favorite | Left Mouse |
 | Secondary action | Right Mouse (hold) |
 | Interact / Talk / Pick up | E |
-| Dodge/Roll | Space |
+| Dodge / Roll / Block (unified — see 10.8) | Space |
 | Cycle Favorited items/abilities | Q/E-adjacent bracket keys or Mouse Wheel |
 | Quick Map | M |
 | Companion command | C |
@@ -185,3 +185,48 @@ Favorited items and abilities — Weapons, Tools (Rod/Net/Trap/Axe/Pickaxe/Hoe/W
 
 Only the Menu UI pauses/slows the game — Favorites cycling, Charm cycling, and Bracelet Swap all work in
 real-time, mid-encounter.
+
+## 10.8 Combat Feel — Locked
+Core rule across all of 10.8: this is a cozy-adventure game with combat layered in, not a fighting game — timing
+rewards skill without demanding execution-heavy inputs.
+
+**Attack Timing & Combos.** Repeated presses of the Attack input (X / Left Mouse) auto-chain on rhythm, not
+input-precise strings:
+- Most classes: **light-light-heavy** 3-hit auto-escalating chain.
+- Heavy/slow classes (Melee, Alchemist): **2-hit chain**, bigger per-hit payoff, longer recovery.
+- Fast classes (Dual Daggers, Boxer, Whip): **4-hit chain**, smaller per-hit damage, minimal recovery.
+- Ranged/cast classes (Ranger, Mage, Charm-user, Bomber): no melee-style chain — Attack fires/casts on a fixed
+  per-shot/per-cast cooldown instead.
+- Secondary action (Y, hold) is the one class-specific special per class — charge-shot (Ranger), spell-cast
+  (Mage), potion-throw (Alchemist), bomb-arm-and-lob (Bomber), Charm-cast (Charm-user), tether/grapple-pull
+  (Whip), taunt/counter-stance (Boxer), etc. Full per-class detail is future work.
+
+**B — Dodge / Roll / Block, unified gesture button — Locked.** One button, three outcomes depending on how it's
+pressed, chosen so Block sits with Dodge/Roll rather than occupying a Secondary-action slot:
+- **Tap B alone (no stick input):** Block — a timed guard stance, reduces incoming damage sharply (~70%) while
+  held, with a short cooldown after release so it can't be held indefinitely. A **Perfect Block** window (roughly
+  the first 0.15s of the block) fully negates damage and briefly staggers the attacker.
+- **Press B + quick stick flick (left/right/back):** Dodge — a short, quick burst in that direction. Iframes cover
+  the flick's motion window (~0.2s). Minimal cooldown — meant for reactive spacing.
+- **Hold B + hold Left Stick direction:** Roll — a longer, committed movement in that direction. Iframes cover
+  roughly the middle 60% of the roll's animation. Slightly longer cooldown than Dodge — meant for repositioning,
+  closing distance, or escaping.
+- Dodge and Roll draw from one shared stamina/charge-style resource pool so neither can be spammed infinitely;
+  exact numbers are tuning work, not locked here.
+
+**Aiming — Lock-on vs. Free-aim.**
+- **Melee/physical classes** (Melee, Swordsperson, Dual Daggers, Whip, Boxer): soft lock-on — attacks auto-favor
+  the nearest enemy within an attack arc, no manual targeting required.
+- **Ranged/precision classes** (Ranger, Mage, Bomber, Charm-user): free-aim via right stick, with an optional
+  lock-on toggle (accessibility option) that snaps to the nearest target.
+- **Summoner and Alchemist:** hybrid — their own direct attacks (if any) use soft lock-on, but ability/summon
+  placement uses a free-aim reticle.
+
+**Companion AI Targeting — scoped to combat-capable Companions only.** Not every Companion fights — several Tamed
+and NPC-Granted Companions are utility-only (e.g. Velvet Wisp's auto-loot, Mosscap Toad's Alchemy-reagent role,
+04-companions.md 5.1) and simply follow/assist per their own role, no combat AI needed. For Companions that do
+fight:
+- Default behavior is **auto-engage** whatever the player is currently fighting.
+- D-Pad Down cycles **stance**, not manual per-target selection: **Aggressive** (engage freely) → **Defensive**
+  (stay near player, only fight what gets close) → **Passive** (non-combat, follow only) — kept simple, no
+  target-micromanagement required.
