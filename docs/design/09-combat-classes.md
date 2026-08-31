@@ -289,7 +289,7 @@ The Secondary action (Y, hold — 10.7) is one class-specific special per class,
 | Ranger | **Charged Shot** — hold to draw a stronger arrow, higher damage/pierce the longer it's held, capped at a max draw |
 | Mage | **Elemental Cast** — hold to charge a stronger elemental bolt/AoE, element tied to whatever's socketed/selected |
 | Dual Daggers | **Flurry Dash** — a quick multi-hit dash-strike through/past the target, repositions behind them |
-| Summoner | **Bind Servant** — commands the active Companion into a single powerful coordinated attack. **Fallback (Locked):** if no Companion is currently summoned, Y instead attacks/uses whatever item is equipped in the current Favorite slot — and if nothing is equipped, a bare-handed melee strike, so the input is never dead. |
+| Summoner | **Bind Servant** — commands the active Companion into a single powerful coordinated attack. **Fallback (Locked):** if no Companion is currently summoned, Y instead casts whatever Spell/Charm is currently selected on the equipped Summoning Book — never a bare-handed strike, since a Summoner throwing hands would break the class fantasy. The equipped Book always has a default basic spell/charm available even with no other selection made, so the input is never dead. |
 | Whip | **Tether Pull** — hooks a target or object and yanks it toward the player, or pulls the player toward it if the target is immovable |
 | Charm-user | **Charm Cast** — casts whichever Charm is currently selected on the hot Bracelet (10.6) |
 | Alchemist | **Brew Toss** — throws whatever potion/oil is currently selected, applying its buff/debuff on impact or to self |
