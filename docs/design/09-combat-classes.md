@@ -230,3 +230,50 @@ fight:
 - D-Pad Down cycles **stance**, not manual per-target selection: **Aggressive** (engage freely) → **Defensive**
   (stay near player, only fight what gets close) → **Passive** (non-combat, follow only) — kept simple, no
   target-micromanagement required.
+
+## 10.9 Main Weapon List — Locked (Dual Daggers & Whip Pending)
+Plain ore-tier scaling per class (Track 1) — one weapon name per class per tier, same 5-tier Ore ladder as every
+other tool (16-resources-and-materials.md, 16.2), no unlock gimmicks. Distinct from Track 2 (Bonus/Secret Weapons
+& Spells via dungeon-depth/NPC-interaction/kill-count/easter-eggs), which is future work.
+
+**Naming principle — Locked.** Rather than literally prefixing every tier with its ore name (Rosevein/Ashquartz/
+Duskmetal/Moonsilver/Thornsteel), each class draws from a themed synonym bucket per tier so the vocabulary stays
+varied across all 11 classes while still reading as that tier's material: Rosevein → Garden/Bramble/Petal/Ivy/
+Thistle/Rosevein; Ashquartz → Ashen/Crystal/Glass/Quartz; Duskmetal → Twilight/Umbral/Velvet/Gloom/Nocturne;
+Moonsilver → Silvered/Argent/Lunar/Moon; Thornsteel → Thorn/Briar/Bramblesteel. Just as important: the **weapon-
+type word itself** escalates in weight/grandeur tier to tier (e.g. Mallet→Mace→Sledge→Greatmaul→Warhammer), not
+just the material adjective — a synonym is not interchangeable with any other synonym regardless of tier; context
+and connotation decide which word belongs at which power level.
+
+| Class | Tier 1 (Rosevein) | Tier 2 (Ashquartz) | Tier 3 (Duskmetal) | Tier 4 (Moonsilver) | Tier 5 (Thornsteel) |
+|---|---|---|---|---|---|
+| Melee | Garden Mallet | Ashen Mace | Umbral Sledge | Moonfall Greatmaul | Bramblesteel Warhammer |
+| Swordsperson | Petalthorn Rapier | Crystal Sabre | Umbral Longsword | Argent Broadsword | Thornbound Claymore |
+| Ranger | Bramble Sling | Glassfeather Shortbow | Nightfeather Recurve | Silvered Longbow | Thornbriar Warbow |
+| Mage | Rosevein Wand | Crystal Rod | Twilight Cane | Argent Staff | Thornspire Scepter |
+| Dual Daggers *(pending)* | Ivybrier Twinblades | Glasscut Knives | Velvetbite Daggers | Silvered Blades | Thornkiss Twinfangs |
+| Summoner | Bramblebound Scroll | Ashbound Tome | Twilight Arcanum | Lunar Apocrypha | Thornbound Grimoire |
+| Whip *(pending)* | Bramblevine Whip | Ashen Chain Lash | Twilight Switch | Moonlash Cord | Thornribbon Whip |
+| Charm-user | Posybloom Bracelet | Quartzchime Bracelet | Duskwhisper Bracelet | Moonspell Bracelet | Thornbound Bracelet |
+| Alchemist | Posytonic Vials | Quartzbrew Satchel | Gloomdraught Belt | Silvered Elixir Flask-set | Thornbloom Tincture Kit |
+| Bomber | Cinderpetal Pouch | Quartzspark Satchel | Cindergloam Bandolier | Silverflare Kit | Thornburst Arsenal |
+| Boxer | Rosevein Wraps | Glassknuckle Gloves | Nocturne Guards | Silveredge Gauntlets | Thornclad Warguards |
+
+**Per-column escalation logic — Locked:**
+- **Melee:** Mallet (hand tool) → Mace (dedicated one-handed weapon) → Sledge (two-handed) → Greatmaul (massive,
+  ceremonial-scale) → Warhammer (purpose-built battlefield weapon).
+- **Swordsperson:** Rapier (light, dueling) → Sabre (curved, cavalry-grade) → Longsword (two-handed, serious) →
+  Broadsword (heavier blade) → Claymore (the largest, most legendary sword form).
+- **Summoner:** Scroll (loose parchment, barest form) → Tome (bound book) → Arcanum (specialized magical
+  knowledge) → Apocrypha (hidden/forbidden texts) → Grimoire (the witch's book — the form everything else builds
+  toward, deliberately ranked above Codex/Folio/Primer, which don't carry the same weight).
+- **Alchemist:** Vials (loose, bare-minimum) → Satchel (a proper bag of reagents) → Belt (worn, organized) →
+  Flask-set (a full curated array) → Tincture Kit (complete apothecary mastery).
+- **Bomber:** Pouch (small, basic) → Satchel (bigger capacity) → Bandolier (worn, battle-ready) → Kit (full
+  toolkit) → Arsenal (the whole armory).
+- **Boxer:** Wraps (bare-handed basics) → Gloves (light gear) → Guards (added plating) → Gauntlets (full armored
+  coverage) → Warguards (combat-forged, heaviest/most protective — not "Fists," which reads as the *weakest*
+  form, not the strongest).
+
+**Pending — not yet locked:** Dual Daggers (awaiting further research into knife/blade terminology) and Whip
+(awaiting a fresh pass). Current table entries are placeholders carried over from the prior draft.
