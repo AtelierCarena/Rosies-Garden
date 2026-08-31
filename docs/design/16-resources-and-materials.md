@@ -26,6 +26,23 @@ All seven are gathered the same way and are equally available — there's no rar
 Which tree is found where is a geography/flavor question, not a progression one. Sell price is flat and identical
 across all seven, reinforcing that none is "better" than another — the choice is purely aesthetic.
 
+**Axe tier-gating — Locked.** The Axe follows the same 5-tier Ore ladder as every other tool (16.2), but since
+wood itself has no rarity tiers to gate (there's no "max harvestable wood tier" the way Rod/Net/Pickaxe gate max
+catchable rarity), a higher Axe tier instead grants a pure **chop-speed/yield bonus** — the same escalating
+percentages used elsewhere, with no separate rarity-gate component:
+
+| Ore Tier | Axe Tier | Chop Speed/Yield Bonus |
+|---|---|---|
+| 1 (Rosevein) | Crude | — (baseline) |
+| 2 (Ashenshale) | Tier 2 | +10% |
+| 3 (Duskmetal) | Tier 3 | +20% |
+| 4 (Moonsilver) | Tier 4 | +30% |
+| 5 (Thornsteel) | Tier 5 | +40% |
+
+Unlike Rod/Net/Trap, a Crude Axe can still chop any of the seven wood species from the very start — the Axe's
+tier ladder is purely about speed/yield, never about access, consistent with 16.1's "none is better than another"
+rule for wood itself.
+
 ## 16.2 Ore — 5 Tiers, Escalating Power — Locked
 Unlike wood, ore genuinely gets stronger with each tier — this is what feeds the Durability rule for Tools and
 Weapons/Armor (07-item-system.md, 8.2). Sourced from the Quarry (15.1) and mining nodes inside the dungeon. Ties to
