@@ -14,6 +14,13 @@ exists so open threads don't get lost.
   02-skill-trees.md 3.8) — deciding between a Community-Center-style bundle/turn-in system vs. an Animal Crossing-
   style passive achievement/milestone system. Not blocking; the base (expensive, no discount) prices stand until
   this is resolved.
+- Dual Daggers and Whip's Main Weapon List entries (09-combat-classes.md, 10.9) — both explicitly flagged pending
+  further rework, current table entries are placeholders.
+- Per-ability effect descriptions and final naming/stylization pass for the Class Abilities example pool
+  (09-combat-classes.md, 10.11) — the framework and starting name list are locked, but individual effects and
+  names are expected to be retouched once each class gets a dedicated pass.
+- Track 2: Bonus/Secret Weapons & Spells (dungeon-depth/NPC-interaction/kill-count/easter-egg unlocks) — not yet
+  started, explicitly deferred until the Main Weapon List (Track 1) is finished.
 
 **Resolved:**
 - Which of Rose's five figures (Gardener, Child, Florist, Wolf, Snake) are purely symbolic vs. tied to real NPC

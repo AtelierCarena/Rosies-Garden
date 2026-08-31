@@ -300,3 +300,37 @@ Swordsperson's Riposte Stance and Boxer's Counter Stance are intentionally simil
 defense" classes that punish a hit taken), but differ in trigger: Riposte requires a timed parry window, Counter
 Stance triggers off any hit taken while stanced — keeping their in-practice feel distinct despite the shared
 archetype.
+
+## 10.11 Class Abilities — Locked Framework, Example List Flagged for Retouching
+Every class has its own pool of **Class Abilities** — unlockable techniques beyond the fixed Y Secondary Special
+(10.10) — not just the Summoner's Default Spell/Charm fallback that originally surfaced this need.
+
+**Framework — Locked:**
+- Class Abilities are unlocked via Skill Tree investment or level milestones, reusing the existing skill-tree
+  unlock pattern (Section 3) rather than a separate system.
+- Once unlocked, an Ability is **assigned to a Favorite slot** (10.7's Favorites ring) and used like any other
+  Favorite — this is how the player "sets" one, including the Summoner's configurable Default (10.10).
+- Every class starts with **one Default Ability already unlocked**, so there's always something usable from level
+  1 before the player has unlocked or chosen anything else.
+- The Y Secondary Special stays each class's fixed, always-available signature move — Class Abilities are the
+  broader, expandable layer around it, not a replacement.
+
+**Example ability pool per class — draft, flagged for future retouching/stylization.** Names and effects below are
+a starting taste of the system, not final; expect renaming and rebalancing once each class gets a dedicated pass:
+
+| Class | Sample Abilities |
+|---|---|
+| Melee | Groundsplit, Bramblegrip, Warden's Wrath, Ironroot Stomp, Last Bloom |
+| Swordsperson | Fencer's Grace, Widow's Feint, Duelist's Requiem, Mourning Guard, Rosecut |
+| Ranger | Thornmark, Ravenflight Volley, Widowline, Huntress's Eye, Briarfall |
+| Mage | Nightbloom Cinder, Frostveil, Stormglass Requiem, Witchlight, Hollow Bloom |
+| Dual Daggers | Silkstep, Widow's Kiss, Twilight Waltz, Velvet Cutthroat, Moth to Flame |
+| Summoner | Beckon, Binding Sigil, Court of Thorns, Wilted Bond, Grand Summons |
+| Whip | Snare, Lash Reversal, Bramble Chain, Coilstrike, Garden's Grasp |
+| Charm-user | Quick Charm, Charmweave, Bloomburst, Trinket Toss, Lucky Posy |
+| Alchemist | Splash Tonic, Caustic Bloom, Elixir Surge, Bitter Draught, Mourner's Balm |
+| Bomber | Petal Fuse, Cinderchain, Bloomstorm, Duds & Daisies, Widow's Finale |
+| Boxer | Featherstep, Widow's Hook, Iron Bloom Combo, Roseknuckle Jab, Last Waltz |
+
+Per-ability effect descriptions exist in chat design history but are not transcribed here yet — flagged as future
+work alongside the naming pass (11-parking-lot.md).
