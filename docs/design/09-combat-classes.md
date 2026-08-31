@@ -97,3 +97,89 @@ Cosmetic items are fully unrestricted across Combat Classes, matching the gender
 earned later via shops, relationships, events, or achievements (8.4) — can be worn by any class. There's no
 mechanical reason to gate purely aesthetic items (8.3 — cosmetics never need power-balancing), and restricting them
 by class would just be one more rule for players to track for no gameplay payoff.
+
+## 10.6 Charm-user — Dual Bracelet Mechanic — Locked
+Charm-user is unique among the 11 classes: casting draws from **collectible and craftable Charms** slotted into a
+**Charm Bracelet**, rather than a single fixed weapon. The Bracelet follows the same 5-tier Ore progression as
+every other weapon (16-resources-and-materials.md, 16.2), but tier increases **Charm Slot count** instead of raw
+stats:
+
+| Tier | Bracelet | Charm Slots |
+|---|---|---|
+| 1 | Posybloom Bracelet | 2 |
+| 2 | Quartzchime Bracelet | 3 |
+| 3 | Duskwhisper Bracelet | 4 |
+| 4 | Moonspell Bracelet | 5 |
+| 5 | Thornbound Bracelet | 6 |
+
+**Dual Bracelet, single hot loadout — Locked.** When Charm-user is the equipped main weapon, the player wears
+**2 Bracelets simultaneously**, but only **one Bracelet's Charms are "hot"/castable** at a time — this keeps
+per-tier active loadout size equal to every other class at that tier, so the dual-bracelet identity doesn't break
+stat parity. A **Bracelet Swap** (10.7) flips which Bracelet is hot mid-combat, turning the second Bracelet into a
+tactical loadout-switch rather than a flat power advantage. When any other class is equipped as the main weapon,
+the player instead carries a **single Bracelet** as a secondary-utility slot, with no swap mechanic (nothing to
+swap between).
+
+**Example Charms** (craftable from established world materials, mixing plant/rare-item ingredients per the
+existing crafting pattern):
+
+| Charm | Recipe | Spell Effect |
+|---|---|---|
+| Foxglove Charm | Foxglove + Rosevein Ore | Minor poison-damage spell |
+| Firefly Charm | Firefly Nectar + Ashquartz Ore | Reveal/light burst — briefly lights an area, reveals hidden things |
+| Moonpetal Charm | Moonpetal Iris + Duskmetal Ore | Short-range teleport/blink |
+| Widow's Charm | Widow's Lace + Moonsilver Ore | Evasion/stealth cloak, brief duration |
+| Nightshade Charm | Nightshade Berries + Thornsteel Ore | Strong poison-damage spell, higher risk/cost |
+
+Charm library is a starting set, not exhaustive — expanding into healing, buffs, and crowd-control Charms (not just
+damage/utility) is flagged as future work (11-parking-lot.md).
+
+## 10.7 Controls & Input Mapping — Locked
+Core design goals: keep button count low (this is a cozy game with combat layered in, not a fighting game), make
+weapon/tool swapping instant since farming/fishing/dungeon-diving interleave constantly, and let keyboard and
+controller each feel native rather than a 1:1 port of the other.
+
+**Unified Hotbar — Locked.** Weapons and Tools are not two separate systems — they're different item types
+occupying the same hotbar ring (Sword, Rod, Axe, Pickaxe, Bait, potion, etc., in whatever order the player
+arranges them), cycled with one input.
+
+**Controller (Xbox-layout reference; Switch/PS equivalents mirror by position):**
+
+| Action | Input |
+|---|---|
+| Move | Left Stick |
+| Attack / Use equipped hotbar item | X |
+| Secondary action (charge/aim/block — class-dependent) | Y (hold) |
+| Interact / Talk / Pick up | A |
+| Dodge/Roll | B |
+| Cycle Hotbar (Weapons + Tools together) | RB |
+| Cycle Charms on the active Bracelet (Charm-user only) | LB |
+| Swap hot/cold Bracelet (Charm-user only, 10.6) | Right Stick Click (R3) |
+| Sprint | Left Stick Click (L3) |
+| Open full Inventory | Held D-Pad direction or menu-side button |
+| Open Skill Trees | Menu button (Start/Options side) |
+| Open Map | D-Pad Up |
+| Companion command (call/dismiss/target-swap) | D-Pad Down |
+| Menu / Pause | Start/Options |
+
+**Keyboard + Mouse:**
+
+| Action | Input |
+|---|---|
+| Move | WASD |
+| Attack / Use equipped hotbar item | Left Mouse |
+| Secondary action | Right Mouse (hold) |
+| Interact / Talk / Pick up | E |
+| Dodge/Roll | Space |
+| Cycle Hotbar (Weapons + Tools together) | Q / Mouse Wheel, or 1-6 for direct-select |
+| Cycle Charms on the active Bracelet (Charm-user only) | R |
+| Swap hot/cold Bracelet (Charm-user only, 10.6) | F |
+| Sprint (hold) | Shift |
+| Open full Inventory | Tab |
+| Open Skill Trees | K |
+| Open Map | M |
+| Companion command | C |
+| Menu / Pause | Esc |
+
+Only the full Inventory screen pauses/slows the game — hotbar cycling, Charm cycling, and Bracelet Swap all work
+in real-time, mid-encounter.
