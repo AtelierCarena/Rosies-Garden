@@ -277,3 +277,26 @@ and connotation decide which word belongs at which power level.
 
 **Pending — not yet locked:** Dual Daggers (awaiting further research into knife/blade terminology) and Whip
 (awaiting a fresh pass). Current table entries are placeholders carried over from the prior draft.
+
+## 10.10 Y Secondary Specials — Locked
+The Secondary action (Y, hold — 10.7) is one class-specific special per class, distinct from the Attack chain
+(10.8):
+
+| Class | Y Special |
+|---|---|
+| Melee | **Braced Slam** — heavy charge-up overhead strike, knocks down/staggers on hit, vulnerable while charging |
+| Swordsperson | **Riposte Stance** — brief parry-ready stance; a well-timed hit taken during it triggers an automatic counter-strike |
+| Ranger | **Charged Shot** — hold to draw a stronger arrow, higher damage/pierce the longer it's held, capped at a max draw |
+| Mage | **Elemental Cast** — hold to charge a stronger elemental bolt/AoE, element tied to whatever's socketed/selected |
+| Dual Daggers | **Flurry Dash** — a quick multi-hit dash-strike through/past the target, repositions behind them |
+| Summoner | **Bind Servant** — commands the active Companion into a single powerful coordinated attack. **Fallback (Locked):** if no Companion is currently summoned, Y instead attacks/uses whatever item is equipped in the current Favorite slot — and if nothing is equipped, a bare-handed melee strike, so the input is never dead. |
+| Whip | **Tether Pull** — hooks a target or object and yanks it toward the player, or pulls the player toward it if the target is immovable |
+| Charm-user | **Charm Cast** — casts whichever Charm is currently selected on the hot Bracelet (10.6) |
+| Alchemist | **Brew Toss** — throws whatever potion/oil is currently selected, applying its buff/debuff on impact or to self |
+| Bomber | **Arm & Lob** — arms a bomb during the hold; throw arc/fuse timing controlled by hold duration |
+| Boxer | **Counter Stance** — a taunting guard stance; taking a hit while stanced triggers an automatic retaliatory strike |
+
+Swordsperson's Riposte Stance and Boxer's Counter Stance are intentionally similar in concept (both are "skilled
+defense" classes that punish a hit taken), but differ in trigger: Riposte requires a timed parry window, Counter
+Stance triggers off any hit taken while stanced — keeping their in-practice feel distinct despite the shared
+archetype.
