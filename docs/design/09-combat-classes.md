@@ -136,50 +136,52 @@ damage/utility) is flagged as future work (11-parking-lot.md).
 
 ## 10.7 Controls & Input Mapping — Locked
 Core design goals: keep button count low (this is a cozy game with combat layered in, not a fighting game), make
-weapon/tool swapping instant since farming/fishing/dungeon-diving interleave constantly, and let keyboard and
-controller each feel native rather than a 1:1 port of the other.
+weapon/tool/ability swapping instant since farming/fishing/dungeon-diving interleave constantly, and let keyboard
+and controller each feel native rather than a 1:1 port of the other.
 
-**Unified Hotbar — Locked.** Weapons and Tools are not two separate systems — they're different item types
-occupying the same hotbar ring (Sword, Rod, Axe, Pickaxe, Bait, potion, etc., in whatever order the player
-arranges them), cycled with one input.
+**Unified Menu UI — Locked.** A single Menu screen (opened via the Menu button) holds every non-real-time system as
+tabs cycled with RB/LB: Start, Pause, Save, **Journal** (unlocked Memory Notes/lore, 06-storyline-structure.md 7.3;
+friendship & relationship tracking, 03-npc-relationships.md; discovered recipes, plants, ores, bugs, animals,
+mobs), **Skill Trees** (Section 3), **Full Inventory**, **Stats**, and **Map**. This is the only screen that
+pauses the game — everything below stays real-time.
+
+**Favorites cycling — Locked.** In-game (Menu UI closed), D-Pad Left/Right cycles a player-arranged ring of
+Favorited items and abilities — Weapons, Tools (Rod/Net/Trap/Axe/Pickaxe/Hoe/Watering Can), consumables
+(Bait/potions), and equipped Charms all live in the same ring rather than separate systems, cycled with one input.
 
 **Controller (Xbox-layout reference; Switch/PS equivalents mirror by position):**
 
 | Action | Input |
 |---|---|
 | Move | Left Stick |
-| Attack / Use equipped hotbar item | X |
+| Attack / Use equipped Favorite | X |
 | Secondary action (charge/aim/block — class-dependent) | Y (hold) |
 | Interact / Talk / Pick up | A |
 | Dodge/Roll | B |
-| Cycle Hotbar (Weapons + Tools together) | RB |
-| Cycle Charms on the active Bracelet (Charm-user only) | LB |
-| Swap hot/cold Bracelet (Charm-user only, 10.6) | Right Stick Click (R3) |
-| Sprint | Left Stick Click (L3) |
-| Open full Inventory | Held D-Pad direction or menu-side button |
-| Open Skill Trees | Menu button (Start/Options side) |
-| Open Map | D-Pad Up |
+| Cycle Favorited items/abilities | D-Pad Left/Right |
+| Quick Map | D-Pad Up |
 | Companion command (call/dismiss/target-swap) | D-Pad Down |
-| Menu / Pause | Start/Options |
+| Swap hot/cold Bracelet (Charm-user only, 10.6) / context quick-action (other classes) | RB |
+| Cycle Charms on the active Bracelet (Charm-user only) / guard-block (other classes) | LB |
+| Sprint | Left Stick Click (L3) |
+| Open Menu UI (Start/Pause/Save/Journal/Skill Trees/Inventory/Stats/Map — cycle tabs with RB/LB once open) | Menu button (Start/Options side) |
 
 **Keyboard + Mouse:**
 
 | Action | Input |
 |---|---|
 | Move | WASD |
-| Attack / Use equipped hotbar item | Left Mouse |
+| Attack / Use equipped Favorite | Left Mouse |
 | Secondary action | Right Mouse (hold) |
 | Interact / Talk / Pick up | E |
 | Dodge/Roll | Space |
-| Cycle Hotbar (Weapons + Tools together) | Q / Mouse Wheel, or 1-6 for direct-select |
-| Cycle Charms on the active Bracelet (Charm-user only) | R |
-| Swap hot/cold Bracelet (Charm-user only, 10.6) | F |
-| Sprint (hold) | Shift |
-| Open full Inventory | Tab |
-| Open Skill Trees | K |
-| Open Map | M |
+| Cycle Favorited items/abilities | Q/E-adjacent bracket keys or Mouse Wheel |
+| Quick Map | M |
 | Companion command | C |
-| Menu / Pause | Esc |
+| Swap hot/cold Bracelet (Charm-user only, 10.6) | F |
+| Cycle Charms on the active Bracelet (Charm-user only) | R |
+| Sprint (hold) | Shift |
+| Open Menu UI (tab-cycle with Q/E once open) | Tab or Esc |
 
-Only the full Inventory screen pauses/slows the game — hotbar cycling, Charm cycling, and Bracelet Swap all work
-in real-time, mid-encounter.
+Only the Menu UI pauses/slows the game — Favorites cycling, Charm cycling, and Bracelet Swap all work in
+real-time, mid-encounter.
